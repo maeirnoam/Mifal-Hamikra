@@ -1,0 +1,7611 @@
+[
+  {
+    "entry": "1 עזיה] 30 עזיהו",
+    "chapter": "1",
+    "verse": "1",
+    "lemma": "עזיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עזיהו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יחזקיה] 30 93 (pm) 96 יחזקיהו",
+    "chapter": "1",
+    "verse": "1",
+    "lemma": "יחזקיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יחזקיהו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ירבעם בן] 30 + נבט (non voc)",
+    "chapter": "1",
+    "verse": "1",
+    "lemma": "ירבעם, בן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "נבט ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))",
+    "chapter": "1",
+    "verse": "2",
+    "lemma": "בהושע",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ביהושע ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": "(similarly PesiqtaR 33 (153b))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 ותלד] 150 (pm) + בן",
+    "chapter": "1",
+    "verse": "3",
+    "lemma": "ותלד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בן",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לו] 96 >I  II IV",
+    "chapter": "1",
+    "verse": "3",
+    "lemma": "לו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 ופקדתי] 30 + על (non voc)",
+    "chapter": "1",
+    "verse": "4",
+    "lemma": "ופקדתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "על ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ממלכוּת] 96 ממלכוֹת",
+    "chapter": "1",
+    "verse": "4",
+    "lemma": "ממלכוּת",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ממלכוֹת",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 את] 30 >",
+    "chapter": "1",
+    "verse": "5",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יזרעאל] 150 ישראל (parall; but 150-Tg: יזרעאל)",
+    "chapter": "1",
+    "verse": "5",
+    "lemma": "יזרעאל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ישראל ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(parall; but 150-Tg: יזרעאל)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 עוד1] 30 (pm) >I II IV (similarly b. Pesaḥim 87bmss)",
+    "chapter": "1",
+    "verse": "6",
+    "lemma": "עוד 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": "(similarly b. Pesaḥim 87bmss)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כי] 93 (pm) + את",
+    "chapter": "1",
+    "verse": "6",
+    "lemma": "כי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "את",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אוסיף] 150 (pm) >",
+    "chapter": "1",
+    "verse": "6",
+    "lemma": "אוסיף",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "את] 93 (pm) >",
+    "chapter": "1",
+    "verse": "6",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 והושעתים] 93 (pm) והושעתם",
+    "chapter": "1",
+    "verse": "7",
+    "lemma": "והושעתים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והושעתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בסוסים] 96 ובסוסיםI IV",
+    "chapter": "1",
+    "verse": "7",
+    "lemma": "בסוסים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ובסוסים ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 רֻחמה] 30 לח..",
+    "chapter": "1",
+    "verse": "8",
+    "lemma": "רֻחמה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לח",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": [
+      {
+        "title": "Sigla",
+        "value": ".."
+      }
+    ]
+  },
+  {
+    "entry": "9 ואנכי] 150 (pm) אנכי | 93 ואני",
+    "chapter": "1",
+    "verse": "9",
+    "lemma": "ואנכי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אנכי ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "ואני",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 אשר1] 150 + יאמר (non voc)",
+    "chapter": "2",
+    "verse": "1",
+    "lemma": "אשר 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יאמר ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אשר2] 96 + לא",
+    "chapter": "2",
+    "verse": "1",
+    "lemma": "אשר 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לא",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 להם] 30 (pm) לכם",
+    "chapter": "2",
+    "verse": "2",
+    "lemma": "להם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לכם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אחד] 30 (pm) 150 (pm) >",
+    "chapter": "2",
+    "verse": "2",
+    "lemma": "אחד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 ונאפופיה] 150 (pm) ונאפו",
+    "chapter": "2",
+    "verse": "4",
+    "lemma": "ונאפופיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ונאפו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 ערֻמה] 96 ערוֹמה",
+    "chapter": "2",
+    "verse": "5",
+    "lemma": "ערֻמה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ערוֹמה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "והצגתיה] 93 (pm) + כיום ערומה והצגתיה",
+    "chapter": "2",
+    "verse": "5",
+    "lemma": "והצגתיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כיום ערומה והצגתיה",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ושתִּה] 150 (pm) ושמתיה",
+    "chapter": "2",
+    "verse": "5",
+    "lemma": "ושתִּה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ושמתיה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 אלכה] 30 + ואשיבה אל איש (non voc)",
+    "chapter": "2",
+    "verse": "7",
+    "lemma": "אלכה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואשיבה אל איש ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 שָׂך] 30 (pm) 93 (pm) 150 (pm) סךII IV (See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))",
+    "chapter": "2",
+    "verse": "8",
+    "lemma": "שָׂך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "סך  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II, IV",
+        "comment": "(See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 לה] 93 (non voc) 96 150 (non voc) + את",
+    "chapter": "2",
+    "verse": "10",
+    "lemma": "לה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "את",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "non voc"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "non voc"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כי] 150 (non voc) + כי",
+    "chapter": "2",
+    "verse": "10",
+    "lemma": "כי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כי",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "non voc"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 אשוב] 93 (pm) >IV",
+    "chapter": "2",
+    "verse": "11",
+    "lemma": "אשוב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 וכל] 150 (pm) כל",
+    "chapter": "2",
+    "verse": "13",
+    "lemma": "וכל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 והשִׁמתי] 150 (pm) והשבתי",
+    "chapter": "2",
+    "verse": "14",
+    "lemma": "והשִׁמתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והשבתי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 ותַעַד] G-B Eb 94 ותָעָד (understood as \\עוד (rather than \\עדי))",
+    "chapter": "2",
+    "verse": "15",
+    "lemma": "ותַעַד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ותָעָד ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "94",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(understood as \\עוד (rather than \\עדי))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "שכְחה] 150 (pm) שכחת",
+    "chapter": "2",
+    "verse": "15",
+    "lemma": "שכְחה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שכחת",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "16 אנכי] 30 (pm) >",
+    "chapter": "2",
+    "verse": "16",
+    "lemma": "אנכי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מפתיה] 89 מְפַּתֶיהָ",
+    "chapter": "2",
+    "verse": "16",
+    "lemma": "מפתיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מְפַּתֶיהָ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "המדבר] 96 המדברה (similarly SifreDeut 313 (356:6), RuthR 5:6)",
+    "chapter": "2",
+    "verse": "16",
+    "lemma": "המדבר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "המדברה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(similarly SifreDeut 313 (356:6), RuthR 5:6)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "18 יהוה] 150 + צבאות (non voc)",
+    "chapter": "2",
+    "verse": "18",
+    "lemma": "יהוה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "צבאות ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "תקראי1] 150 (pm) תקראו | 30 + לי (non voc)I II",
+    "chapter": "2",
+    "verse": "18",
+    "lemma": "תקראי 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תקראו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "לי ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "I, II",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לי] G-B Eb 54 (pm) >II",
+    "chapter": "2",
+    "verse": "18",
+    "lemma": "לי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "54",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עוד] 30 (pm?) >",
+    "chapter": "2",
+    "verse": "18",
+    "lemma": "עוד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm?"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "20 להם] 150 (pm) אלהם",
+    "chapter": "2",
+    "verse": "20",
+    "lemma": "להם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אלהם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "21 וארשתיך לי לעולם] 93 (pm) >",
+    "chapter": "2",
+    "verse": "21",
+    "lemma": "וארשתיך, לי, לעולם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "22 וידעת] 150 (pm) וידעתם | 30 89 (sm) 93 (pm) 150 (non voc) + כיI II IV",
+    "chapter": "2",
+    "verse": "22",
+    "lemma": "וידעת",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וידעתם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "כי  ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "non voc"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "את] 30 89 (sm) 93 (pm) אניI II IV",
+    "chapter": "2",
+    "verse": "22",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אני  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "23 והם] 30 (sm) והמה",
+    "chapter": "2",
+    "verse": "23",
+    "lemma": "והם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והמה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 עוד] 150 (pm) >",
+    "chapter": "3",
+    "verse": "1",
+    "lemma": "עוד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 ואמר] 30 (pm) ואמרה | 150 (pm) ויאמר",
+    "chapter": "3",
+    "verse": "3",
+    "lemma": "ואמר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואמרה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "ויאמר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לא] 96 ולאI",
+    "chapter": "3",
+    "verse": "3",
+    "lemma": "לא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ולא",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "תזני] 93 (pm) תתי (Caused by ligature ז+נ)",
+    "chapter": "3",
+    "verse": "3",
+    "lemma": "תזני",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תתי ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(Caused by ligature ז+נ)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אליך] 93 (pm) אלהיך",
+    "chapter": "3",
+    "verse": "3",
+    "lemma": "אליך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אלהיך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 ואין3,2] 150 (pm) איןIV",
+    "chapter": "3",
+    "verse": "4",
+    "lemma": "ואין 3,2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אין",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 אחר] 150 (pm) ואחרI II",
+    "chapter": "3",
+    "verse": "5",
+    "lemma": "אחר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואחר ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 ודמים] 96 150 (pm) דמיםII",
+    "chapter": "4",
+    "verse": "2",
+    "lemma": "ודמים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "דמים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 יושב] 30 (sm) 93 (pm) ישבי | 96 (pm) יושביI II IV",
+    "chapter": "4",
+    "verse": "3",
+    "lemma": "יושב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ישבי ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "יושבי  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וגם] 30 (pm) וכל",
+    "chapter": "4",
+    "verse": "3",
+    "lemma": "וגם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 כמריבי] 150 (pm) כמריבת",
+    "chapter": "4",
+    "verse": "4",
+    "lemma": "כמריבי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כמריבת",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 הדעת1] 93 (pm) 150 (pm) דעתII",
+    "chapter": "4",
+    "verse": "6",
+    "lemma": "הדעת 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "דעת",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אתה] 96 (pm) את",
+    "chapter": "4",
+    "verse": "6",
+    "lemma": "אתה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "את",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "k ואמאסאך / q ואמאסך] 30 93 (sm) 96 150 (pm) q IV | 93 (pm) אמסך",
+    "chapter": "4",
+    "verse": "6",
+    "lemma": "ואמאסאך, ואמאסך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "q  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "אמסך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ותשכח] 150 (pm) תשכחי",
+    "chapter": "4",
+    "verse": "6",
+    "lemma": "ותשכח",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תשכחי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 ישאו] 150 (pm) >",
+    "chapter": "4",
+    "verse": "8",
+    "lemma": "ישאו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "נפשו] 89 (pm) 96 (pm) 150 (pm) נפשםI IV",
+    "chapter": "4",
+    "verse": "8",
+    "lemma": "נפשו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "נפשם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 ופקדתי] 93 (pm) ופקדתיו",
+    "chapter": "4",
+    "verse": "9",
+    "lemma": "ופקדתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ופקדתיו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עליו] 96 + ודמו (non voc)",
+    "chapter": "4",
+    "verse": "9",
+    "lemma": "עליו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ודמו ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "דרכיו] 30 (pm) כדרכיו",
+    "chapter": "4",
+    "verse": "9",
+    "lemma": "דרכיו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כדרכיו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 ואכלו] 93 (sm) אכלוII",
+    "chapter": "4",
+    "verse": "10",
+    "lemma": "ואכלו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אכלו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          }
+        ],
+        "references": "II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הזנו] 150 (pm) והזנו",
+    "chapter": "4",
+    "verse": "10",
+    "lemma": "הזנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והזנו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כי] 96 >",
+    "chapter": "4",
+    "verse": "10",
+    "lemma": "כי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 ויין] 30 (pm) 89 (pm) 93 (pm) 96 150 ייןII",
+    "chapter": "4",
+    "verse": "11",
+    "lemma": "ויין",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יין",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 יקטרו] 150 (pm) יקטרון",
+    "chapter": "4",
+    "verse": "13",
+    "lemma": "יקטרו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יקטרון",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "צלה] 93 (pm) יגלה",
+    "chapter": "4",
+    "verse": "13",
+    "lemma": "צלה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יגלה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וכלותיכם] 150 (pm) + כי",
+    "chapter": "4",
+    "verse": "13",
+    "lemma": "וכלותיכם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כי",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 תנאפנה] 96 (pm) תנאפינה (similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)",
+    "chapter": "4",
+    "verse": "14",
+    "lemma": "תנאפנה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תנאפינה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הזֹנות] 93 (pm) זנות",
+    "chapter": "4",
+    "verse": "14",
+    "lemma": "הזֹנות",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "זנות",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יְפָרדו] 93 96 יִפָּרדו",
+    "chapter": "4",
+    "verse": "14",
+    "lemma": "יְפָרדו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יִפָּרדו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 יהודה] 93 (pm) יהוה",
+    "chapter": "4",
+    "verse": "15",
+    "lemma": "יהודה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יהוה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ואל1] 150 (pm) אלI IV",
+    "chapter": "4",
+    "verse": "15",
+    "lemma": "ואל 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אל ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ואַל3] 30 ואֵל",
+    "chapter": "4",
+    "verse": "15",
+    "lemma": "ואַל 3",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואֵל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "16 ככבש] 89 (sm) בכבש",
+    "chapter": "4",
+    "verse": "16",
+    "lemma": "ככבש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בכבש",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "18 סבאם] 93 סבאים",
+    "chapter": "4",
+    "verse": "18",
+    "lemma": "סבאם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "סבאים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אהבו] 93 (pm) אתם",
+    "chapter": "4",
+    "verse": "18",
+    "lemma": "אהבו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "קלון] 150 (pm) קלו",
+    "chapter": "4",
+    "verse": "18",
+    "lemma": "קלון",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "קלו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מגניה] 96 (pm) מקלון",
+    "chapter": "4",
+    "verse": "18",
+    "lemma": "מגניה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מקלון",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "19 בכנפיה] 93 (pm) בכנפה | 150 (pm) בכפניה | 93 (pm) + ויזבחו",
+    "chapter": "4",
+    "verse": "19",
+    "lemma": "בכנפיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בכנפה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "בכפניה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "ויזבחו",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מִזִּבְחותם] 30 93 150 מִזְבְּחתםI IV | 96 מִזְבְחותם",
+    "chapter": "4",
+    "verse": "19",
+    "lemma": "מִזִּבְחותם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מִזְבְּחתם  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "מִזְבְחותם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 פרושה] 93 (pm) פרוסה | 150 (pm) פרוטה",
+    "chapter": "5",
+    "verse": "1",
+    "lemma": "פרושה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "פרוסה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "פרוטה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 מוסר] 96 (pm) + העמקי",
+    "chapter": "5",
+    "verse": "2",
+    "lemma": "מוסר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "העמקי",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 לא1] 30 (sm) ולאI IV",
+    "chapter": "5",
+    "verse": "4",
+    "lemma": "לא 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ולא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אל] 93 (pm) + אלI IV",
+    "chapter": "5",
+    "verse": "4",
+    "lemma": "אל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אל ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בקרבם] 96 (pm) בקרבכם",
+    "chapter": "5",
+    "verse": "4",
+    "lemma": "בקרבם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בקרבכם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 וישראל] 150 (pm) ישראל",
+    "chapter": "5",
+    "verse": "5",
+    "lemma": "וישראל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ישראל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עמם] 93 (pm) עמכם",
+    "chapter": "5",
+    "verse": "5",
+    "lemma": "עמם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עמכם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 ובבקרם] 93 (pm) ובקרם",
+    "chapter": "5",
+    "verse": "6",
+    "lemma": "ובבקרם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ובקרם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "את] 93 + דבר (non voc)II IV",
+    "chapter": "5",
+    "verse": "6",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "דבר ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "II, IV",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 זרים] 93 (pm) >",
+    "chapter": "5",
+    "verse": "7",
+    "lemma": "זרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עתה] 93 (pm) ועתה",
+    "chapter": "5",
+    "verse": "7",
+    "lemma": "עתה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ועתה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "את] 30 (pm) >",
+    "chapter": "5",
+    "verse": "7",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 חצצרה] 96 (pm) חצצריה",
+    "chapter": "5",
+    "verse": "8",
+    "lemma": "חצצרה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חצצריה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בית] 150 בין (similarly b. R.HaŠanams 32b)",
+    "chapter": "5",
+    "verse": "8",
+    "lemma": "בית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בין ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(similarly b. R.HaŠanams 32b)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אחריך] 93 (pm) >",
+    "chapter": "5",
+    "verse": "8",
+    "lemma": "אחריך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 כמסיגי] 30 93 150 (pm?) כמשיגיIV",
+    "chapter": "5",
+    "verse": "10",
+    "lemma": "כמסיגי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כמשיגי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm?"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "גבול] 93 + עולם (non voc) (cf גבול עולם Prov 2228 2310)",
+    "chapter": "5",
+    "verse": "10",
+    "lemma": "גבול",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עולם ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc) (cf גבול עולם Prov 2228 2310)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 אחרי] 96 (pm) >",
+    "chapter": "5",
+    "verse": "11",
+    "lemma": "אחרי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "12 לאפרים] 93 (pm) אפרים",
+    "chapter": "5",
+    "verse": "12",
+    "lemma": "לאפרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אפרים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וְכָרקב] 93 96 וּכְרקב",
+    "chapter": "5",
+    "verse": "12",
+    "lemma": "וְכָרקב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וּכְרקב",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 מזֹרו] 93 (pm) מרזרו",
+    "chapter": "5",
+    "verse": "13",
+    "lemma": "מזֹרו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מרזרו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וישלח] 93 מ..",
+    "chapter": "5",
+    "verse": "13",
+    "lemma": "וישלח",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מ..",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 אשא] 30 (sm) 89 (pm) 93 96 (pm) 150 ואשאI IV",
+    "chapter": "5",
+    "verse": "14",
+    "lemma": "אשא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואשא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 אשובה] 30 93 96 150 (pm) ואשובהI II IV",
+    "chapter": "5",
+    "verse": "15",
+    "lemma": "אשובה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואשובה  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 יחינו] 30 (pm?) >",
+    "chapter": "6",
+    "verse": "2",
+    "lemma": "יחינו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm?"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מיֹמים] 30 (pm?) >",
+    "chapter": "6",
+    "verse": "2",
+    "lemma": "מיֹמים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm?"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 כַגֶּשם] 93 96 כְגֶשם",
+    "chapter": "6",
+    "verse": "3",
+    "lemma": "כַגֶּשם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כְגֶשם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כמלקוש] 150 (pm) ומלקושI II IV",
+    "chapter": "6",
+    "verse": "3",
+    "lemma": "כמלקוש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ומלקוש  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 לְךָ1] 96 לָךְ | 30 (pm) + יהודה",
+    "chapter": "6",
+    "verse": "4",
+    "lemma": "לְךָ 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לָךְ ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "יהודה",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מה2] 30 93 150 (pm) ומהI",
+    "chapter": "6",
+    "verse": "4",
+    "lemma": "מה 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ומה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לְךָ2] 96 לָךְ | 30 (pm) + אפרים",
+    "chapter": "6",
+    "verse": "4",
+    "lemma": "לְךָ 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לָךְ ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "אפרים",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וחסדכם] 93 150 חסדכםI",
+    "chapter": "6",
+    "verse": "4",
+    "lemma": "וחסדכם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חסדכם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הֹלך] 96 והולךI",
+    "chapter": "6",
+    "verse": "4",
+    "lemma": "הֹלך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והולך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 ברית] 96 (pm) כי (?)",
+    "chapter": "6",
+    "verse": "7",
+    "lemma": "ברית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כי ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(?)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 מדם] 93 (pm) משם",
+    "chapter": "6",
+    "verse": "8",
+    "lemma": "מדם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "משם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 וכחכי] 150 וכחכה (similarly GenRmss 80:2 (953:4))",
+    "chapter": "6",
+    "verse": "9",
+    "lemma": "וכחכי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכחכה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(similarly GenRmss 80:2 (953:4))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "חבר] 93 (pm) וחבר",
+    "chapter": "6",
+    "verse": "9",
+    "lemma": "חבר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וחבר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 k שעריריה / q שערוריה] 30 (pm) 89 (pm) 150 (sm) k, 30 (sm) 89 (sm) 93 (sm) 96 150 (pm) q, 93 (pm) שערורהIV",
+    "chapter": "6",
+    "verse": "10",
+    "lemma": "שעריריה, שערוריה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "k",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "q",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "שערורה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "שׁם] 96 שׂם",
+    "chapter": "6",
+    "verse": "10",
+    "lemma": "שׁם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שׂם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 לך] 93 (sm) להּ",
+    "chapter": "6",
+    "verse": "11",
+    "lemma": "לך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "להּ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 פעלו] 150 (pm) פעלי",
+    "chapter": "7",
+    "verse": "1",
+    "lemma": "פעלו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "פעלי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וגנב] 30 וכגנב",
+    "chapter": "7",
+    "verse": "1",
+    "lemma": "וגנב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכגנב",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "פשט] 93 (pm) ופשטI (similarly S.Eli.R 22 (125))",
+    "chapter": "7",
+    "verse": "1",
+    "lemma": "פשט",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ופשט ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": "(similarly S.Eli.R 22 (125))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בחוץ] 96 (pm) בחרץ",
+    "chapter": "7",
+    "verse": "1",
+    "lemma": "בחוץ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בחרץ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 ללבבם] 96 (pm) ללבם | 30 93 150 (pm) בלבבםI",
+    "chapter": "7",
+    "verse": "2",
+    "lemma": "ללבבם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ללבם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "בלבבם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 כמו] 89 (pm) >",
+    "chapter": "7",
+    "verse": "4",
+    "lemma": "כמו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מעיר] 96 (sm) עיר",
+    "chapter": "7",
+    "verse": "4",
+    "lemma": "מעיר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עיר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מלוש] 150 (pm) בלוש",
+    "chapter": "7",
+    "verse": "4",
+    "lemma": "מלוש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בלוש",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 מלכֵּנו] 30 93 (pm) 150 (pm) מלכינוI II IV",
+    "chapter": "7",
+    "verse": "5",
+    "lemma": "מלכֵּנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מלכינו  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "שרים] 30 (pm) >",
+    "chapter": "7",
+    "verse": "5",
+    "lemma": "שרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ידו את] 30 ~",
+    "chapter": "7",
+    "verse": "5",
+    "lemma": "ידו, את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": "~",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 כַתנור] 96 כְתנור",
+    "chapter": "7",
+    "verse": "6",
+    "lemma": "כַתנור",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כְתנור",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אֹפֵהֶם] 93 (pm) אפריםI",
+    "chapter": "7",
+    "verse": "6",
+    "lemma": "אֹפֵהֶם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אפרים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 אין] 30 (sm) 93 150 ואיןI II IV",
+    "chapter": "7",
+    "verse": "7",
+    "lemma": "אין",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואין  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 אפרים] 93 (pm) + הוא",
+    "chapter": "7",
+    "verse": "8",
+    "lemma": "אפרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "הוא",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 גם] 150 (pm) וגם",
+    "chapter": "7",
+    "verse": "9",
+    "lemma": "גם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וגם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 אין] 93 (pm) ואין",
+    "chapter": "7",
+    "verse": "11",
+    "lemma": "אין",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואין",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לב] 89 (pm) לבי",
+    "chapter": "7",
+    "verse": "11",
+    "lemma": "לב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לבי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "12 עליהם] 96 (pm) להם",
+    "chapter": "7",
+    "verse": "12",
+    "lemma": "עליהם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "להם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "איסירם] 30 89 איסרם | 96 (pm) אייסרם, (sm) אייסירים | 150 (pm) אסירים",
+    "chapter": "7",
+    "verse": "12",
+    "lemma": "איסירם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "איסרם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "אייסרם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "אייסירים ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "אסירים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 ממני] 93 (pm) ממנו",
+    "chapter": "7",
+    "verse": "13",
+    "lemma": "ממני",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ממנו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "פשעוּ] 96 פשעִי",
+    "chapter": "7",
+    "verse": "13",
+    "lemma": "פשעוּ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "פשעִי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ואנכי] 150 (pm) ואניIV",
+    "chapter": "7",
+    "verse": "13",
+    "lemma": "ואנכי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואני",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "דברו] 93 (pm) >",
+    "chapter": "7",
+    "verse": "13",
+    "lemma": "דברו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 זעקו] 30 (pm) יזעקו | 150 (pm) >",
+    "chapter": "7",
+    "verse": "14",
+    "lemma": "זעקו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יזעקו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בלבם] 93 (pm) בלבבםIV",
+    "chapter": "7",
+    "verse": "14",
+    "lemma": "בלבם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בלבבם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יתגוררו] 93 (pm) >",
+    "chapter": "7",
+    "verse": "14",
+    "lemma": "יתגוררו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 יְחַשְּׁבו] 96 יַחְשְׁבו",
+    "chapter": "7",
+    "verse": "15",
+    "lemma": "יְחַשְּׁבו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יַחְשְׁבו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "16 לא] 93 (pm) 150 (pm) לו",
+    "chapter": "7",
+    "verse": "16",
+    "lemma": "לא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "על היו] 150 (pm) ~",
+    "chapter": "7",
+    "verse": "16",
+    "lemma": "על, היו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": "~",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "זוֹ] 96 זוּ",
+    "chapter": "7",
+    "verse": "16",
+    "lemma": "זוֹ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "זוּ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 בית] 150 (pm) + על",
+    "chapter": "8",
+    "verse": "1",
+    "lemma": "בית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "על",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עברו] 96 (pm) עבר",
+    "chapter": "8",
+    "verse": "1",
+    "lemma": "עברו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עבר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "תורָתי] 89 (pm) תורֹתי",
+    "chapter": "8",
+    "verse": "1",
+    "lemma": "תורָתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תורֹתי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 ישראל] 96 (pm) >",
+    "chapter": "8",
+    "verse": "2",
+    "lemma": "ישראל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 עגלך] 93 עגליךI",
+    "chapter": "8",
+    "verse": "5",
+    "lemma": "עגלך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עגליך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 שבבים] 150 (pm) שבבוםIV",
+    "chapter": "8",
+    "verse": "6",
+    "lemma": "שבבים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שבבום",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 חפץ] 150 (pm) >",
+    "chapter": "8",
+    "verse": "8",
+    "lemma": "חפץ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בו] 96 בֹה",
+    "chapter": "8",
+    "verse": "8",
+    "lemma": "בו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בֹה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 אקבצם] 93 (pm) קבצם",
+    "chapter": "8",
+    "verse": "10",
+    "lemma": "אקבצם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "קבצם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "שרים] 96 150 ושריםI II IV",
+    "chapter": "8",
+    "verse": "10",
+    "lemma": "שרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ושרים  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 כי] 89 (pm) >",
+    "chapter": "8",
+    "verse": "11",
+    "lemma": "כי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אפרים] 30 (pm) ישראל",
+    "chapter": "8",
+    "verse": "11",
+    "lemma": "אפרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ישראל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לו] 93 (pm) לי",
+    "chapter": "8",
+    "verse": "11",
+    "lemma": "לו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "12 k אכתוב / q אכתב] 93 96 150 (sm) k, 30 89 150 (pm) q",
+    "chapter": "8",
+    "verse": "12",
+    "lemma": "אכתוב, אכתב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "k",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "q",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "k רבו / q רבי] 30 89 93 96 q, 150 (pm) רובו",
+    "chapter": "8",
+    "verse": "12",
+    "lemma": "רבו, רבי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "q",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "רובו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 וַיֹּאכלו] 30 89 93 96 וְיֹאכלו",
+    "chapter": "8",
+    "verse": "13",
+    "lemma": "וַיֹּאכלו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וְיֹאכלו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יהוה] 150 (pm) ויהוהI IV",
+    "chapter": "8",
+    "verse": "13",
+    "lemma": "יהוה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ויהוה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עתה] 150 (pm) ועתה",
+    "chapter": "8",
+    "verse": "13",
+    "lemma": "עתה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ועתה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "חטֹאותם] 89 93 96 150 (pm) חטאתם, 30 חטָאתם",
+    "chapter": "8",
+    "verse": "13",
+    "lemma": "חטֹאותם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חטאתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "חטָאתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "המה] 150 (pm) והמהIV",
+    "chapter": "8",
+    "verse": "13",
+    "lemma": "המה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והמה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 ויבן] 93 א..",
+    "chapter": "8",
+    "verse": "14",
+    "lemma": "ויבן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "א..",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הרבה] 30 (pm) + מזבחות",
+    "chapter": "8",
+    "verse": "14",
+    "lemma": "הרבה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מזבחות",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ואכלה] 150 (pm) + כל",
+    "chapter": "8",
+    "verse": "14",
+    "lemma": "ואכלה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כל",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ארמנתיה] 93 (pm) ארמנותיו",
+    "chapter": "8",
+    "verse": "14",
+    "lemma": "ארמנתיה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ארמנותיו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 בהּ] 30 (pm) 93 96 בםI IV",
+    "chapter": "9",
+    "verse": "2",
+    "lemma": "בהּ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 יטמאו] 93 (pm) יטמא",
+    "chapter": "9",
+    "verse": "4",
+    "lemma": "יטמאו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יטמא",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בית] 93 (pm) >",
+    "chapter": "9",
+    "verse": "4",
+    "lemma": "בית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 יהוה] 150 (pm) ליהוה",
+    "chapter": "9",
+    "verse": "5",
+    "lemma": "יהוה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ליהוה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 תְקַברם] 30 93 תִקְברם",
+    "chapter": "9",
+    "verse": "6",
+    "lemma": "תְקַברם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תִקְברם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לכספם] 150 לנפשם",
+    "chapter": "9",
+    "verse": "6",
+    "lemma": "לכספם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לנפשם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 ישראל] 96 (pm) לישראל",
+    "chapter": "9",
+    "verse": "7",
+    "lemma": "ישראל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לישראל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אויל] 96 (pm) >",
+    "chapter": "9",
+    "verse": "7",
+    "lemma": "אויל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "רֹב] 96 רַב",
+    "chapter": "9",
+    "verse": "7",
+    "lemma": "רֹב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "רַב",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עונְךָ] 96 עונֵךְ",
+    "chapter": "9",
+    "verse": "7",
+    "lemma": "עונְךָ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עונֵךְ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ורבה] 150 (pm) רבהIV",
+    "chapter": "9",
+    "verse": "7",
+    "lemma": "ורבה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "רבה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 אלהי] 150 (pm) אלהיו",
+    "chapter": "9",
+    "verse": "8",
+    "lemma": "אלהי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אלהיו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "נביא] 96 (pm) הנביא",
+    "chapter": "9",
+    "verse": "8",
+    "lemma": "נביא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "הנביא",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יקוֹש] 93 96 יקוּש",
+    "chapter": "9",
+    "verse": "8",
+    "lemma": "יקוֹש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יקוּש",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 יפקוד] 30 93 150 וְיפקד, 96 וְיפקודI IV",
+    "chapter": "9",
+    "verse": "9",
+    "lemma": "יפקוד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וְיפקד",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "וְיפקוד ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "חטאותם] 89 93 150 (pm) חטֹאתם, 30 חטָאתם",
+    "chapter": "9",
+    "verse": "9",
+    "lemma": "חטאותם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חטֹאתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "חטָאתם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 במדבר] 96 (pm) במדברה",
+    "chapter": "9",
+    "verse": "10",
+    "lemma": "במדבר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "במדברה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וַינזרו] 30 וְינזרו",
+    "chapter": "9",
+    "verse": "10",
+    "lemma": "וַינזרו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וְינזרו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ויהיו] 96 (pm) ויהי",
+    "chapter": "9",
+    "verse": "10",
+    "lemma": "ויהיו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ויהי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 ומבטן] 30 מבטןIV",
+    "chapter": "9",
+    "verse": "11",
+    "lemma": "ומבטן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מבטן",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 ואפרים] 89 (pm) 96 150 (pm) אפרים",
+    "chapter": "9",
+    "verse": "13",
+    "lemma": "ואפרים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אפרים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 תתן] 30 (pm) + להםI",
+    "chapter": "9",
+    "verse": "14",
+    "lemma": "תתן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "להם",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "רחם] 96 (pm) מרחם",
+    "chapter": "9",
+    "verse": "14",
+    "lemma": "רחם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מרחם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 כי] 96 >",
+    "chapter": "9",
+    "verse": "15",
+    "lemma": "כי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מביתי] 93 (pm) מביתIV",
+    "chapter": "9",
+    "verse": "15",
+    "lemma": "מביתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מבית",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "16 k בלי / q בל] 150 (sm) k, 30 89 93 96 150 (pm) q",
+    "chapter": "9",
+    "verse": "16",
+    "lemma": "בלי, בל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "k",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "q",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ילדון] 93 (pm) ילזון",
+    "chapter": "9",
+    "verse": "16",
+    "lemma": "ילדון",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ילזון",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "17 אלהי] 93 (pm) אלהו (?)",
+    "chapter": "9",
+    "verse": "17",
+    "lemma": "אלהי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אלהו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(?)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לו] 150 >",
+    "chapter": "9",
+    "verse": "17",
+    "lemma": "לו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 כרב לפריו הרבה למזבחות] 150 (pm) >",
+    "chapter": "10",
+    "verse": "1",
+    "lemma": "כרב, לפריו, הרבה, למזבחות",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "למזבחות] 93 (pm) למזבח",
+    "chapter": "10",
+    "verse": "1",
+    "lemma": "למזבחות",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "למזבח",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 ישֹׁדד] 96 (pm) ישוד | 150 (pm) וישבר",
+    "chapter": "10",
+    "verse": "2",
+    "lemma": "ישֹׁדד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ישוד ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "וישבר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 כי1] 150 + לא (non voc)",
+    "chapter": "10",
+    "verse": "3",
+    "lemma": "כי 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לא ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יָרֵאנו] 30 יַרְאֵנו",
+    "chapter": "10",
+    "verse": "3",
+    "lemma": "יָרֵאנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יַרְאֵנו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 דברו] 150 ..דברים",
+    "chapter": "10",
+    "verse": "4",
+    "lemma": "דברו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "דברים",
+        "sigla": "..",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כרֹת] 96 (pm) וכרותI",
+    "chapter": "10",
+    "verse": "4",
+    "lemma": "כרֹת",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכרות",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ופרח] 150 (pm) ופתח",
+    "chapter": "10",
+    "verse": "4",
+    "lemma": "ופרח",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ופתח",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 שמרון] 30 שמרין (?)",
+    "chapter": "10",
+    "verse": "5",
+    "lemma": "שמרון",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שמרין ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(?)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וכְמריו] G-B Msr 34 כֹ",
+    "chapter": "10",
+    "verse": "5",
+    "lemma": "וכְמריו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כֹ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "34",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יגילו] 150 (sm) יגלו",
+    "chapter": "10",
+    "verse": "5",
+    "lemma": "יגילו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יגלו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "על] 93 (pm) ועל",
+    "chapter": "10",
+    "verse": "5",
+    "lemma": "על",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ועל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ממנו] 96 (pm) ממני",
+    "chapter": "10",
+    "verse": "5",
+    "lemma": "ממנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ממני",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 בָשנה] G-B Msr 34 בָשְנָה ל ומדׄ מיש ביה בֹשְנָה",
+    "chapter": "10",
+    "verse": "6",
+    "lemma": "בָשנה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בָשְנָה ל ומדׄ מיש ביה בֹשְנָה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "34",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 נדמֶה] 93 נדמָה | 30 (pm) + אפרים",
+    "chapter": "10",
+    "verse": "7",
+    "lemma": "נדמֶה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "נדמָה ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "אפרים",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מלכהּ] 93 (pm) מלכם",
+    "chapter": "10",
+    "verse": "7",
+    "lemma": "מלכהּ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "מלכם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "מים] 93 (pm) המים",
+    "chapter": "10",
+    "verse": "7",
+    "lemma": "מים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "המים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 ודרדר] G-B Eb 16 ודר דר",
+    "chapter": "10",
+    "verse": "8",
+    "lemma": "ודרדר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ודר דר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "16",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כַּסונו] 89 כִּסונו (?)",
+    "chapter": "10",
+    "verse": "8",
+    "lemma": "כַּסונו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כִּסונו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(?)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 מימי] 30 (pm) ממי",
+    "chapter": "10",
+    "verse": "9",
+    "lemma": "מימי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ממי",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "חטאתָ] 93 (sm) 96 (sm) חטא (ת non voc)",
+    "chapter": "10",
+    "verse": "9",
+    "lemma": "חטאתָ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חטא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": "(ת non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "עלוה] 89 (sm) עולהI",
+    "chapter": "10",
+    "verse": "9",
+    "lemma": "עלוה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עולה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 ואסרם] 96 (pm) יאשרם | 150 ..על",
+    "chapter": "10",
+    "verse": "10",
+    "lemma": "ואסרם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יאשרם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Variant",
+        "reading": "על",
+        "sigla": "..",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "k עינתם / q עונֹתם] 30 k, 89 G-B Eb 16 q, 93 96 150 (pm) עונותם",
+    "chapter": "10",
+    "verse": "10",
+    "lemma": "עינתם, עונֹתם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "k",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "q",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "16",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "עונותם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "12 קצרו] 30 96 (pm) 150 (pm) וקצרוI II IV",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "קצרו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וקצרו  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ועת] 150 (pm) עת",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "ועת",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "עת",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לדרוש] 96 >",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "לדרוש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "את] 30 (pm) >, 96 (non voc)",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "את",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "non voc"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "יהוה] 93 (pm) יהודה",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "יהוה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יהודה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ויֹרה] 93 (pm) G-B Eb 16 יורה",
+    "chapter": "10",
+    "verse": "12",
+    "lemma": "ויֹרה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יורה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "16",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 בדרכְּך] 96 150 (pm) בדרכיךI IV",
+    "chapter": "10",
+    "verse": "13",
+    "lemma": "בדרכְּך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בדרכיך ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 וכל] 150 (pm) כל",
+    "chapter": "10",
+    "verse": "14",
+    "lemma": "וכל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "שלמן] 96 שלומך",
+    "chapter": "10",
+    "verse": "14",
+    "lemma": "שלמן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שלומך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ארבֵאל] 93 ארבְּאֵל",
+    "chapter": "10",
+    "verse": "14",
+    "lemma": "ארבֵאל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ארבְּאֵל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 בית-אל] 96 ביתְאלIV",
+    "chapter": "10",
+    "verse": "15",
+    "lemma": "בית-אל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ביתְאל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 יזבחו] 150 (pm) יזבחון",
+    "chapter": "11",
+    "verse": "2",
+    "lemma": "יזבחו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "יזבחון",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ולפסִלים] 96 לפסילים",
+    "chapter": "11",
+    "verse": "2",
+    "lemma": "ולפסִלים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לפסילים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 זרועֹתיו] 96 (sm) זרועותיI II",
+    "chapter": "11",
+    "verse": "3",
+    "lemma": "זרועֹתיו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "זרועותי ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "sm"
+          }
+        ],
+        "references": "I, II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "רפאתים] 96 (pm) רפאתיו",
+    "chapter": "11",
+    "verse": "3",
+    "lemma": "רפאתים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "רפאתיו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 להם] 150 (pm) לה",
+    "chapter": "11",
+    "verse": "4",
+    "lemma": "להם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לחֵיהם] 30 93 לחָיֵיהם",
+    "chapter": "11",
+    "verse": "4",
+    "lemma": "לחֵיהם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לחָיֵיהם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 וכִלתה] 96 וכָלתהI",
+    "chapter": "11",
+    "verse": "6",
+    "lemma": "וכִלתה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכָלתה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ממֹעצותיהם] 96 (pm) ממעֲוצותיהם",
+    "chapter": "11",
+    "verse": "6",
+    "lemma": "ממֹעצותיהם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ממעֲוצותיהם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 תלואִים] G-B Ea 12 תלואיִם",
+    "chapter": "11",
+    "verse": "7",
+    "lemma": "תלואִים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תלואיִם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "",
+            "Comment": "G-B Ea "
+          },
+          {
+            "Manuscript": "12",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "למשובתי] 30 (pm) למשבתוI",
+    "chapter": "11",
+    "verse": "7",
+    "lemma": "למשובתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "למשבתו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 כצבאיִם] 89 כצבאִים, 150 כצבוים",
+    "chapter": "11",
+    "verse": "8",
+    "lemma": "כצבאיִם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כצבאִים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      },
+      {
+        "type": "Related Variant",
+        "reading": "כצבוים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 לא2] 30 (pm) 150 (pm) ולאII IV",
+    "chapter": "11",
+    "verse": "9",
+    "lemma": "לא 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ולא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ולא2] 93 (sm) 150 (pm) לאII IV",
+    "chapter": "11",
+    "verse": "9",
+    "lemma": "ולא 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 וּכְיונה] 93 וְכַיונה",
+    "chapter": "11",
+    "verse": "11",
+    "lemma": "וּכְיונה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וְכַיונה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 רד] 96 (sm) >",
+    "chapter": "12",
+    "verse": "1",
+    "lemma": "רד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "sm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 כזב] 150 (pm) חמס",
+    "chapter": "12",
+    "verse": "2",
+    "lemma": "כזב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חמס",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ושֹׁד] 93 (pm) >",
+    "chapter": "12",
+    "verse": "2",
+    "lemma": "ושֹׁד",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וברית] 96 (pm) ובריית",
+    "chapter": "12",
+    "verse": "2",
+    "lemma": "וברית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ובריית",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 כמעלליו] 150 (pm) וכמעלליוI II",
+    "chapter": "12",
+    "verse": "3",
+    "lemma": "כמעלליו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכמעלליו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ישיב] 30 (pm) 150 (pm) אשיבI",
+    "chapter": "12",
+    "verse": "3",
+    "lemma": "ישיב",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אשיב",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 שׂרה] 150 (pm) סרה",
+    "chapter": "12",
+    "verse": "4",
+    "lemma": "שׂרה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "סרה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 ימצאֶנו] 93 (pm) ימצאונוI",
+    "chapter": "12",
+    "verse": "5",
+    "lemma": "ימצאֶנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ימצאונו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 שמֹר] 30 שמו",
+    "chapter": "12",
+    "verse": "7",
+    "lemma": "שמֹר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "שמו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 כימי] 30 (pm) כיוםI",
+    "chapter": "12",
+    "verse": "10",
+    "lemma": "כימי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כיום",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "11 הרביתי] 150 (pm) + על הנביאים ואנכי חזון הרבתי (non voc)",
+    "chapter": "12",
+    "verse": "11",
+    "lemma": "הרביתי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "על הנביאים ואנכי חזון הרבתי ",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(non voc)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "12 גלעד און] 93 ~",
+    "chapter": "12",
+    "verse": "12",
+    "lemma": "גלעד, און",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": "~",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "בגלגל] 150 (pm) ובגלגל",
+    "chapter": "12",
+    "verse": "12",
+    "lemma": "בגלגל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ובגלגל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "זבחו] 93 (pm) >",
+    "chapter": "12",
+    "verse": "12",
+    "lemma": "זבחו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "גם מזבחותם] 96 >",
+    "chapter": "12",
+    "verse": "12",
+    "lemma": "גם, מזבחותם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "2 כלֹה] 150 (pm) כלם (similarly PesiqtaRKms 24:10 (357:10))",
+    "chapter": "13",
+    "verse": "2",
+    "lemma": "כלֹה",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כלם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": "(similarly PesiqtaRKms 24:10 (357:10))"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 הֹלך] 96 (pm) והולך",
+    "chapter": "13",
+    "verse": "3",
+    "lemma": "הֹלך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והולך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 אין] 30 (pm) + אין",
+    "chapter": "13",
+    "verse": "4",
+    "lemma": "אין",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אין",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 כן]  150 (pm) >",
+    "chapter": "13",
+    "verse": "6",
+    "lemma": "כן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7 כנמר] 93 (pm) וכנמרI",
+    "chapter": "13",
+    "verse": "7",
+    "lemma": "כנמר",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וכנמר",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 חית] 93 150 (pm) וחיתI",
+    "chapter": "13",
+    "verse": "8",
+    "lemma": "חית",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וחית",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 בי] 150 (pm) >",
+    "chapter": "13",
+    "verse": "9",
+    "lemma": "בי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 אפוא] 30 איפֹה",
+    "chapter": "13",
+    "verse": "10",
+    "lemma": "אפוא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "איפֹה",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ויושיעֲך] 96 (pm) ויושיעוך",
+    "chapter": "13",
+    "verse": "10",
+    "lemma": "ויושיעֲך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ויושיעוך",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לי] 96 לנו",
+    "chapter": "13",
+    "verse": "10",
+    "lemma": "לי",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לנו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "13 לו] 93 (pm?) 96 לָךְ",
+    "chapter": "13",
+    "verse": "13",
+    "lemma": "לו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "לָךְ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm?"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הוא] 93 (pm) 150 (pm) והואIV",
+    "chapter": "13",
+    "verse": "13",
+    "lemma": "הוא",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והוא",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "לא1] 93 ולא",
+    "chapter": "13",
+    "verse": "13",
+    "lemma": "לא 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ולא",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "14 ממות] 30 89 (sm) 93 (pm) 96 150 (pm) וממותI II",
+    "chapter": "13",
+    "verse": "14",
+    "lemma": "ממות",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "וממות ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "89",
+            "Comment": "sm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "דבריך] 30 93 (pm) 96 דברךI II IV",
+    "chapter": "13",
+    "verse": "14",
+    "lemma": "דבריך",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "דברך  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "נֹחם] G-B Msr 34 נַחֵם (taken as infinitive, see Yeivin, Babylonian Vocalization, 1:542)",
+    "chapter": "13",
+    "verse": "14",
+    "lemma": "נֹחם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "נַחֵם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "34",
+            "Comment": ""
+          }
+        ],
+        "references": "V",
+        "comment": "(taken as infinitive, see Yeivin, Babylonian ocalization, 1:542)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "15 בין] 93 (pm) בןI II IV",
+    "chapter": "13",
+    "verse": "15",
+    "lemma": "בין",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בן  ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "ויבוש] 93 (pm) תיבש",
+    "chapter": "13",
+    "verse": "15",
+    "lemma": "ויבוש",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "תיבש",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "הוא2] 93 (pm) 96 150 (pm) והואI II",
+    "chapter": "13",
+    "verse": "15",
+    "lemma": "הוא 2",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "והוא ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I, II",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "1 עלליהם] 93 150 (pm) ועולליהםI",
+    "chapter": "14",
+    "verse": "1",
+    "lemma": "עלליהם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ועולליהם",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "3 ושובו] 150 (pm) ושֻׁבו",
+    "chapter": "14",
+    "verse": "3",
+    "lemma": "ושובו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ושֻׁבו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "אמרו] 30 (pm) 93 (pm) 96 150 (pm) ואמרוII IV",
+    "chapter": "14",
+    "verse": "3",
+    "lemma": "אמרו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ואמרו ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "II, IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "כל] 89 (pm) בלI",
+    "chapter": "14",
+    "verse": "3",
+    "lemma": "כל",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "בל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "89",
+            "Comment": "pm"
+          }
+        ],
+        "references": "I",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "4 על] 93 (pm) 96 150 (pm) ועלIV",
+    "chapter": "14",
+    "verse": "4",
+    "lemma": "על",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ועל",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": "pm"
+          },
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          },
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "5 ממנו] G-B Msr 34 k ממני / q ממנוIV",
+    "chapter": "14",
+    "verse": "5",
+    "lemma": "ממנו",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "k ממני / q ממנו",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "34",
+            "Comment": ""
+          }
+        ],
+        "references": "IV",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "6 יפרח] 150 (pm) ויפרח",
+    "chapter": "14",
+    "verse": "6",
+    "lemma": "יפרח",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "ויפרח",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "150",
+            "Comment": "pm"
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "7–8 ילכו ינקותיו – כיין לבנון] 30 >",
+    "chapter": "14",
+    "verse": "",
+    "lemma": ", ",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "",
+        "sigla": ">",
+        "witnesses": [
+          {
+            "Manuscript": "30",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "8 כגפן] 93 כד..",
+    "chapter": "14",
+    "verse": "8",
+    "lemma": "כגפן",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "כד..",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "9 אני1] 93 + אני",
+    "chapter": "14",
+    "verse": "9",
+    "lemma": "אני 1",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "אני",
+        "sigla": "+",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "10 חכָם] 93 חכֵם (!)",
+    "chapter": "14",
+    "verse": "10",
+    "lemma": "חכָם",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "חכֵם ",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "93",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": "(!)"
+      }
+    ],
+    "additionalCells": []
+  },
+  {
+    "entry": "וצדקים] 96 צדיקים",
+    "chapter": "14",
+    "verse": "10",
+    "lemma": "וצדקים",
+    "variants": [
+      {
+        "type": "Variant",
+        "reading": "צדיקים",
+        "sigla": "",
+        "witnesses": [
+          {
+            "Manuscript": "96",
+            "Comment": ""
+          }
+        ],
+        "references": "",
+        "comment": ""
+      }
+    ],
+    "additionalCells": []
+  }
+]

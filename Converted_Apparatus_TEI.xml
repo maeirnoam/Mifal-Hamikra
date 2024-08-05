@@ -1,0 +1,1435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Converted Apparatus</title>
+        <author>Original Author</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher Name</publisher>
+        <pubPlace>Publication Place</pubPlace>
+        <date>2024</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Source Bibliographic Information</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <app n="1">
+    <lem>עזיה</lem>
+    <rdg>עזיהו<wit>30</wit></rdg>
+  </app>
+  <app n="2">
+    <lem>יחזקיה</lem>
+    <rdg>יחזקיהו<wit>30</wit><wit>93</wit><note>pm</note><wit>96</wit></rdg>
+  </app>
+  <app n="3">
+    <lem>ירבעם</lem>
+    <lem>בן</lem>
+    <rdg>נבט <wit>30</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="4">
+    <lem>בהושע</lem>
+    <rdg>ביהושע <wit>93</wit><note>pm</note><note>(similarly PesiqtaR 33 (153b))</note><ref>IV</ref></rdg>
+  </app>
+  <app n="5">
+    <lem>ותלד</lem>
+    <rdg>בן<wit>150</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="6">
+    <lem>לו</lem>
+    <rdg>
+      <wit>96</wit>
+      <seg type="sigla">&gt;</seg>
+      <ref>I</ref>
+      <ref>II</ref>
+      <ref>IV</ref>
+    </rdg>
+  </app>
+  <app n="7">
+    <lem>ופקדתי</lem>
+    <rdg>על <wit>30</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="8">
+    <lem>ממלכוּת</lem>
+    <rdg>ממלכוֹת<wit>96</wit></rdg>
+  </app>
+  <app n="9">
+    <lem>את</lem>
+    <rdg>
+      <wit>30</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="10">
+    <lem>יזרעאל</lem>
+    <rdg>ישראל <wit>150</wit><note>(parall; but 150-Tg: יזרעאל)</note></rdg>
+  </app>
+  <app n="11">
+    <lem>עוד</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+      <note>(similarly b. Pesaḥim 87bmss)</note>
+      <ref>I</ref>
+      <ref>II</ref>
+      <ref>IV</ref>
+    </rdg>
+  </app>
+  <app n="12">
+    <lem>כי</lem>
+    <rdg>את<wit>93</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="13">
+    <lem>אוסיף</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="14">
+    <lem>את</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="15">
+    <lem>והושעתים</lem>
+    <rdg>והושעתם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="16">
+    <lem>בסוסים</lem>
+    <rdg>ובסוסים <wit>96</wit><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="17">
+    <lem>רֻחמה</lem>
+    <rdg>לח..<wit>30</wit></rdg>
+  </app>
+  <app n="18">
+    <lem>ואנכי</lem>
+    <rdg>אנכי <wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="19">
+    <lem>אשר</lem>
+    <rdg>יאמר <wit>150</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="20">
+    <lem>אשר</lem>
+    <rdg>לא<wit>96</wit><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="21">
+    <lem>להם</lem>
+    <rdg>לכם<wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="22">
+    <lem>אחד</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="23">
+    <lem>ונאפופיה</lem>
+    <rdg>ונאפו<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="24">
+    <lem>ערֻמה</lem>
+    <rdg>ערוֹמה<wit>96</wit></rdg>
+  </app>
+  <app n="25">
+    <lem>והצגתיה</lem>
+    <rdg>כיום ערומה והצגתיה<wit>93</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="26">
+    <lem>ושתִּה</lem>
+    <rdg>ושמתיה<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="27">
+    <lem>אלכה</lem>
+    <rdg>ואשיבה אל איש <wit>30</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="28">
+    <lem>שָׂך</lem>
+    <rdg>סך  <wit>30</wit><note>pm</note><wit>93</wit><note>pm</note><wit>150</wit><note>pm</note><note>(See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))</note><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="29">
+    <lem>לה</lem>
+    <rdg>את<wit>93</wit><note>non voc</note><wit>96</wit><wit>150</wit><note>non voc</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="30">
+    <lem>כי</lem>
+    <rdg>כי<wit>150</wit><note>non voc</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="31">
+    <lem>אשוב</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+      <ref>IV</ref>
+    </rdg>
+  </app>
+  <app n="32">
+    <lem>וכל</lem>
+    <rdg>כל<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="33">
+    <lem>והשִׁמתי</lem>
+    <rdg>והשבתי<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="34">
+    <lem>ותַעַד</lem>
+    <rdg>ותָעָד <wit>94</wit><note>(understood as \עוד (rather than \עדי))</note></rdg>
+  </app>
+  <app n="35">
+    <lem>שכְחה</lem>
+    <rdg>שכחת<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="36">
+    <lem>אנכי</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="37">
+    <lem>מפתיה</lem>
+    <rdg>מְפַּתֶיהָ<wit>89</wit></rdg>
+  </app>
+  <app n="38">
+    <lem>המדבר</lem>
+    <rdg>המדברה <wit>96</wit><note>(similarly SifreDeut 313 (356:6), RuthR 5:6)</note></rdg>
+  </app>
+  <app n="39">
+    <lem>יהוה</lem>
+    <rdg>צבאות <wit>150</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="40">
+    <lem>תקראי</lem>
+    <rdg>תקראו <wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="41">
+    <lem>לי</lem>
+    <rdg>
+      <wit>54</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+      <ref>II</ref>
+    </rdg>
+  </app>
+  <app n="42">
+    <lem>עוד</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm?</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="43">
+    <lem>להם</lem>
+    <rdg>אלהם<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="44">
+    <lem>וארשתיך</lem>
+    <lem>לי</lem>
+    <lem>לעולם</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="45">
+    <lem>וידעת</lem>
+    <rdg>וידעתם <wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="46">
+    <lem>את</lem>
+    <rdg>אני  <wit>30</wit><wit>89</wit><note>sm</note><wit>93</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="47">
+    <lem>והם</lem>
+    <rdg>והמה<wit>30</wit><note>sm</note></rdg>
+  </app>
+  <app n="48">
+    <lem>עוד</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="49">
+    <lem>ואמר</lem>
+    <rdg>ואמרה <wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="50">
+    <lem>לא</lem>
+    <rdg>ולא<wit>96</wit><ref>I</ref></rdg>
+  </app>
+  <app n="51">
+    <lem>תזני</lem>
+    <rdg>תתי <wit>93</wit><note>pm</note><note>(Caused by ligature ז+נ)</note></rdg>
+  </app>
+  <app n="52">
+    <lem>אליך</lem>
+    <rdg>אלהיך<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="53">
+    <lem>ואין</lem>
+    <rdg>אין<wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="54">
+    <lem>אחר</lem>
+    <rdg>ואחר <wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref></rdg>
+  </app>
+  <app n="55">
+    <lem>ודמים</lem>
+    <rdg>דמים<wit>96</wit><wit>150</wit><note>pm</note><ref>II</ref></rdg>
+  </app>
+  <app n="56">
+    <lem>יושב</lem>
+    <rdg>ישבי <wit>30</wit><note>sm</note><wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="57">
+    <lem>וגם</lem>
+    <rdg>וכל<wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="58">
+    <lem>כמריבי</lem>
+    <rdg>כמריבת<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="59">
+    <lem>הדעת</lem>
+    <rdg>דעת<wit>93</wit><note>pm</note><wit>150</wit><note>pm</note><ref>II</ref></rdg>
+  </app>
+  <app n="60">
+    <lem>אתה</lem>
+    <rdg>את<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="61">
+    <lem>ואמאסאך</lem>
+    <lem>ואמאסך</lem>
+    <rdg>q  <wit>30</wit><wit>93</wit><note>sm</note><wit>96</wit><wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="62">
+    <lem>ותשכח</lem>
+    <rdg>תשכחי<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="63">
+    <lem>ישאו</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="64">
+    <lem>נפשו</lem>
+    <rdg>נפשם <wit>89</wit><note>pm</note><wit>96</wit><note>pm</note><wit>150</wit><note>pm</note><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="65">
+    <lem>ופקדתי</lem>
+    <rdg>ופקדתיו<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="66">
+    <lem>עליו</lem>
+    <rdg>ודמו <wit>96</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="67">
+    <lem>דרכיו</lem>
+    <rdg>כדרכיו<wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="68">
+    <lem>ואכלו</lem>
+    <rdg>אכלו<wit>93</wit><note>sm</note><ref>II</ref></rdg>
+  </app>
+  <app n="69">
+    <lem>הזנו</lem>
+    <rdg>והזנו<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="70">
+    <lem>כי</lem>
+    <rdg>
+      <wit>96</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="71">
+    <lem>ויין</lem>
+    <rdg>יין<wit>30</wit><note>pm</note><wit>89</wit><note>pm</note><wit>93</wit><note>pm</note><wit>96</wit><wit>150</wit><ref>II</ref></rdg>
+  </app>
+  <app n="72">
+    <lem>יקטרו</lem>
+    <rdg>יקטרון<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="73">
+    <lem>צלה</lem>
+    <rdg>יגלה<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="74">
+    <lem>וכלותיכם</lem>
+    <rdg>כי<wit>150</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="75">
+    <lem>תנאפנה</lem>
+    <rdg>תנאפינה <wit>96</wit><note>pm</note><note>(similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)</note></rdg>
+  </app>
+  <app n="76">
+    <lem>הזֹנות</lem>
+    <rdg>זנות<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="77">
+    <lem>יְפָרדו</lem>
+    <rdg>יִפָּרדו<wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="78">
+    <lem>יהודה</lem>
+    <rdg>יהוה<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="79">
+    <lem>ואל</lem>
+    <rdg>אל <wit>150</wit><note>pm</note><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="80">
+    <lem>ואַל</lem>
+    <rdg>ואֵל<wit>30</wit></rdg>
+  </app>
+  <app n="81">
+    <lem>ככבש</lem>
+    <rdg>בכבש<wit>89</wit><note>sm</note></rdg>
+  </app>
+  <app n="82">
+    <lem>סבאם</lem>
+    <rdg>סבאים<wit>93</wit></rdg>
+  </app>
+  <app n="83">
+    <lem>אהבו</lem>
+    <rdg>אתם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="84">
+    <lem>קלון</lem>
+    <rdg>קלו<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="85">
+    <lem>מגניה</lem>
+    <rdg>מקלון<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="86">
+    <lem>בכנפיה</lem>
+    <rdg>בכנפה <wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="87">
+    <lem>מִזִּבְחותם</lem>
+    <rdg>מִזְבְּחתם  <wit>30</wit><wit>93</wit><wit>150</wit><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="88">
+    <lem>פרושה</lem>
+    <rdg>פרוסה <wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="89">
+    <lem>מוסר</lem>
+    <rdg>העמקי<wit>96</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="90">
+    <lem>לא</lem>
+    <rdg>ולא <wit>30</wit><note>sm</note><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="91">
+    <lem>אל</lem>
+    <rdg>אל <wit>93</wit><note>pm</note><seg type="sigla">+</seg><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="92">
+    <lem>בקרבם</lem>
+    <rdg>בקרבכם<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="93">
+    <lem>וישראל</lem>
+    <rdg>ישראל<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="94">
+    <lem>עמם</lem>
+    <rdg>עמכם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="95">
+    <lem>ובבקרם</lem>
+    <rdg>ובקרם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="96">
+    <lem>את</lem>
+    <rdg>דבר <wit>93</wit><seg type="sigla">+</seg><note>(non voc)</note><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="97">
+    <lem>זרים</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="98">
+    <lem>עתה</lem>
+    <rdg>ועתה<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="99">
+    <lem>את</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="100">
+    <lem>חצצרה</lem>
+    <rdg>חצצריה<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="101">
+    <lem>בית</lem>
+    <rdg>בין <wit>150</wit><note>(similarly b. R.HaŠanams 32b)</note></rdg>
+  </app>
+  <app n="102">
+    <lem>אחריך</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="103">
+    <lem>כמסיגי</lem>
+    <rdg>כמשיגי<wit>30</wit><wit>93</wit><wit>150</wit><note>pm?</note><ref>IV</ref></rdg>
+  </app>
+  <app n="104">
+    <lem>גבול</lem>
+    <rdg>עולם <wit>93</wit><seg type="sigla">+</seg><note>(non voc) (cf גבול עולם Prov 2228 2310)</note></rdg>
+  </app>
+  <app n="105">
+    <lem>אחרי</lem>
+    <rdg>
+      <wit>96</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="106">
+    <lem>לאפרים</lem>
+    <rdg>אפרים<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="107">
+    <lem>וְכָרקב</lem>
+    <rdg>וּכְרקב<wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="108">
+    <lem>מזֹרו</lem>
+    <rdg>מרזרו<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="109">
+    <lem>וישלח</lem>
+    <rdg>מ..<wit>93</wit></rdg>
+  </app>
+  <app n="110">
+    <lem>אשא</lem>
+    <rdg>ואשא <wit>30</wit><note>sm</note><wit>89</wit><note>pm</note><wit>93</wit><wit>96</wit><note>pm</note><wit>150</wit><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="111">
+    <lem>אשובה</lem>
+    <rdg>ואשובה  <wit>30</wit><wit>93</wit><wit>96</wit><wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="112">
+    <lem>יחינו</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm?</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="113">
+    <lem>מיֹמים</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm?</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="114">
+    <lem>כַגֶּשם</lem>
+    <rdg>כְגֶשם<wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="115">
+    <lem>כמלקוש</lem>
+    <rdg>ומלקוש  <wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="116">
+    <lem>לְךָ</lem>
+    <rdg>לָךְ <wit>96</wit></rdg>
+  </app>
+  <app n="117">
+    <lem>מה</lem>
+    <rdg>ומה<wit>30</wit><wit>93</wit><wit>150</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="118">
+    <lem>לְךָ</lem>
+    <rdg>לָךְ <wit>96</wit></rdg>
+  </app>
+  <app n="119">
+    <lem>וחסדכם</lem>
+    <rdg>חסדכם<wit>93</wit><wit>150</wit><ref>I</ref></rdg>
+  </app>
+  <app n="120">
+    <lem>הֹלך</lem>
+    <rdg>והולך<wit>96</wit><ref>I</ref></rdg>
+  </app>
+  <app n="121">
+    <lem>ברית</lem>
+    <rdg>כי <wit>96</wit><note>pm</note><note>(?)</note></rdg>
+  </app>
+  <app n="122">
+    <lem>מדם</lem>
+    <rdg>משם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="123">
+    <lem>וכחכי</lem>
+    <rdg>וכחכה <wit>150</wit><note>(similarly GenRmss 80:2 (953:4))</note></rdg>
+  </app>
+  <app n="124">
+    <lem>חבר</lem>
+    <rdg>וחבר<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="125">
+    <lem>שעריריה</lem>
+    <lem>שערוריה</lem>
+    <rdg>k<wit>30</wit><note>pm</note><wit>89</wit><note>pm</note><wit>150</wit><note>sm</note></rdg>
+  </app>
+  <app n="126">
+    <lem>שׁם</lem>
+    <rdg>שׂם<wit>96</wit></rdg>
+  </app>
+  <app n="127">
+    <lem>לך</lem>
+    <rdg>להּ<wit>93</wit><note>sm</note></rdg>
+  </app>
+  <app n="128">
+    <lem>פעלו</lem>
+    <rdg>פעלי<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="129">
+    <lem>וגנב</lem>
+    <rdg>וכגנב<wit>30</wit></rdg>
+  </app>
+  <app n="130">
+    <lem>פשט</lem>
+    <rdg>ופשט <wit>93</wit><note>pm</note><note>(similarly S.Eli.R 22 (125))</note><ref>I</ref></rdg>
+  </app>
+  <app n="131">
+    <lem>בחוץ</lem>
+    <rdg>בחרץ<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="132">
+    <lem>ללבבם</lem>
+    <rdg>ללבם <wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="133">
+    <lem>כמו</lem>
+    <rdg>
+      <wit>89</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="134">
+    <lem>מעיר</lem>
+    <rdg>עיר<wit>96</wit><note>sm</note></rdg>
+  </app>
+  <app n="135">
+    <lem>מלוש</lem>
+    <rdg>בלוש<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="136">
+    <lem>מלכֵּנו</lem>
+    <rdg>מלכינו  <wit>30</wit><wit>93</wit><note>pm</note><wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="137">
+    <lem>שרים</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="138">
+    <lem>ידו</lem>
+    <lem>את</lem>
+    <rdg>
+      <wit>30</wit>
+      <seg type="sigla">~</seg>
+    </rdg>
+  </app>
+  <app n="139">
+    <lem>כַתנור</lem>
+    <rdg>כְתנור<wit>96</wit></rdg>
+  </app>
+  <app n="140">
+    <lem>אֹפֵהֶם</lem>
+    <rdg>אפרים<wit>93</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="141">
+    <lem>אין</lem>
+    <rdg>ואין  <wit>30</wit><note>sm</note><wit>93</wit><wit>150</wit><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="142">
+    <lem>אפרים</lem>
+    <rdg>הוא<wit>93</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="143">
+    <lem>גם</lem>
+    <rdg>וגם<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="144">
+    <lem>אין</lem>
+    <rdg>ואין<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="145">
+    <lem>לב</lem>
+    <rdg>לבי<wit>89</wit><note>pm</note></rdg>
+  </app>
+  <app n="146">
+    <lem>עליהם</lem>
+    <rdg>להם<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="147">
+    <lem>איסירם</lem>
+    <rdg>איסרם <wit>30</wit><wit>89</wit></rdg>
+  </app>
+  <app n="148">
+    <lem>ממני</lem>
+    <rdg>ממנו<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="149">
+    <lem>פשעוּ</lem>
+    <rdg>פשעִי<wit>96</wit></rdg>
+  </app>
+  <app n="150">
+    <lem>ואנכי</lem>
+    <rdg>ואני<wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="151">
+    <lem>דברו</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="152">
+    <lem>זעקו</lem>
+    <rdg>יזעקו <wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="153">
+    <lem>בלבם</lem>
+    <rdg>בלבבם<wit>93</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="154">
+    <lem>יתגוררו</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="155">
+    <lem>יְחַשְּׁבו</lem>
+    <rdg>יַחְשְׁבו<wit>96</wit></rdg>
+  </app>
+  <app n="156">
+    <lem>לא</lem>
+    <rdg>לו<wit>93</wit><note>pm</note><wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="157">
+    <lem>על</lem>
+    <lem>היו</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">~</seg>
+    </rdg>
+  </app>
+  <app n="158">
+    <lem>זוֹ</lem>
+    <rdg>זוּ<wit>96</wit></rdg>
+  </app>
+  <app n="159">
+    <lem>בית</lem>
+    <rdg>על<wit>150</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="160">
+    <lem>עברו</lem>
+    <rdg>עבר<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="161">
+    <lem>תורָתי</lem>
+    <rdg>תורֹתי<wit>89</wit><note>pm</note></rdg>
+  </app>
+  <app n="162">
+    <lem>ישראל</lem>
+    <rdg>
+      <wit>96</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="163">
+    <lem>עגלך</lem>
+    <rdg>עגליך<wit>93</wit><ref>I</ref></rdg>
+  </app>
+  <app n="164">
+    <lem>שבבים</lem>
+    <rdg>שבבום<wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="165">
+    <lem>חפץ</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="166">
+    <lem>בו</lem>
+    <rdg>בֹה<wit>96</wit></rdg>
+  </app>
+  <app n="167">
+    <lem>אקבצם</lem>
+    <rdg>קבצם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="168">
+    <lem>שרים</lem>
+    <rdg>ושרים  <wit>96</wit><wit>150</wit><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="169">
+    <lem>כי</lem>
+    <rdg>
+      <wit>89</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="170">
+    <lem>אפרים</lem>
+    <rdg>ישראל<wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="171">
+    <lem>לו</lem>
+    <rdg>לי<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="172">
+    <lem>אכתוב</lem>
+    <lem>אכתב</lem>
+    <rdg>k<wit>93</wit><wit>96</wit><wit>150</wit><note>sm</note></rdg>
+  </app>
+  <app n="173">
+    <lem>רבו</lem>
+    <lem>רבי</lem>
+    <rdg>q<wit>30</wit><wit>89</wit><wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="174">
+    <lem>וַיֹּאכלו</lem>
+    <rdg>וְיֹאכלו<wit>30</wit><wit>89</wit><wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="175">
+    <lem>יהוה</lem>
+    <rdg>ויהוה <wit>150</wit><note>pm</note><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="176">
+    <lem>עתה</lem>
+    <rdg>ועתה<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="177">
+    <lem>חטֹאותם</lem>
+    <rdg>חטאתם<wit>89</wit><wit>93</wit><wit>96</wit><wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="178">
+    <lem>המה</lem>
+    <rdg>והמה<wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="179">
+    <lem>ויבן</lem>
+    <rdg>א..<wit>93</wit></rdg>
+  </app>
+  <app n="180">
+    <lem>הרבה</lem>
+    <rdg>מזבחות<wit>30</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="181">
+    <lem>ואכלה</lem>
+    <rdg>כל<wit>150</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="182">
+    <lem>ארמנתיה</lem>
+    <rdg>ארמנותיו<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="183">
+    <lem>בהּ</lem>
+    <rdg>בם <wit>30</wit><note>pm</note><wit>93</wit><wit>96</wit><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="184">
+    <lem>יטמאו</lem>
+    <rdg>יטמא<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="185">
+    <lem>בית</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="186">
+    <lem>יהוה</lem>
+    <rdg>ליהוה<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="187">
+    <lem>תְקַברם</lem>
+    <rdg>תִקְברם<wit>30</wit><wit>93</wit></rdg>
+  </app>
+  <app n="188">
+    <lem>לכספם</lem>
+    <rdg>לנפשם<wit>150</wit></rdg>
+  </app>
+  <app n="189">
+    <lem>ישראל</lem>
+    <rdg>לישראל<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="190">
+    <lem>אויל</lem>
+    <rdg>
+      <wit>96</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="191">
+    <lem>רֹב</lem>
+    <rdg>רַב<wit>96</wit></rdg>
+  </app>
+  <app n="192">
+    <lem>עונְךָ</lem>
+    <rdg>עונֵךְ<wit>96</wit></rdg>
+  </app>
+  <app n="193">
+    <lem>ורבה</lem>
+    <rdg>רבה<wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="194">
+    <lem>אלהי</lem>
+    <rdg>אלהיו<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="195">
+    <lem>נביא</lem>
+    <rdg>הנביא<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="196">
+    <lem>יקוֹש</lem>
+    <rdg>יקוּש<wit>93</wit><wit>96</wit></rdg>
+  </app>
+  <app n="197">
+    <lem>יפקוד</lem>
+    <rdg>וְיפקד<wit>30</wit><wit>93</wit><wit>150</wit></rdg>
+  </app>
+  <app n="198">
+    <lem>חטאותם</lem>
+    <rdg>חטֹאתם<wit>89</wit><wit>93</wit><wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="199">
+    <lem>במדבר</lem>
+    <rdg>במדברה<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="200">
+    <lem>וַינזרו</lem>
+    <rdg>וְינזרו<wit>30</wit></rdg>
+  </app>
+  <app n="201">
+    <lem>ויהיו</lem>
+    <rdg>ויהי<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="202">
+    <lem>ומבטן</lem>
+    <rdg>מבטן<wit>30</wit><ref>IV</ref></rdg>
+  </app>
+  <app n="203">
+    <lem>ואפרים</lem>
+    <rdg>אפרים<wit>89</wit><note>pm</note><wit>96</wit><wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="204">
+    <lem>תתן</lem>
+    <rdg>להם<wit>30</wit><note>pm</note><seg type="sigla">+</seg><ref>I</ref></rdg>
+  </app>
+  <app n="205">
+    <lem>רחם</lem>
+    <rdg>מרחם<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="206">
+    <lem>כי</lem>
+    <rdg>
+      <wit>96</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="207">
+    <lem>מביתי</lem>
+    <rdg>מבית<wit>93</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="208">
+    <lem>בלי</lem>
+    <lem>בל</lem>
+    <rdg>k<wit>150</wit><note>sm</note></rdg>
+  </app>
+  <app n="209">
+    <lem>ילדון</lem>
+    <rdg>ילזון<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="210">
+    <lem>אלהי</lem>
+    <rdg>אלהו <wit>93</wit><note>pm</note><note>(?)</note></rdg>
+  </app>
+  <app n="211">
+    <lem>לו</lem>
+    <rdg>
+      <wit>150</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="212">
+    <lem>כרב</lem>
+    <lem>לפריו</lem>
+    <lem>הרבה</lem>
+    <lem>למזבחות</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="213">
+    <lem>למזבחות</lem>
+    <rdg>למזבח<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="214">
+    <lem>ישֹׁדד</lem>
+    <rdg>ישוד <wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="215">
+    <lem>כי</lem>
+    <rdg>לא <wit>150</wit><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="216">
+    <lem>יָרֵאנו</lem>
+    <rdg>יַרְאֵנו<wit>30</wit></rdg>
+  </app>
+  <app n="217">
+    <lem>דברו</lem>
+    <rdg>דברים<wit>150</wit><seg type="sigla">..</seg></rdg>
+  </app>
+  <app n="218">
+    <lem>כרֹת</lem>
+    <rdg>וכרות<wit>96</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="219">
+    <lem>ופרח</lem>
+    <rdg>ופתח<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="220">
+    <lem>שמרון</lem>
+    <rdg>שמרין <wit>30</wit><note>(?)</note></rdg>
+  </app>
+  <app n="221">
+    <lem>וכְמריו</lem>
+    <rdg>כֹ<wit>34</wit></rdg>
+  </app>
+  <app n="222">
+    <lem>יגילו</lem>
+    <rdg>יגלו<wit>150</wit><note>sm</note></rdg>
+  </app>
+  <app n="223">
+    <lem>על</lem>
+    <rdg>ועל<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="224">
+    <lem>ממנו</lem>
+    <rdg>ממני<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="225">
+    <lem>בָשנה</lem>
+    <rdg>בָשְנָה ל ומדׄ מיש ביה בֹשְנָה<wit>34</wit></rdg>
+  </app>
+  <app n="226">
+    <lem>נדמֶה</lem>
+    <rdg>נדמָה <wit>93</wit></rdg>
+  </app>
+  <app n="227">
+    <lem>מלכהּ</lem>
+    <rdg>מלכם<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="228">
+    <lem>מים</lem>
+    <rdg>המים<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="229">
+    <lem>ודרדר</lem>
+    <rdg>ודר דר<wit>16</wit></rdg>
+  </app>
+  <app n="230">
+    <lem>כַּסונו</lem>
+    <rdg>כִּסונו <wit>89</wit><note>(?)</note></rdg>
+  </app>
+  <app n="231">
+    <lem>מימי</lem>
+    <rdg>ממי<wit>30</wit><note>pm</note></rdg>
+  </app>
+  <app n="232">
+    <lem>חטאתָ</lem>
+    <rdg>חטא <wit>93</wit><note>sm</note><wit>96</wit><note>sm</note><note>(ת non voc)</note></rdg>
+  </app>
+  <app n="233">
+    <lem>עלוה</lem>
+    <rdg>עולה<wit>89</wit><note>sm</note><ref>I</ref></rdg>
+  </app>
+  <app n="234">
+    <lem>ואסרם</lem>
+    <rdg>יאשרם <wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="235">
+    <lem>עינתם</lem>
+    <lem>עונֹתם</lem>
+    <rdg>k<wit>30</wit></rdg>
+  </app>
+  <app n="236">
+    <lem>קצרו</lem>
+    <rdg>וקצרו  <wit>30</wit><wit>96</wit><note>pm</note><wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="237">
+    <lem>ועת</lem>
+    <rdg>עת<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="238">
+    <lem>לדרוש</lem>
+    <rdg>
+      <wit>96</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="239">
+    <lem>את</lem>
+    <rdg>
+      <wit>30</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="240">
+    <lem>יהוה</lem>
+    <rdg>יהודה<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="241">
+    <lem>ויֹרה</lem>
+    <rdg>יורה<wit>93</wit><note>pm</note><wit>93</wit><wit>16</wit></rdg>
+  </app>
+  <app n="242">
+    <lem>בדרכְּך</lem>
+    <rdg>בדרכיך <wit>96</wit><wit>150</wit><note>pm</note><ref>I</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="243">
+    <lem>וכל</lem>
+    <rdg>כל<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="244">
+    <lem>שלמן</lem>
+    <rdg>שלומך<wit>96</wit></rdg>
+  </app>
+  <app n="245">
+    <lem>ארבֵאל</lem>
+    <rdg>ארבְּאֵל<wit>93</wit></rdg>
+  </app>
+  <app n="246">
+    <lem>בית-אל</lem>
+    <rdg>ביתְאל<wit>96</wit><ref>IV</ref></rdg>
+  </app>
+  <app n="247">
+    <lem>יזבחו</lem>
+    <rdg>יזבחון<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="248">
+    <lem>ולפסִלים</lem>
+    <rdg>לפסילים<wit>96</wit></rdg>
+  </app>
+  <app n="249">
+    <lem>זרועֹתיו</lem>
+    <rdg>זרועותי <wit>96</wit><note>sm</note><ref>I</ref><ref>II</ref></rdg>
+  </app>
+  <app n="250">
+    <lem>רפאתים</lem>
+    <rdg>רפאתיו<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="251">
+    <lem>להם</lem>
+    <rdg>לה<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="252">
+    <lem>לחֵיהם</lem>
+    <rdg>לחָיֵיהם<wit>30</wit><wit>93</wit></rdg>
+  </app>
+  <app n="253">
+    <lem>וכִלתה</lem>
+    <rdg>וכָלתה<wit>96</wit><ref>I</ref></rdg>
+  </app>
+  <app n="254">
+    <lem>ממֹעצותיהם</lem>
+    <rdg>ממעֲוצותיהם<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="255">
+    <lem>תלואִים</lem>
+    <rdg>תלואיִם<wit/><note>G-B Ea </note><wit>12</wit></rdg>
+  </app>
+  <app n="256">
+    <lem>למשובתי</lem>
+    <rdg>למשבתו<wit>30</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="257">
+    <lem>כצבאיִם</lem>
+    <rdg>כצבאִים<wit>89</wit></rdg>
+  </app>
+  <app n="258">
+    <lem>לא</lem>
+    <rdg>ולא <wit>30</wit><note>pm</note><wit>150</wit><note>pm</note><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="259">
+    <lem>ולא</lem>
+    <rdg>לא <wit>93</wit><note>sm</note><wit>150</wit><note>pm</note><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="260">
+    <lem>וּכְיונה</lem>
+    <rdg>וְכַיונה<wit>93</wit></rdg>
+  </app>
+  <app n="261">
+    <lem>רד</lem>
+    <rdg>
+      <wit>96</wit>
+      <note>sm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="262">
+    <lem>כזב</lem>
+    <rdg>חמס<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="263">
+    <lem>ושֹׁד</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="264">
+    <lem>וברית</lem>
+    <rdg>ובריית<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="265">
+    <lem>כמעלליו</lem>
+    <rdg>וכמעלליו <wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref></rdg>
+  </app>
+  <app n="266">
+    <lem>ישיב</lem>
+    <rdg>אשיב<wit>30</wit><note>pm</note><wit>150</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="267">
+    <lem>שׂרה</lem>
+    <rdg>סרה<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="268">
+    <lem>ימצאֶנו</lem>
+    <rdg>ימצאונו<wit>93</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="269">
+    <lem>שמֹר</lem>
+    <rdg>שמו<wit>30</wit></rdg>
+  </app>
+  <app n="270">
+    <lem>כימי</lem>
+    <rdg>כיום<wit>30</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="271">
+    <lem>הרביתי</lem>
+    <rdg>על הנביאים ואנכי חזון הרבתי <wit>150</wit><note>pm</note><seg type="sigla">+</seg><note>(non voc)</note></rdg>
+  </app>
+  <app n="272">
+    <lem>גלעד</lem>
+    <lem>און</lem>
+    <rdg>
+      <wit>93</wit>
+      <seg type="sigla">~</seg>
+    </rdg>
+  </app>
+  <app n="273">
+    <lem>בגלגל</lem>
+    <rdg>ובגלגל<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="274">
+    <lem>זבחו</lem>
+    <rdg>
+      <wit>93</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="275">
+    <lem>גם</lem>
+    <lem>מזבחותם</lem>
+    <rdg>
+      <wit>96</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="276">
+    <lem>כלֹה</lem>
+    <rdg>כלם <wit>150</wit><note>pm</note><note>(similarly PesiqtaRKms 24:10 (357:10))</note></rdg>
+  </app>
+  <app n="277">
+    <lem>הֹלך</lem>
+    <rdg>והולך<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="278">
+    <lem>אין</lem>
+    <rdg>אין<wit>30</wit><note>pm</note><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="279">
+    <lem>כן</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="280">
+    <lem>כנמר</lem>
+    <rdg>וכנמר<wit>93</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="281">
+    <lem>חית</lem>
+    <rdg>וחית<wit>93</wit><wit>150</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="282">
+    <lem>בי</lem>
+    <rdg>
+      <wit>150</wit>
+      <note>pm</note>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="283">
+    <lem>אפוא</lem>
+    <rdg>איפֹה<wit>30</wit></rdg>
+  </app>
+  <app n="284">
+    <lem>ויושיעֲך</lem>
+    <rdg>ויושיעוך<wit>96</wit><note>pm</note></rdg>
+  </app>
+  <app n="285">
+    <lem>לי</lem>
+    <rdg>לנו<wit>96</wit></rdg>
+  </app>
+  <app n="286">
+    <lem>לו</lem>
+    <rdg>לָךְ<wit>93</wit><note>pm?</note><wit>96</wit></rdg>
+  </app>
+  <app n="287">
+    <lem>הוא</lem>
+    <rdg>והוא<wit>93</wit><note>pm</note><wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="288">
+    <lem>לא</lem>
+    <rdg>ולא<wit>93</wit></rdg>
+  </app>
+  <app n="289">
+    <lem>ממות</lem>
+    <rdg>וממות <wit>30</wit><wit>89</wit><note>sm</note><wit>93</wit><note>pm</note><wit>96</wit><wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref></rdg>
+  </app>
+  <app n="290">
+    <lem>דבריך</lem>
+    <rdg>דברך  <wit>30</wit><wit>93</wit><note>pm</note><wit>96</wit><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="291">
+    <lem>נֹחם</lem>
+    <rdg>נַחֵם <wit>34</wit><note>(taken as infinitive, see Yeivin, Babylonian ocalization, 1:542)</note><ref>V</ref></rdg>
+  </app>
+  <app n="292">
+    <lem>בין</lem>
+    <rdg>בן  <wit>93</wit><note>pm</note><ref>I</ref><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="293">
+    <lem>ויבוש</lem>
+    <rdg>תיבש<wit>93</wit><note>pm</note></rdg>
+  </app>
+  <app n="294">
+    <lem>הוא</lem>
+    <rdg>והוא <wit>93</wit><note>pm</note><wit>96</wit><wit>150</wit><note>pm</note><ref>I</ref><ref>II</ref></rdg>
+  </app>
+  <app n="295">
+    <lem>עלליהם</lem>
+    <rdg>ועולליהם<wit>93</wit><wit>150</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="296">
+    <lem>ושובו</lem>
+    <rdg>ושֻׁבו<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="297">
+    <lem>אמרו</lem>
+    <rdg>ואמרו <wit>30</wit><note>pm</note><wit>93</wit><note>pm</note><wit>96</wit><wit>150</wit><note>pm</note><ref>II</ref><ref>IV</ref></rdg>
+  </app>
+  <app n="298">
+    <lem>כל</lem>
+    <rdg>בל<wit>89</wit><note>pm</note><ref>I</ref></rdg>
+  </app>
+  <app n="299">
+    <lem>על</lem>
+    <rdg>ועל<wit>93</wit><note>pm</note><wit>96</wit><wit>150</wit><note>pm</note><ref>IV</ref></rdg>
+  </app>
+  <app n="300">
+    <lem>ממנו</lem>
+    <rdg>k ממני / q ממנו<wit>34</wit><ref>IV</ref></rdg>
+  </app>
+  <app n="301">
+    <lem>יפרח</lem>
+    <rdg>ויפרח<wit>150</wit><note>pm</note></rdg>
+  </app>
+  <app n="302">
+    <rdg>
+      <wit>30</wit>
+      <seg type="sigla">&gt;</seg>
+    </rdg>
+  </app>
+  <app n="303">
+    <lem>כגפן</lem>
+    <rdg>כד..<wit>93</wit></rdg>
+  </app>
+  <app n="304">
+    <lem>אני</lem>
+    <rdg>אני<wit>93</wit><seg type="sigla">+</seg></rdg>
+  </app>
+  <app n="305">
+    <lem>חכָם</lem>
+    <rdg>חכֵם <wit>93</wit><note>(!)</note></rdg>
+  </app>
+  <app n="306">
+    <lem>וצדקים</lem>
+    <rdg>צדיקים<wit>96</wit></rdg>
+  </app>
+</TEI>
