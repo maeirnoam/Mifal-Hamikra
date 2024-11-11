@@ -1,0 +1,60 @@
+<?xml-model href="teipublisher_odds.xsd"?>
+<TEI xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biblical Text: Book of Hosea</title>
+                <desc>A transcription of the Book of Hosea from the Hebrew Bible.</desc>
+                <title type="short">Hosea</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Your Name or Institution</publisher>
+                <availability>
+                    <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html">Distributed under GNU General Public License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcription from the Hebrew Bible.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="bold">font-weight: bold;</rendition>
+                <rendition xml:id="italic">font-style: italic;</rendition>
+                <rendition xml:id="center">text-align: center;</rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2024-09-01">Initial encoding of Hosea for TEI Publisher.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="book" n="Hosea">
+                <div type="chapter" n="1">
+                    <head>Chapter 1</head>
+                    <lg type="verse" n="1:1">
+                        <l>דְבַר־יְהוָה אֲשֶר הָיָה אֶל־הוֹשֵעַ בֶן־בְּאֵרִי</l>
+                        <l>בִּימֵי עֻזִיָּה יוֹתָם אָחָז יְחִזְקִיָּה מַלְכֵי יְהוּדָה</l>
+                        <l>וּבִימֵי יָרָבְעָם בֶן־יוֹאָשׁ מֶלֶךְ יִשְׂרָאֵל.</l>
+                    </lg>
+                    <lg type="verse" n="1:2">
+                        <l>תְּחִלַּת דִבֶּר־יְהוָה בְהוֹשֵעַ.</l>
+                        <l>וַיֹּאמֶר יְהוָה אֶל־הוֹשֵעַ לֵךְ קַח־לְךָ אֵשֶת זְנוּנִים</l>
+                        <l>כִּי־זָנֹה תִזְנֶה הָאָרֶץ מֵאַחֲרֵי יְהוָה...</l>
+                    </lg>
+                    <!-- Add more verses as needed -->
+                </div>
+
+                <div type="chapter" n="2">
+                    <head>Chapter 2</head>
+                    <lg type="verse" n="2:1">
+                        <l>וְהָיָה מִסְפַּר בְּנֵי־יִשְׂרָאֵל כְּחוֹל הַיָּם</l>
+                        <l>אֲשֶר לֹא־יִמַּד וְלֹא יִסָּפֵר...</l>
+                    </lg>
+                    <!-- Continue with the verses and chapters -->
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

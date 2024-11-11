@@ -1,0 +1,81 @@
+<?xml-model href="teipublisher_odds.xsd"?>
+<TEI xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biblical Text: Book of Hosea</title>
+                <desc>A transcription of the Book of Hosea with morphological and apparatus information.</desc>
+                <title type="short">Hosea</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Your Name or Institution</publisher>
+                <availability>
+                    <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html">Distributed under GNU General Public License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcription from the Hebrew Bible with word-level annotations.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="bold">font-weight: bold;</rendition>
+                <rendition xml:id="italic">font-style: italic;</rendition>
+                <rendition xml:id="center">text-align: center;</rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2024-09-01">Initial encoding of Hosea for TEI Publisher with morphological and apparatus data.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="book" n="Hosea">
+                <div type="chapter" n="1">
+                    <head>Chapter 1</head>
+                    <lg type="verse" n="1:1">
+                        <w xml:id="w1-1-1" lemma="דבר" pos="noun">דְבַר</w>
+                        <pc>־</pc>
+                        <w xml:id="w1-1-2" lemma="יהוה" pos="properNoun">יְהוָה</w>
+                        <w xml:id="w1-1-3" lemma="אשר" pos="relativePronoun">אֲשֶר</w>
+                        <w xml:id="w1-1-4" lemma="היה" pos="verb">הָיָה</w>
+                        <w xml:id="w1-1-5" lemma="אל" pos="preposition">אֶל</w>
+                        <w xml:id="w1-1-6" lemma="הושע" pos="properNoun">הוֹשֵעַ</w>
+                        <pc>,</pc>
+                        <w xml:id="w1-1-7" lemma="בן" pos="noun">בֶן</w>
+                        <w xml:id="w1-1-8" lemma="בערי" pos="properNoun">בְּאֵרִי</w>
+                        <pc>.</pc>
+                    </lg>
+
+                    <lg type="verse" n="1:2">
+                        <w xml:id="w1-2-1" lemma="תחלת" pos="noun">תְּחִלַּת</w>
+                        <w xml:id="w1-2-2" lemma="דבר" pos="noun">דִבֶּר</w>
+                        <pc>־</pc>
+                        <w xml:id="w1-2-3" lemma="יהוה" pos="properNoun">יְהוָה</w>
+                        <w xml:id="w1-2-4" lemma="בהושע" pos="properNoun">בְהוֹשֵעַ</w>
+                        <pc>.</pc>
+                    </lg>
+                </div>
+
+                <div type="chapter" n="2">
+                    <head>Chapter 2</head>
+                    <lg type="verse" n="2:1">
+                        <w xml:id="w2-1-1" lemma="ויהיה" pos="verb">וְהָיָה</w>
+                        <w xml:id="w2-1-2" lemma="מספר" pos="noun">מִסְפַּר</w>
+                        <w xml:id="w2-1-3" lemma="בני" pos="noun">בְּנֵי</w>
+                        <w xml:id="w2-1-4" lemma="ישראל" pos="properNoun">יִשְׂרָאֵל</w>
+                        <w xml:id="w2-1-5" lemma="כחול" pos="noun">כְּחוֹל</w>
+                        <w xml:id="w2-1-6" lemma="הים" pos="noun">הַיָּם</w>
+                        <pc>,</pc>
+                        <w xml:id="w2-1-7" lemma="אשר" pos="relativePronoun">אֲשֶר</w>
+                        <w xml:id="w2-1-8" lemma="לא" pos="negation">לֹא</w>
+                        <w xml:id="w2-1-9" lemma="ימד" pos="verb">יִמַּד</w>
+                        <w xml:id="w2-1-10" lemma="ולא" pos="conjunction">וְלֹא</w>
+                        <w xml:id="w2-1-11" lemma="יספר" pos="verb">יִסָּפֵר</w>
+                        <pc>.</pc>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

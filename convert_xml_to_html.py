@@ -192,7 +192,7 @@ def convert_xml_to_html(xml_file):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>TEI Document</title>
+        <title>App III XML Validation</title>
         <style>
             body { font-family: Arial, sans-serif; }
             .apparatus { margin: 20px; padding: 10px; border: 1px solid #ddd; }
@@ -206,7 +206,7 @@ def convert_xml_to_html(xml_file):
         </style>
     </head>
     <body>
-        <h1>TEI Document</h1>
+        <h1>App III XML Validation</h1>
     '''
 
     for entry in root.findall('.//entry'):
@@ -234,16 +234,40 @@ def convert_xml_to_html(xml_file):
 
 
             function addCell(button) {
+                const existingTags = [
+                    'Chapter', 'Verse', 'Verse From', 'Verse To', 'Entry', 
+                    'Lemma', 'Lemma Numbers', 'From Lemma', 'To Lemma', 
+                    'Type', 'Reading', 'Sigla', 'Collection', 'Manuscript', 
+                    'Comment', 'References', 'General Comment'
+                ];
+            
                 const container = button.parentNode;
                 const cell = document.createElement('div');
                 cell.className = 'additional-cell';
+                
                 cell.innerHTML = `
-                    <input type="text" placeholder="New Cell" class="additional-title">
+                    <select class="additional-title" onchange="toggleCustomInput(this)">
+                        ${existingTags.map(tag => `<option value="${tag}">${tag}</option>`).join('')}
+                        <option value="Other">Other</option>
+                    </select>
+                    <input type="text" placeholder="Custom Tag" class="custom-title" style="display:none;">                    
                     <input type="text" placeholder="New Value" class="additional-value" data-status="added">
                     <button type="button" onclick="removeCell(this)">Remove</button>
                 `;
+                
                 container.insertBefore(cell, button);
             }
+            
+            function toggleCustomInput(select) {
+                const customInput = select.parentNode.querySelector('.custom-title');
+                if (select.value === 'Other') {
+                    customInput.style.display = 'block';
+                } else {
+                    customInput.style.display = 'none';
+                    customInput.value = ''; // Clear custom input when not needed
+                }
+            }
+
 
             function removeCell(button) {
                 const cell = button.parentNode;
@@ -256,8 +280,12 @@ def convert_xml_to_html(xml_file):
                     const entryNumber = entry.getAttribute('data-entry-number'); // Capture the entry number
             
                     const additionalCells = Array.from(entry.querySelectorAll('.additional-cell')).map(cell => {
+                        const titleSelect = cell.querySelector('.additional-title');
+                        const customTitle = cell.querySelector('.custom-title').value;
+                        const title = titleSelect.value === 'Other' ? customTitle : titleSelect.value;
+            
                         return {
-                            title: cell.querySelector('.additional-title') ? cell.querySelector('.additional-title').value : '',
+                            title: title,
                             value: cell.querySelector('.additional-value') ? cell.querySelector('.additional-value').value : '',
                             status: cell.querySelector('.additional-value').dataset.status || 'original'
                         };
