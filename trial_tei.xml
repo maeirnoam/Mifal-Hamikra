@@ -1,60 +1,240 @@
-<?xml-model href="teipublisher_odds.xsd"?>
-<TEI xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Biblical Text: Book of Hosea</title>
-                <desc>A transcription of the Book of Hosea from the Hebrew Bible.</desc>
-                <title type="short">Hosea</title>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Your Name or Institution</publisher>
-                <availability>
-                    <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html">Distributed under GNU General Public License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Transcription from the Hebrew Bible.</p>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <tagsDecl>
-                <rendition xml:id="bold">font-weight: bold;</rendition>
-                <rendition xml:id="italic">font-style: italic;</rendition>
-                <rendition xml:id="center">text-align: center;</rendition>
-            </tagsDecl>
-        </encodingDesc>
-        <revisionDesc>
-            <change when="2024-09-01">Initial encoding of Hosea for TEI Publisher.</change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="book" n="Hosea">
-                <div type="chapter" n="1">
-                    <head>Chapter 1</head>
-                    <lg type="verse" n="1:1">
-                        <l>דְבַר־יְהוָה אֲשֶר הָיָה אֶל־הוֹשֵעַ בֶן־בְּאֵרִי</l>
-                        <l>בִּימֵי עֻזִיָּה יוֹתָם אָחָז יְחִזְקִיָּה מַלְכֵי יְהוּדָה</l>
-                        <l>וּבִימֵי יָרָבְעָם בֶן־יוֹאָשׁ מֶלֶךְ יִשְׂרָאֵל.</l>
-                    </lg>
-                    <lg type="verse" n="1:2">
-                        <l>תְּחִלַּת דִבֶּר־יְהוָה בְהוֹשֵעַ.</l>
-                        <l>וַיֹּאמֶר יְהוָה אֶל־הוֹשֵעַ לֵךְ קַח־לְךָ אֵשֶת זְנוּנִים</l>
-                        <l>כִּי־זָנֹה תִזְנֶה הָאָרֶץ מֵאַחֲרֵי יְהוָה...</l>
-                    </lg>
-                    <!-- Add more verses as needed -->
-                </div>
-
-                <div type="chapter" n="2">
-                    <head>Chapter 2</head>
-                    <lg type="verse" n="2:1">
-                        <l>וְהָיָה מִסְפַּר בְּנֵי־יִשְׂרָאֵל כְּחוֹל הַיָּם</l>
-                        <l>אֲשֶר לֹא־יִמַּד וְלֹא יִסָּפֵר...</l>
-                    </lg>
-                    <!-- Continue with the verses and chapters -->
-                </div>
-            </div>
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Converted TEI Document</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Generated from custom XML</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from custom format</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listApp>
+        <app xmlns="" xml:id="app-1">
+          <rdgGrp>
+            <rdg/>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-1">
+          <lem/>
+          <rdgGrp>
+            <rdg wit="&#x5DC;18&#x5DE;&quot;&#x5E7;">
+              <seg>"ל֣גׄ ׀"</seg>
+            </rdg>
+            <rdg wit="&#x5E0;&#x5DE;&quot;&#x5E7;&#x5E8;&#x5DE;&quot;&#x5E7;">
+              <seg>"לגׄ"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-1">
+          <lem>
+            <w>הושע֙</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;&#x5DC;1830&#x5E7;">
+              <seg>ש֙ע֙</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-1">
+          <lem>
+            <w>דבֶּר־</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E0;">
+              <seg>בֵּ</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-2">
+          <lem>
+            <w>(פ)</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;30&#x5E4;&#x5E7;1&#x5E8;&#x5E9;">
+              <seg>(ס)</seg>
+            </rdg>
+            <rdg wit="&#x5DE;">
+              <seg>(&gt;)</seg>
+            </rdg>
+            <rdg wit="&#x5E8;&#x5DE;&quot;&#x5E7;">
+              <seg>"פסיק ולא גמיר"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-2">
+          <lem>
+            <w>הושע</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E7;1'">
+              <seg>יהושע</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-2">
+          <lem>
+            <w>זנֹה</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;30&#x5DE;&quot;&#x5E7;">
+              <seg>"ןׄ זנ֔ו קׄ"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-3">
+          <lem>
+            <w>וי֙לֶך֙</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E9;">
+              <seg>וילך֙</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-3">
+          <lem>
+            <w>את־</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E7;1'">
+              <seg>ואת</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-3">
+          <lem>
+            <w>לו</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E8;'"/>
+            <rdg wit="&#x5E7;&#x5DE;&quot;&#x5E7;">
+              <seg>"יפׄ"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-4">
+          <lem>
+            <w>כִּי־</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E8;">
+              <seg>כִּ֣י ׀</seg>
+            </rdg>
+            <rdg wit="&#x5E8;&#x5DE;&quot;&#x5E7;">
+              <seg>"לגׄ"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-4">
+          <lem>
+            <w>וה֨שבת֔י</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;29'">
+              <seg>השבתי</seg>
+            </rdg>
+            <rdg wit="&#x5DC;18">
+              <seg>והשבת֔י</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-4">
+          <lem>
+            <w>בעֵמק</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;18">
+              <seg>עֶ</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-4">
+          <lem>
+            <w>יזרעֶאל</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;18">
+              <seg>עֵ</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-6">
+          <lem/>
+          <rdgGrp>
+            <rdg wit="&#x5E4;''"/>
+            <rdg wit=""/>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-6">
+          <lem>
+            <w>אוסיף</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E0;">
+              <seg>אסיף</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-7">
+          <lem>
+            <w>בסוסים</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E0;&#x5DE;&quot;&#x5E7;&#x5E4;&#x5DE;&quot;&#x5E7;">
+              <seg>"בסיפׄ מוגׄ"</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-7">
+          <lem>
+            <w>ובח֙רב֙</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E9;">
+              <seg>ובחרב֙</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-8">
+          <lem>
+            <w>ותֵּ֥לד</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;29'">
+              <seg>לו</seg>
+            </rdg>
+            <rdg wit="&#x5E0;">
+              <seg>ותֵּֽלד־</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-9">
+          <lem>
+            <w>אתם</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5DC;18'">
+              <seg>אותם</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+        <app xmlns="" xml:id="app-9">
+          <lem>
+            <w>אהְיה</w>
+          </lem>
+          <rdgGrp>
+            <rdg wit="&#x5E0;'&#x5DE;">
+              <seg>הֱ</seg>
+            </rdg>
+          </rdgGrp>
+        </app>
+      </listApp>
+    </body>
+  </text>
 </TEI>
