@@ -48,7 +48,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-30" type="addition">
-              <seg>נבט </seg>
+              <seg>נבט</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -60,7 +60,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>ביהושע </seg>
+              <seg>ביהושע</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(similarly PesiqtaR 33 (153b))</note>
@@ -102,7 +102,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-30" type="addition">
-              <seg>על </seg>
+              <seg>על</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -134,7 +134,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>ישראל </seg>
+              <seg>ישראל</seg>
             </rdg>
             <note type="general">(parall; but 150-Tg: יזרעאל)</note>
           </rdgGrp>
@@ -209,7 +209,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>ובסוסים </seg>
+              <seg>ובסוסים</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -235,7 +235,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>אנכי </seg>
+              <seg>אנכי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -252,7 +252,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-150" type="addition">
-              <seg>יאמר </seg>
+              <seg>יאמר</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -348,7 +348,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-30" type="addition">
-              <seg>ואשיבה אל איש </seg>
+              <seg>ואשיבה אל איש</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -360,15 +360,15 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>סך  </seg>
+              <seg>סך</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>סך  </seg>
+              <seg>סך</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>סך  </seg>
+              <seg>סך</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))</note>
@@ -454,7 +454,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-94" type="variant">
-              <seg>ותָעָד </seg>
+              <seg>ותָעָד</seg>
             </rdg>
             <note type="general">(understood as \עוד (rather than \עדי))</note>
           </rdgGrp>
@@ -500,7 +500,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>המדברה </seg>
+              <seg>המדברה</seg>
             </rdg>
             <note type="general">(similarly SifreDeut 313 (356:6), RuthR 5:6)</note>
           </rdgGrp>
@@ -512,7 +512,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-150" type="addition">
-              <seg>צבאות </seg>
+              <seg>צבאות</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -524,13 +524,13 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>תקראו </seg>
+              <seg>תקראו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
           <rdgGrp type="addition">
             <rdg wit="#wit-30" type="addition">
-              <seg>לי </seg>
+              <seg>לי</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -596,24 +596,24 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>וידעתם </seg>
+              <seg>וידעתם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
           <rdgGrp type="addition">
             <rdg wit="#wit-30" type="addition">
-              <seg>כי  </seg>
+              <seg>כי</seg>
             </rdg>
             <rdg wit="#wit-89" type="addition">
-              <seg>כי  </seg>
+              <seg>כי</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-93" type="addition">
-              <seg>כי  </seg>
+              <seg>כי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="addition">
-              <seg>כי  </seg>
+              <seg>כי</seg>
               <note type="witness-comment">non voc</note>
             </rdg>
           </rdgGrp>
@@ -630,14 +630,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>אני  </seg>
+              <seg>אני</seg>
             </rdg>
             <rdg wit="#wit-89" type="variant">
-              <seg>אני  </seg>
+              <seg>אני</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>אני  </seg>
+              <seg>אני</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -677,7 +677,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ואמרה </seg>
+              <seg>ואמרה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -709,7 +709,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>תתי </seg>
+              <seg>תתי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(Caused by ligature ז+נ)</note>
@@ -749,7 +749,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>ואחר </seg>
+              <seg>ואחר</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -783,17 +783,17 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ישבי </seg>
+              <seg>ישבי</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>ישבי </seg>
+              <seg>ישבי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>יושבי  </seg>
+              <seg>יושבי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -860,27 +860,27 @@
           <note type="import">אתה] 96 (pm) את</note>
         </app>
         <app xml:id="app3-4-6-61">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>ואמאסאך</w>
             </lem>
             <lem type="q">
               <w>ואמאסך</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>q  </seg>
+              <seg>q</seg>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>q  </seg>
+              <seg>q</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>q  </seg>
+              <seg>q</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>q  </seg>
+              <seg>q</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -924,15 +924,15 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-89" type="variant">
-              <seg>נפשם </seg>
+              <seg>נפשם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>נפשם </seg>
+              <seg>נפשם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>נפשם </seg>
+              <seg>נפשם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -960,7 +960,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-96" type="addition">
-              <seg>ודמו </seg>
+              <seg>ודמו</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -1085,7 +1085,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>תנאפינה </seg>
+              <seg>תנאפינה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)</note>
@@ -1136,7 +1136,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>אל </seg>
+              <seg>אל</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1222,13 +1222,13 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>בכנפה </seg>
+              <seg>בכנפה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>בכפניה </seg>
+              <seg>בכפניה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1246,13 +1246,13 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>מִזְבְּחתם  </seg>
+              <seg>מִזְבְּחתם</seg>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>מִזְבְּחתם  </seg>
+              <seg>מִזְבְּחתם</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>מִזְבְּחתם  </seg>
+              <seg>מִזְבְּחתם</seg>
             </rdg>
           </rdgGrp>
           <rdgGrp type="variant">
@@ -1272,7 +1272,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>פרוסה </seg>
+              <seg>פרוסה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1302,7 +1302,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ולא </seg>
+              <seg>ולא</seg>
               <note type="witness-comment">sm</note>
             </rdg>
           </rdgGrp>
@@ -1318,7 +1318,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-93" type="addition">
-              <seg>אל </seg>
+              <seg>אל</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1382,7 +1382,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-93" type="addition">
-              <seg>דבר </seg>
+              <seg>דבר</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -1444,7 +1444,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>בין </seg>
+              <seg>בין</seg>
             </rdg>
             <note type="general">(similarly b. R.HaŠanams 32b)</note>
           </rdgGrp>
@@ -1488,7 +1488,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-93" type="addition">
-              <seg>עולם </seg>
+              <seg>עולם</seg>
             </rdg>
             <note type="general">(non voc) (cf גבול עולם Prov 2228 2310)</note>
           </rdgGrp>
@@ -1560,22 +1560,22 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ואשא </seg>
+              <seg>ואשא</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-89" type="variant">
-              <seg>ואשא </seg>
+              <seg>ואשא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>ואשא </seg>
+              <seg>ואשא</seg>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>ואשא </seg>
+              <seg>ואשא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ואשא </seg>
+              <seg>ואשא</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -1590,16 +1590,16 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ואשובה  </seg>
+              <seg>ואשובה</seg>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>ואשובה  </seg>
+              <seg>ואשובה</seg>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>ואשובה  </seg>
+              <seg>ואשובה</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ואשובה  </seg>
+              <seg>ואשובה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1652,7 +1652,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>ומלקוש  </seg>
+              <seg>ומלקוש</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1669,7 +1669,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>לָךְ </seg>
+              <seg>לָךְ</seg>
             </rdg>
           </rdgGrp>
           <rdgGrp type="addition">
@@ -1707,7 +1707,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>לָךְ </seg>
+              <seg>לָךְ</seg>
             </rdg>
           </rdgGrp>
           <rdgGrp type="addition">
@@ -1755,7 +1755,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>כי </seg>
+              <seg>כי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(?)</note>
@@ -1780,7 +1780,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>וכחכה </seg>
+              <seg>וכחכה</seg>
             </rdg>
             <note type="general">(similarly GenRmss 80:2 (953:4))</note>
           </rdgGrp>
@@ -1799,14 +1799,14 @@
           <note type="import">חבר] 93 (pm) וחבר</note>
         </app>
         <app xml:id="app3-6-10-125">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>שעריריה</w>
             </lem>
             <lem type="q">
               <w>שערוריה</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
               <seg>k</seg>
@@ -1905,7 +1905,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>ופשט </seg>
+              <seg>ופשט</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(similarly S.Eli.R 22 (125))</note>
@@ -1933,7 +1933,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>ללבם </seg>
+              <seg>ללבם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -1995,14 +1995,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>מלכינו  </seg>
+              <seg>מלכינו</seg>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>מלכינו  </seg>
+              <seg>מלכינו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>מלכינו  </seg>
+              <seg>מלכינו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -2029,8 +2029,8 @@
             <w>ידו</w>
             <w>את</w>
           </lem>
-          <rdgGrp type="~">
-            <rdg wit="#wit-30" type="~"/>
+          <rdgGrp type="variant">
+            <rdg wit="#wit-30" type="variant"/>
           </rdgGrp>
           <note type="import">ידו את] 30 ~</note>
         </app>
@@ -2066,14 +2066,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ואין  </seg>
+              <seg>ואין</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>ואין  </seg>
+              <seg>ואין</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ואין  </seg>
+              <seg>ואין</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -2149,10 +2149,10 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>איסרם </seg>
+              <seg>איסרם</seg>
             </rdg>
             <rdg wit="#wit-89" type="variant">
-              <seg>איסרם </seg>
+              <seg>איסרם</seg>
             </rdg>
           </rdgGrp>
           <rdgGrp type="variant">
@@ -2163,7 +2163,7 @@
           </rdgGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>אייסירים </seg>
+              <seg>אייסירים</seg>
               <note type="witness-comment">sm</note>
             </rdg>
           </rdgGrp>
@@ -2230,7 +2230,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>יזעקו </seg>
+              <seg>יזעקו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -2299,8 +2299,8 @@
             <w>על</w>
             <w>היו</w>
           </lem>
-          <rdgGrp type="~">
-            <rdg wit="#wit-150" type="~">
+          <rdgGrp type="variant">
+            <rdg wit="#wit-150" type="variant">
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -2433,10 +2433,10 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>ושרים  </seg>
+              <seg>ושרים</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ושרים  </seg>
+              <seg>ושרים</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -2482,14 +2482,14 @@
           <note type="import">לו] 93 (pm) לי</note>
         </app>
         <app xml:id="app3-8-12-172">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>אכתוב</w>
             </lem>
             <lem type="q">
               <w>אכתב</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
               <seg>k</seg>
@@ -2517,14 +2517,14 @@
           <note type="import">12 k אכתוב / q אכתב] 93 96 150 (sm) k, 30 89 150 (pm) q</note>
         </app>
         <app xml:id="app3-8-12-173">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>רבו</w>
             </lem>
             <lem type="q">
               <w>רבי</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
               <seg>q</seg>
@@ -2573,7 +2573,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>ויהוה </seg>
+              <seg>ויהוה</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -2689,14 +2689,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>בם </seg>
+              <seg>בם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>בם </seg>
+              <seg>בם</seg>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>בם </seg>
+              <seg>בם</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -2880,7 +2880,7 @@
           </rdgGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>וְיפקוד </seg>
+              <seg>וְיפקוד</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -3032,14 +3032,14 @@
           <note type="import">מביתי] 93 (pm) מביתIV</note>
         </app>
         <app xml:id="app3-9-16-208">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>בלי</w>
             </lem>
             <lem type="q">
               <w>בל</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
               <seg>k</seg>
@@ -3084,7 +3084,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>אלהו </seg>
+              <seg>אלהו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(?)</note>
@@ -3132,7 +3132,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>ישוד </seg>
+              <seg>ישוד</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3150,7 +3150,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-150" type="addition">
-              <seg>לא </seg>
+              <seg>לא</seg>
             </rdg>
             <note type="general">(non voc)</note>
           </rdgGrp>
@@ -3171,9 +3171,9 @@
           <lem>
             <w>דברו</w>
           </lem>
-          <rdgGrp type="..">
-            <rdg wit="#wit-150" type="..">
-              <seg>דברים</seg>
+          <rdgGrp type="variant">
+            <rdg wit="#wit-150" type="variant">
+              <seg ref="#sig-ell">דברים</seg>
             </rdg>
           </rdgGrp>
           <note type="import">4 דברו] 150 ..דברים</note>
@@ -3211,7 +3211,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>שמרין </seg>
+              <seg>שמרין</seg>
             </rdg>
             <note type="general">(?)</note>
           </rdgGrp>
@@ -3281,7 +3281,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>נדמָה </seg>
+              <seg>נדמָה</seg>
             </rdg>
           </rdgGrp>
           <rdgGrp type="addition">
@@ -3333,7 +3333,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-89" type="variant">
-              <seg>כִּסונו </seg>
+              <seg>כִּסונו</seg>
             </rdg>
             <note type="general">(?)</note>
           </rdgGrp>
@@ -3357,11 +3357,11 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>חטא </seg>
+              <seg>חטא</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>חטא </seg>
+              <seg>חטא</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <note type="general">(ת non voc)</note>
@@ -3389,26 +3389,26 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>יאשרם </seg>
+              <seg>יאשרם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
-          <rdgGrp type="..">
-            <rdg wit="#wit-150" type="..">
-              <seg>על</seg>
+          <rdgGrp type="variant">
+            <rdg wit="#wit-150" type="variant">
+              <seg ref="#sig-ell">על</seg>
             </rdg>
           </rdgGrp>
           <note type="import">10 ואסרם] 96 (pm) יאשרם | 150 ..על</note>
         </app>
         <app xml:id="app3-10-10-235">
-          <rdgGrp type="k/q">
+          <lemGrp type="k/q">
             <lem type="k">
               <w>עינתם</w>
             </lem>
             <lem type="q">
               <w>עונֹתם</w>
             </lem>
-          </rdgGrp>
+          </lemGrp>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
               <seg>k</seg>
@@ -3442,14 +3442,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>וקצרו  </seg>
+              <seg>וקצרו</seg>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>וקצרו  </seg>
+              <seg>וקצרו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>וקצרו  </seg>
+              <seg>וקצרו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3533,10 +3533,10 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>בדרכיך </seg>
+              <seg>בדרכיך</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>בדרכיך </seg>
+              <seg>בדרכיך</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3623,7 +3623,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-96" type="variant">
-              <seg>זרועותי </seg>
+              <seg>זרועותי</seg>
               <note type="witness-comment">sm</note>
             </rdg>
           </rdgGrp>
@@ -3745,11 +3745,11 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ולא </seg>
+              <seg>ולא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ולא </seg>
+              <seg>ולא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3765,11 +3765,11 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>לא </seg>
+              <seg>לא</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>לא </seg>
+              <seg>לא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3842,7 +3842,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>וכמעלליו </seg>
+              <seg>וכמעלליו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -3930,7 +3930,7 @@
           </lem>
           <rdgGrp type="addition">
             <rdg wit="#wit-150" type="addition">
-              <seg>על הנביאים ואנכי חזון הרבתי </seg>
+              <seg>על הנביאים ואנכי חזון הרבתי</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(non voc)</note>
@@ -3942,8 +3942,8 @@
             <w>גלעד</w>
             <w>און</w>
           </lem>
-          <rdgGrp type="~">
-            <rdg wit="#wit-93" type="~"/>
+          <rdgGrp type="variant">
+            <rdg wit="#wit-93" type="variant"/>
           </rdgGrp>
           <note type="import">12 גלעד און] 93 ~</note>
         </app>
@@ -3986,7 +3986,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-150" type="variant">
-              <seg>כלם </seg>
+              <seg>כלם</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <note type="general">(similarly PesiqtaRKms 24:10 (357:10))</note>
@@ -4157,21 +4157,21 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>וממות </seg>
+              <seg>וממות</seg>
             </rdg>
             <rdg wit="#wit-89" type="variant">
-              <seg>וממות </seg>
+              <seg>וממות</seg>
               <note type="witness-comment">sm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>וממות </seg>
+              <seg>וממות</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>וממות </seg>
+              <seg>וממות</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>וממות </seg>
+              <seg>וממות</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -4187,14 +4187,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>דברך  </seg>
+              <seg>דברך</seg>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>דברך  </seg>
+              <seg>דברך</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>דברך  </seg>
+              <seg>דברך</seg>
             </rdg>
           </rdgGrp>
           <listRef>
@@ -4210,7 +4210,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-34" type="variant">
-              <seg>נַחֵם </seg>
+              <seg>נַחֵם</seg>
             </rdg>
             <note type="general">(taken as infinitive, see Yeivin, Babylonian ocalization, 1:542)</note>
           </rdgGrp>
@@ -4225,7 +4225,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>בן  </seg>
+              <seg>בן</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -4254,14 +4254,14 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>והוא </seg>
+              <seg>והוא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>והוא </seg>
+              <seg>והוא</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>והוא </seg>
+              <seg>והוא</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -4307,18 +4307,18 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-30" type="variant">
-              <seg>ואמרו </seg>
+              <seg>ואמרו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-93" type="variant">
-              <seg>ואמרו </seg>
+              <seg>ואמרו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
             <rdg wit="#wit-96" type="variant">
-              <seg>ואמרו </seg>
+              <seg>ואמרו</seg>
             </rdg>
             <rdg wit="#wit-150" type="variant">
-              <seg>ואמרו </seg>
+              <seg>ואמרו</seg>
               <note type="witness-comment">pm</note>
             </rdg>
           </rdgGrp>
@@ -4391,7 +4391,7 @@
           </rdgGrp>
           <note type="import">6 יפרח] 150 (pm) ויפרח</note>
         </app>
-        <app xml:id="app3-14-7-302" from="7" to="8">
+        <app xml:id="app3-14-7-8-302" from="7" to="8">
           <lemGrp type="range">
             <lemGrp type="from">
               <lem>
@@ -4406,7 +4406,6 @@
               </lem>
             </lemGrp>
           </lemGrp>
-          <lem/>
           <rdgGrp type="omission">
             <rdg wit="#wit-30" type="omission"/>
           </rdgGrp>
@@ -4440,7 +4439,7 @@
           </lem>
           <rdgGrp type="variant">
             <rdg wit="#wit-93" type="variant">
-              <seg>חכֵם </seg>
+              <seg>חכֵם</seg>
             </rdg>
             <note type="general" ref="#sig-unc"></note>
           </rdgGrp>
@@ -4474,9 +4473,11 @@
   </listWit>
   <listPrefixDef>
     <prefixDef xml:id="sig-ell">
+      <prefix>..</prefix>
       <desc>Uncertain letters</desc>
     </prefixDef>
     <prefixDef xml:id="sig-unc">
+      <prefix>(!)</prefix>
       <desc>Uncertain reading</desc>
     </prefixDef>
   </listPrefixDef>
