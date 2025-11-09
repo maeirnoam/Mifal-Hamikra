@@ -14,7 +14,7 @@
       <listApp>
         <app xml:id="app3-1-1-1">
           <lem>
-            <w corresp="chapter1_verse1_wordX">עזיה</w>
+            <w corresp="chapter1_verse1_word11">עזיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -26,7 +26,7 @@
         </app>
         <app xml:id="app3-1-1-2">
           <lem>
-            <w corresp="chapter1_verse1_wordX">יחזקיה</w>
+            <w corresp="chapter1_verse1_word14">יחזקיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -40,8 +40,8 @@
         </app>
         <app xml:id="app3-1-1-3">
           <lem>
-            <w corresp="chapter1_verse1_wordX">ירבעם</w>
-            <w corresp="chapter1_verse1_wordX">בן</w>
+            <w corresp="chapter1_verse1_word18">ירבעם</w>
+            <w corresp="chapter1_verse1_word19">בן</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -54,7 +54,7 @@
         </app>
         <app xml:id="app3-1-2-4">
           <lem>
-            <w corresp="chapter1_verse2_wordX">בהושע</w>
+            <w corresp="chapter1_verse2_word4">בהושע</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -70,7 +70,7 @@
         </app>
         <app xml:id="app3-1-3-5">
           <lem>
-            <w corresp="chapter1_verse3_wordX">ותלד</w>
+            <w corresp="chapter1_verse3_word8">ותלד</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -82,7 +82,7 @@
         </app>
         <app xml:id="app3-1-3-6">
           <lem>
-            <w corresp="chapter1_verse3_wordX">לו</w>
+            <w corresp="chapter1_verse3_word9">לו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96"/>
@@ -96,7 +96,7 @@
         </app>
         <app xml:id="app3-1-4-7">
           <lem>
-            <w corresp="chapter1_verse4_wordX">ופקדתי</w>
+            <w corresp="chapter1_verse4_word10">ופקדתי</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -109,7 +109,7 @@
         </app>
         <app xml:id="app3-1-4-8">
           <lem>
-            <w corresp="chapter1_verse4_wordX">ממלכוּת</w>
+            <w corresp="chapter1_verse4_word18">ממלכוּת</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -121,7 +121,7 @@
         </app>
         <app xml:id="app3-1-5-9">
           <lem>
-            <w corresp="chapter1_verse5_wordX">את</w>
+            <w corresp="chapter1_verse5_word5">את</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30"/>
@@ -130,7 +130,7 @@
         </app>
         <app xml:id="app3-1-5-10">
           <lem>
-            <w corresp="chapter1_verse5_wordX">יזרעאל</w>
+            <w corresp="chapter1_verse5_word9">יזרעאל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -158,7 +158,7 @@
         </app>
         <app xml:id="app3-1-6-12">
           <lem>
-            <w corresp="chapter1_verse6_wordX">כי</w>
+            <w corresp="chapter1_verse6_word11">כי</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -170,7 +170,7 @@
         </app>
         <app xml:id="app3-1-6-13">
           <lem>
-            <w corresp="chapter1_verse6_wordX">אוסיף</w>
+            <w corresp="chapter1_verse6_word13">אוסיף</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -179,7 +179,7 @@
         </app>
         <app xml:id="app3-1-6-14">
           <lem>
-            <w corresp="chapter1_verse6_wordX">את</w>
+            <w corresp="chapter1_verse6_word16">את</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -188,7 +188,7 @@
         </app>
         <app xml:id="app3-1-7-15">
           <lem>
-            <w corresp="chapter1_verse7_wordX">והושעתים</w>
+            <w corresp="chapter1_verse7_word5">והושעתים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -200,7 +200,7 @@
         </app>
         <app xml:id="app3-1-7-16">
           <lem>
-            <w corresp="chapter1_verse7_wordX">בסוסים</w>
+            <w corresp="chapter1_verse7_word13">בסוסים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -216,7 +216,7 @@
         </app>
         <app xml:id="app3-1-8-17">
           <lem>
-            <w corresp="chapter1_verse8_wordX">רֻחמה</w>
+            <w corresp="chapter1_verse8_word4">רֻחמה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -228,7 +228,7 @@
         </app>
         <app xml:id="app3-1-9-18">
           <lem>
-            <w corresp="chapter1_verse9_wordX">ואנכי</w>
+            <w corresp="chapter1_verse9_word10">ואנכי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -271,7 +271,7 @@
         </app>
         <app xml:id="app3-2-2-21">
           <lem>
-            <w corresp="chapter2_verse2_wordX">להם</w>
+            <w corresp="chapter2_verse2_word8">להם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -283,7 +283,7 @@
         </app>
         <app xml:id="app3-2-2-22">
           <lem>
-            <w corresp="chapter2_verse2_wordX">אחד</w>
+            <w corresp="chapter2_verse2_word10">אחד</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm"/>
@@ -293,7 +293,7 @@
         </app>
         <app xml:id="app3-2-4-23">
           <lem>
-            <w corresp="chapter2_verse4_wordX">ונאפופיה</w>
+            <w corresp="chapter2_verse4_word14">ונאפופיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -305,7 +305,7 @@
         </app>
         <app xml:id="app3-2-5-24">
           <lem>
-            <w corresp="chapter2_verse5_wordX">ערֻמה</w>
+            <w corresp="chapter2_verse5_word3">ערֻמה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -317,7 +317,7 @@
         </app>
         <app xml:id="app3-2-5-25">
           <lem>
-            <w corresp="chapter2_verse5_wordX">והצגתיה</w>
+            <w corresp="chapter2_verse5_word4">והצגתיה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -329,7 +329,7 @@
         </app>
         <app xml:id="app3-2-5-26">
           <lem>
-            <w corresp="chapter2_verse5_wordX">ושתִּה</w>
+            <w corresp="chapter2_verse5_word9">ושתִּה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -341,7 +341,7 @@
         </app>
         <app xml:id="app3-2-7-27">
           <lem>
-            <w corresp="chapter2_verse7_wordX">אלכה</w>
+            <w corresp="chapter2_verse7_word8">אלכה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -354,7 +354,7 @@
         </app>
         <app xml:id="app3-2-8-28">
           <lem>
-            <w corresp="chapter2_verse8_wordX">שָׂך</w>
+            <w corresp="chapter2_verse8_word3">שָׂך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -373,7 +373,7 @@
         </app>
         <app xml:id="app3-2-10-29">
           <lem>
-            <w corresp="chapter2_verse10_wordX">לה</w>
+            <w corresp="chapter2_verse10_word7">לה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -399,7 +399,7 @@
         </app>
         <app xml:id="app3-2-11-31">
           <lem>
-            <w corresp="chapter2_verse11_wordX">אשוב</w>
+            <w corresp="chapter2_verse11_word2">אשוב</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -411,7 +411,7 @@
         </app>
         <app xml:id="app3-2-13-32">
           <lem>
-            <w corresp="chapter2_verse13_wordX">וכל</w>
+            <w corresp="chapter2_verse13_word7">וכל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -423,7 +423,7 @@
         </app>
         <app xml:id="app3-2-14-33">
           <lem>
-            <w corresp="chapter2_verse14_wordX">והשִׁמתי</w>
+            <w corresp="chapter2_verse14_word1">והשִׁמתי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -435,7 +435,7 @@
         </app>
         <app xml:id="app3-2-15-34">
           <lem>
-            <w corresp="chapter2_verse15_wordX">ותַעַד</w>
+            <w corresp="chapter2_verse15_word9">ותַעַד</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -448,7 +448,7 @@
         </app>
         <app xml:id="app3-2-15-35">
           <lem>
-            <w corresp="chapter2_verse15_wordX">שכְחה</w>
+            <w corresp="chapter2_verse15_word16">שכְחה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -460,7 +460,7 @@
         </app>
         <app xml:id="app3-2-16-36">
           <lem>
-            <w corresp="chapter2_verse16_wordX">אנכי</w>
+            <w corresp="chapter2_verse16_word4">אנכי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm"/>
@@ -469,7 +469,7 @@
         </app>
         <app xml:id="app3-2-16-37">
           <lem>
-            <w corresp="chapter2_verse16_wordX">מפתיה</w>
+            <w corresp="chapter2_verse16_word5">מפתיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -481,7 +481,7 @@
         </app>
         <app xml:id="app3-2-16-38">
           <lem>
-            <w corresp="chapter2_verse16_wordX">המדבר</w>
+            <w corresp="chapter2_verse16_word7">המדבר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -494,7 +494,7 @@
         </app>
         <app xml:id="app3-2-18-39">
           <lem>
-            <w corresp="chapter2_verse18_wordX">יהוה</w>
+            <w corresp="chapter2_verse18_word5">יהוה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -530,7 +530,7 @@
         </app>
         <app xml:id="app3-2-18-41">
           <lem>
-            <w corresp="chapter2_verse18_wordX">לי</w>
+            <w corresp="chapter2_verse18_word10">לי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-54" ana="pm"/>
@@ -542,7 +542,7 @@
         </app>
         <app xml:id="app3-2-18-42">
           <lem>
-            <w corresp="chapter2_verse18_wordX">עוד</w>
+            <w corresp="chapter2_verse18_word11">עוד</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm?"/>
@@ -551,7 +551,7 @@
         </app>
         <app xml:id="app3-2-20-43">
           <lem>
-            <w corresp="chapter2_verse20_wordX">להם</w>
+            <w corresp="chapter2_verse20_word2">להם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -563,9 +563,9 @@
         </app>
         <app xml:id="app3-2-21-44">
           <lem>
-            <w corresp="chapter2_verse21_wordX">וארשתיך</w>
-            <w corresp="chapter2_verse21_wordX">לי</w>
-            <w corresp="chapter2_verse21_wordX">לעולם</w>
+            <w corresp="chapter2_verse21_word1">וארשתיך</w>
+            <w corresp="chapter2_verse21_word2">לי</w>
+            <w corresp="chapter2_verse21_word3">לעולם</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -574,7 +574,7 @@
         </app>
         <app xml:id="app3-2-22-45">
           <lem>
-            <w corresp="chapter2_verse22_wordX">וידעת</w>
+            <w corresp="chapter2_verse22_word4">וידעת</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -600,7 +600,7 @@
         </app>
         <app xml:id="app3-2-22-46">
           <lem>
-            <w corresp="chapter2_verse22_wordX">את</w>
+            <w corresp="chapter2_verse22_word5">את</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -619,7 +619,7 @@
         </app>
         <app xml:id="app3-2-23-47">
           <lem>
-            <w corresp="chapter2_verse23_wordX">והם</w>
+            <w corresp="chapter2_verse23_word12">והם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -631,7 +631,7 @@
         </app>
         <app xml:id="app3-3-1-48">
           <lem>
-            <w corresp="chapter3_verse1_wordX">עוד</w>
+            <w corresp="chapter3_verse1_word4">עוד</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -640,7 +640,7 @@
         </app>
         <app xml:id="app3-3-3-49">
           <lem>
-            <w corresp="chapter3_verse3_wordX">ואמר</w>
+            <w corresp="chapter3_verse3_word1">ואמר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -658,7 +658,7 @@
         </app>
         <app xml:id="app3-3-3-50">
           <lem>
-            <w corresp="chapter3_verse3_wordX">לא</w>
+            <w corresp="chapter3_verse3_word7">לא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -673,7 +673,7 @@
         </app>
         <app xml:id="app3-3-3-51">
           <lem>
-            <w corresp="chapter3_verse3_wordX">תזני</w>
+            <w corresp="chapter3_verse3_word8">תזני</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -686,7 +686,7 @@
         </app>
         <app xml:id="app3-3-3-52">
           <lem>
-            <w corresp="chapter3_verse3_wordX">אליך</w>
+            <w corresp="chapter3_verse3_word14">אליך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -698,8 +698,8 @@
         </app>
         <app xml:id="app3-3-4-53">
           <lem>
-            <w n="3" corresp="chapter3_verse4_word3">ואין</w>
-            <w n="2" corresp="chapter3_verse4_word2">ואין</w>
+            <w n="3" corresp="chapter3_verse4_word4">ואין</w>
+            <w n="2" corresp="chapter3_verse4_word3">ואין</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -714,7 +714,7 @@
         </app>
         <app xml:id="app3-3-5-54">
           <lem>
-            <w corresp="chapter3_verse5_wordX">אחר</w>
+            <w corresp="chapter3_verse5_word1">אחר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -730,7 +730,7 @@
         </app>
         <app xml:id="app3-4-2-55">
           <lem>
-            <w corresp="chapter4_verse2_wordX">ודמים</w>
+            <w corresp="chapter4_verse2_word7">ודמים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -746,7 +746,7 @@
         </app>
         <app xml:id="app3-4-3-56">
           <lem>
-            <w corresp="chapter4_verse3_wordX">יושב</w>
+            <w corresp="chapter4_verse3_word8">יושב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -770,7 +770,7 @@
         </app>
         <app xml:id="app3-4-3-57">
           <lem>
-            <w corresp="chapter4_verse3_wordX">וגם</w>
+            <w corresp="chapter4_verse3_word14">וגם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -782,7 +782,7 @@
         </app>
         <app xml:id="app3-4-4-58">
           <lem>
-            <w corresp="chapter4_verse4_wordX">כמריבי</w>
+            <w corresp="chapter4_verse4_word9">כמריבי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -810,7 +810,7 @@
         </app>
         <app xml:id="app3-4-6-60">
           <lem>
-            <w corresp="chapter4_verse6_wordX">אתה</w>
+            <w corresp="chapter4_verse6_word6">אתה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -822,7 +822,7 @@
         </app>
         <app xml:id="app3-4-6-61">
           <lem>
-            <w corresp="chapter4_verse6_wordID">ואמאסאך</w>
+            <w corresp="chapter4_verse6_word9">ואמאסאך</w>
             <choice>
               <reg>ואמאסך</reg>
             </choice>
@@ -849,7 +849,7 @@
         </app>
         <app xml:id="app3-4-6-62">
           <lem>
-            <w corresp="chapter4_verse6_wordX">ותשכח</w>
+            <w corresp="chapter4_verse6_word12">ותשכח</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -861,7 +861,7 @@
         </app>
         <app xml:id="app3-4-8-63">
           <lem>
-            <w corresp="chapter4_verse8_wordX">ישאו</w>
+            <w corresp="chapter4_verse8_word6">ישאו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -870,7 +870,7 @@
         </app>
         <app xml:id="app3-4-8-64">
           <lem>
-            <w corresp="chapter4_verse8_wordX">נפשו</w>
+            <w corresp="chapter4_verse8_word7">נפשו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -888,7 +888,7 @@
         </app>
         <app xml:id="app3-4-9-65">
           <lem>
-            <w corresp="chapter4_verse9_wordX">ופקדתי</w>
+            <w corresp="chapter4_verse9_word4">ופקדתי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -900,7 +900,7 @@
         </app>
         <app xml:id="app3-4-9-66">
           <lem>
-            <w corresp="chapter4_verse9_wordX">עליו</w>
+            <w corresp="chapter4_verse9_word5">עליו</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -913,7 +913,7 @@
         </app>
         <app xml:id="app3-4-9-67">
           <lem>
-            <w corresp="chapter4_verse9_wordX">דרכיו</w>
+            <w corresp="chapter4_verse9_word6">דרכיו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -925,7 +925,7 @@
         </app>
         <app xml:id="app3-4-10-68">
           <lem>
-            <w corresp="chapter4_verse10_wordX">ואכלו</w>
+            <w corresp="chapter4_verse10_word1">ואכלו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -940,7 +940,7 @@
         </app>
         <app xml:id="app3-4-10-69">
           <lem>
-            <w corresp="chapter4_verse10_wordX">הזנו</w>
+            <w corresp="chapter4_verse10_word4">הזנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -952,7 +952,7 @@
         </app>
         <app xml:id="app3-4-10-70">
           <lem>
-            <w corresp="chapter4_verse10_wordX">כי</w>
+            <w corresp="chapter4_verse10_word7">כי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96"/>
@@ -961,7 +961,7 @@
         </app>
         <app xml:id="app3-4-11-71">
           <lem>
-            <w corresp="chapter4_verse11_wordX">ויין</w>
+            <w corresp="chapter4_verse11_word2">ויין</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -980,7 +980,7 @@
         </app>
         <app xml:id="app3-4-13-72">
           <lem>
-            <w corresp="chapter4_verse13_wordX">יקטרו</w>
+            <w corresp="chapter4_verse13_word7">יקטרו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -992,7 +992,7 @@
         </app>
         <app xml:id="app3-4-13-73">
           <lem>
-            <w corresp="chapter4_verse13_wordX">צלה</w>
+            <w corresp="chapter4_verse13_word14">צלה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1004,7 +1004,7 @@
         </app>
         <app xml:id="app3-4-13-74">
           <lem>
-            <w corresp="chapter4_verse13_wordX">וכלותיכם</w>
+            <w corresp="chapter4_verse13_word19">וכלותיכם</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1016,7 +1016,7 @@
         </app>
         <app xml:id="app3-4-14-75">
           <lem>
-            <w corresp="chapter4_verse14_wordX">תנאפנה</w>
+            <w corresp="chapter4_verse14_word10">תנאפנה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1029,7 +1029,7 @@
         </app>
         <app xml:id="app3-4-14-76">
           <lem>
-            <w corresp="chapter4_verse14_wordX">הזֹנות</w>
+            <w corresp="chapter4_verse14_word14">הזֹנות</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1041,7 +1041,7 @@
         </app>
         <app xml:id="app3-4-14-77">
           <lem>
-            <w corresp="chapter4_verse14_wordX">יְפָרדו</w>
+            <w corresp="chapter4_verse14_word15">יְפָרדו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1054,7 +1054,7 @@
         </app>
         <app xml:id="app3-4-15-78">
           <lem>
-            <w corresp="chapter4_verse15_wordX">יהודה</w>
+            <w corresp="chapter4_verse15_word7">יהודה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1094,7 +1094,7 @@
         </app>
         <app xml:id="app3-4-16-81">
           <lem>
-            <w corresp="chapter4_verse16_wordX">ככבש</w>
+            <w corresp="chapter4_verse16_word9">ככבש</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1106,7 +1106,7 @@
         </app>
         <app xml:id="app3-4-18-82">
           <lem>
-            <w corresp="chapter4_verse18_wordX">סבאם</w>
+            <w corresp="chapter4_verse18_word2">סבאם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1118,7 +1118,7 @@
         </app>
         <app xml:id="app3-4-18-83">
           <lem>
-            <w corresp="chapter4_verse18_wordX">אהבו</w>
+            <w corresp="chapter4_verse18_word5">אהבו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1130,7 +1130,7 @@
         </app>
         <app xml:id="app3-4-18-84">
           <lem>
-            <w corresp="chapter4_verse18_wordX">קלון</w>
+            <w corresp="chapter4_verse18_word7">קלון</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1142,7 +1142,7 @@
         </app>
         <app xml:id="app3-4-18-85">
           <lem>
-            <w corresp="chapter4_verse18_wordX">מגניה</w>
+            <w corresp="chapter4_verse18_word8">מגניה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1154,7 +1154,7 @@
         </app>
         <app xml:id="app3-4-19-86">
           <lem>
-            <w corresp="chapter4_verse19_wordX">בכנפיה</w>
+            <w corresp="chapter4_verse19_word4">בכנפיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1178,7 +1178,7 @@
         </app>
         <app xml:id="app3-4-19-87">
           <lem>
-            <w corresp="chapter4_verse19_wordX">מִזִּבְחותם</w>
+            <w corresp="chapter4_verse19_word6">מִזִּבְחותם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1202,7 +1202,7 @@
         </app>
         <app xml:id="app3-5-1-88">
           <lem>
-            <w corresp="chapter5_verse1_wordX">פרושה</w>
+            <w corresp="chapter5_verse1_word19">פרושה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1220,7 +1220,7 @@
         </app>
         <app xml:id="app3-5-2-89">
           <lem>
-            <w corresp="chapter5_verse2_wordX">מוסר</w>
+            <w corresp="chapter5_verse2_word5">מוסר</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1248,7 +1248,7 @@
         </app>
         <app xml:id="app3-5-4-91">
           <lem>
-            <w corresp="chapter5_verse4_wordX">אל</w>
+            <w corresp="chapter5_verse4_word5">אל</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1264,7 +1264,7 @@
         </app>
         <app xml:id="app3-5-4-92">
           <lem>
-            <w corresp="chapter5_verse4_wordX">בקרבם</w>
+            <w corresp="chapter5_verse4_word10">בקרבם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1276,7 +1276,7 @@
         </app>
         <app xml:id="app3-5-5-93">
           <lem>
-            <w corresp="chapter5_verse5_wordX">וישראל</w>
+            <w corresp="chapter5_verse5_word5">וישראל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1288,7 +1288,7 @@
         </app>
         <app xml:id="app3-5-5-94">
           <lem>
-            <w corresp="chapter5_verse5_wordX">עמם</w>
+            <w corresp="chapter5_verse5_word12">עמם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1300,7 +1300,7 @@
         </app>
         <app xml:id="app3-5-6-95">
           <lem>
-            <w corresp="chapter5_verse6_wordX">ובבקרם</w>
+            <w corresp="chapter5_verse6_word2">ובבקרם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1312,7 +1312,7 @@
         </app>
         <app xml:id="app3-5-6-96">
           <lem>
-            <w corresp="chapter5_verse6_wordX">את</w>
+            <w corresp="chapter5_verse6_word5">את</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1329,7 +1329,7 @@
         </app>
         <app xml:id="app3-5-7-97">
           <lem>
-            <w corresp="chapter5_verse7_wordX">זרים</w>
+            <w corresp="chapter5_verse7_word5">זרים</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -1338,7 +1338,7 @@
         </app>
         <app xml:id="app3-5-7-98">
           <lem>
-            <w corresp="chapter5_verse7_wordX">עתה</w>
+            <w corresp="chapter5_verse7_word7">עתה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1350,7 +1350,7 @@
         </app>
         <app xml:id="app3-5-7-99">
           <lem>
-            <w corresp="chapter5_verse7_wordX">את</w>
+            <w corresp="chapter5_verse7_word10">את</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm"/>
@@ -1359,7 +1359,7 @@
         </app>
         <app xml:id="app3-5-8-100">
           <lem>
-            <w corresp="chapter5_verse8_wordX">חצצרה</w>
+            <w corresp="chapter5_verse8_word5">חצצרה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1371,7 +1371,7 @@
         </app>
         <app xml:id="app3-5-8-101">
           <lem>
-            <w corresp="chapter5_verse8_wordX">בית</w>
+            <w corresp="chapter5_verse8_word8">בית</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1384,7 +1384,7 @@
         </app>
         <app xml:id="app3-5-8-102">
           <lem>
-            <w corresp="chapter5_verse8_wordX">אחריך</w>
+            <w corresp="chapter5_verse8_word10">אחריך</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -1393,7 +1393,7 @@
         </app>
         <app xml:id="app3-5-10-103">
           <lem>
-            <w corresp="chapter5_verse10_wordX">כמסיגי</w>
+            <w corresp="chapter5_verse10_word4">כמסיגי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1410,7 +1410,7 @@
         </app>
         <app xml:id="app3-5-10-104">
           <lem>
-            <w corresp="chapter5_verse10_wordX">גבול</w>
+            <w corresp="chapter5_verse10_word5">גבול</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1423,7 +1423,7 @@
         </app>
         <app xml:id="app3-5-11-105">
           <lem>
-            <w corresp="chapter5_verse11_wordX">אחרי</w>
+            <w corresp="chapter5_verse11_word8">אחרי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96" ana="pm"/>
@@ -1432,7 +1432,7 @@
         </app>
         <app xml:id="app3-5-12-106">
           <lem>
-            <w corresp="chapter5_verse12_wordX">לאפרים</w>
+            <w corresp="chapter5_verse12_word3">לאפרים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1444,7 +1444,7 @@
         </app>
         <app xml:id="app3-5-12-107">
           <lem>
-            <w corresp="chapter5_verse12_wordX">וְכָרקב</w>
+            <w corresp="chapter5_verse12_word4">וְכָרקב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1457,7 +1457,7 @@
         </app>
         <app xml:id="app3-5-13-108">
           <lem>
-            <w corresp="chapter5_verse13_wordX">מזֹרו</w>
+            <w corresp="chapter5_verse13_word7">מזֹרו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1469,7 +1469,7 @@
         </app>
         <app xml:id="app3-5-13-109">
           <lem>
-            <w corresp="chapter5_verse13_wordX">וישלח</w>
+            <w corresp="chapter5_verse13_word12">וישלח</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1481,7 +1481,7 @@
         </app>
         <app xml:id="app3-5-14-110">
           <lem>
-            <w corresp="chapter5_verse14_wordX">אשא</w>
+            <w corresp="chapter5_verse14_word12">אשא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1501,7 +1501,7 @@
         </app>
         <app xml:id="app3-5-15-111">
           <lem>
-            <w corresp="chapter5_verse15_wordX">אשובה</w>
+            <w corresp="chapter5_verse15_word2">אשובה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1521,7 +1521,7 @@
         </app>
         <app xml:id="app3-6-2-112">
           <lem>
-            <w corresp="chapter6_verse2_wordX">יחינו</w>
+            <w corresp="chapter6_verse2_word1">יחינו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm?"/>
@@ -1530,7 +1530,7 @@
         </app>
         <app xml:id="app3-6-2-113">
           <lem>
-            <w corresp="chapter6_verse2_wordX">מיֹמים</w>
+            <w corresp="chapter6_verse2_word2">מיֹמים</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm?"/>
@@ -1539,7 +1539,7 @@
         </app>
         <app xml:id="app3-6-3-114">
           <lem>
-            <w corresp="chapter6_verse3_wordX">כַגֶּשם</w>
+            <w corresp="chapter6_verse3_word10">כַגֶּשם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1552,7 +1552,7 @@
         </app>
         <app xml:id="app3-6-3-115">
           <lem>
-            <w corresp="chapter6_verse3_wordX">כמלקוש</w>
+            <w corresp="chapter6_verse3_word12">כמלקוש</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1622,7 +1622,7 @@
         </app>
         <app xml:id="app3-6-4-119">
           <lem>
-            <w corresp="chapter6_verse4_wordX">וחסדכם</w>
+            <w corresp="chapter6_verse4_word9">וחסדכם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1638,7 +1638,7 @@
         </app>
         <app xml:id="app3-6-4-120">
           <lem>
-            <w corresp="chapter6_verse4_wordX">הֹלך</w>
+            <w corresp="chapter6_verse4_word14">הֹלך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1653,7 +1653,7 @@
         </app>
         <app xml:id="app3-6-7-121">
           <lem>
-            <w corresp="chapter6_verse7_wordX">ברית</w>
+            <w corresp="chapter6_verse7_word4">ברית</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1666,7 +1666,7 @@
         </app>
         <app xml:id="app3-6-8-122">
           <lem>
-            <w corresp="chapter6_verse8_wordX">מדם</w>
+            <w corresp="chapter6_verse8_word6">מדם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1678,7 +1678,7 @@
         </app>
         <app xml:id="app3-6-9-123">
           <lem>
-            <w corresp="chapter6_verse9_wordX">וכחכי</w>
+            <w corresp="chapter6_verse9_word1">וכחכי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1691,7 +1691,7 @@
         </app>
         <app xml:id="app3-6-9-124">
           <lem>
-            <w corresp="chapter6_verse9_wordX">חבר</w>
+            <w corresp="chapter6_verse9_word4">חבר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1703,7 +1703,7 @@
         </app>
         <app xml:id="app3-6-10-125">
           <lem>
-            <w corresp="chapter6_verse10_wordID">שעריריה</w>
+            <w corresp="chapter6_verse10_word4">שעריריה</w>
             <choice>
               <reg>שערוריה</reg>
             </choice>
@@ -1741,7 +1741,7 @@
         </app>
         <app xml:id="app3-6-10-126">
           <lem>
-            <w corresp="chapter6_verse10_wordX">שׁם</w>
+            <w corresp="chapter6_verse10_word5">שׁם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1753,7 +1753,7 @@
         </app>
         <app xml:id="app3-6-11-127">
           <lem>
-            <w corresp="chapter6_verse11_wordX">לך</w>
+            <w corresp="chapter6_verse11_word5">לך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1765,7 +1765,7 @@
         </app>
         <app xml:id="app3-7-1-128">
           <lem>
-            <w corresp="chapter7_verse1_wordX">פעלו</w>
+            <w corresp="chapter7_verse1_word9">פעלו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1777,7 +1777,7 @@
         </app>
         <app xml:id="app3-7-1-129">
           <lem>
-            <w corresp="chapter7_verse1_wordX">וגנב</w>
+            <w corresp="chapter7_verse1_word11">וגנב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1789,7 +1789,7 @@
         </app>
         <app xml:id="app3-7-1-130">
           <lem>
-            <w corresp="chapter7_verse1_wordX">פשט</w>
+            <w corresp="chapter7_verse1_word13">פשט</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1805,7 +1805,7 @@
         </app>
         <app xml:id="app3-7-1-131">
           <lem>
-            <w corresp="chapter7_verse1_wordX">בחוץ</w>
+            <w corresp="chapter7_verse1_word15">בחוץ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1817,7 +1817,7 @@
         </app>
         <app xml:id="app3-7-2-132">
           <lem>
-            <w corresp="chapter7_verse2_wordX">ללבבם</w>
+            <w corresp="chapter7_verse2_word3">ללבבם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1840,7 +1840,7 @@
         </app>
         <app xml:id="app3-7-4-133">
           <lem>
-            <w corresp="chapter7_verse4_wordX">כמו</w>
+            <w corresp="chapter7_verse4_word3">כמו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-89" ana="pm"/>
@@ -1849,7 +1849,7 @@
         </app>
         <app xml:id="app3-7-4-134">
           <lem>
-            <w corresp="chapter7_verse4_wordX">מעיר</w>
+            <w corresp="chapter7_verse4_word8">מעיר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1861,7 +1861,7 @@
         </app>
         <app xml:id="app3-7-4-135">
           <lem>
-            <w corresp="chapter7_verse4_wordX">מלוש</w>
+            <w corresp="chapter7_verse4_word9">מלוש</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1873,7 +1873,7 @@
         </app>
         <app xml:id="app3-7-5-136">
           <lem>
-            <w corresp="chapter7_verse5_wordX">מלכֵּנו</w>
+            <w corresp="chapter7_verse5_word2">מלכֵּנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1892,7 +1892,7 @@
         </app>
         <app xml:id="app3-7-5-137">
           <lem>
-            <w corresp="chapter7_verse5_wordX">שרים</w>
+            <w corresp="chapter7_verse5_word4">שרים</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-30" ana="pm"/>
@@ -1901,8 +1901,8 @@
         </app>
         <app xml:id="app3-7-5-138">
           <lem>
-            <w corresp="chapter7_verse5_wordX">ידו</w>
-            <w corresp="chapter7_verse5_wordX">את</w>
+            <w corresp="chapter7_verse5_word8">ידו</w>
+            <w corresp="chapter7_verse5_word9">את</w>
           </lem>
           <rdgGrp type="variant">
             <wit wit="#wit-30"/>
@@ -1911,7 +1911,7 @@
         </app>
         <app xml:id="app3-7-6-139">
           <lem>
-            <w corresp="chapter7_verse6_wordX">כַתנור</w>
+            <w corresp="chapter7_verse6_word3">כַתנור</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1923,7 +1923,7 @@
         </app>
         <app xml:id="app3-7-6-140">
           <lem>
-            <w corresp="chapter7_verse6_wordX">אֹפֵהֶם</w>
+            <w corresp="chapter7_verse6_word9">אֹפֵהֶם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1938,7 +1938,7 @@
         </app>
         <app xml:id="app3-7-7-141">
           <lem>
-            <w corresp="chapter7_verse7_wordX">אין</w>
+            <w corresp="chapter7_verse7_word10">אין</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1957,7 +1957,7 @@
         </app>
         <app xml:id="app3-7-8-142">
           <lem>
-            <w corresp="chapter7_verse8_wordX">אפרים</w>
+            <w corresp="chapter7_verse8_word1">אפרים</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -1969,7 +1969,7 @@
         </app>
         <app xml:id="app3-7-9-143">
           <lem>
-            <w corresp="chapter7_verse9_wordX">גם</w>
+            <w corresp="chapter7_verse9_word7">גם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1981,7 +1981,7 @@
         </app>
         <app xml:id="app3-7-11-144">
           <lem>
-            <w corresp="chapter7_verse11_wordX">אין</w>
+            <w corresp="chapter7_verse11_word5">אין</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -1993,7 +1993,7 @@
         </app>
         <app xml:id="app3-7-11-145">
           <lem>
-            <w corresp="chapter7_verse11_wordX">לב</w>
+            <w corresp="chapter7_verse11_word6">לב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2005,7 +2005,7 @@
         </app>
         <app xml:id="app3-7-12-146">
           <lem>
-            <w corresp="chapter7_verse12_wordX">עליהם</w>
+            <w corresp="chapter7_verse12_word4">עליהם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2017,7 +2017,7 @@
         </app>
         <app xml:id="app3-7-12-147">
           <lem>
-            <w corresp="chapter7_verse12_wordX">איסירם</w>
+            <w corresp="chapter7_verse12_word9">איסירם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2050,7 +2050,7 @@
         </app>
         <app xml:id="app3-7-13-148">
           <lem>
-            <w corresp="chapter7_verse13_wordX">ממני</w>
+            <w corresp="chapter7_verse13_word6">ממני</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2062,7 +2062,7 @@
         </app>
         <app xml:id="app3-7-13-149">
           <lem>
-            <w corresp="chapter7_verse13_wordX">פשעוּ</w>
+            <w corresp="chapter7_verse13_word10">פשעוּ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2074,7 +2074,7 @@
         </app>
         <app xml:id="app3-7-13-150">
           <lem>
-            <w corresp="chapter7_verse13_wordX">ואנכי</w>
+            <w corresp="chapter7_verse13_word12">ואנכי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2089,7 +2089,7 @@
         </app>
         <app xml:id="app3-7-13-151">
           <lem>
-            <w corresp="chapter7_verse13_wordX">דברו</w>
+            <w corresp="chapter7_verse13_word15">דברו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -2098,7 +2098,7 @@
         </app>
         <app xml:id="app3-7-14-152">
           <lem>
-            <w corresp="chapter7_verse14_wordX">זעקו</w>
+            <w corresp="chapter7_verse14_word2">זעקו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2113,7 +2113,7 @@
         </app>
         <app xml:id="app3-7-14-153">
           <lem>
-            <w corresp="chapter7_verse14_wordX">בלבם</w>
+            <w corresp="chapter7_verse14_word4">בלבם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2128,7 +2128,7 @@
         </app>
         <app xml:id="app3-7-14-154">
           <lem>
-            <w corresp="chapter7_verse14_wordX">יתגוררו</w>
+            <w corresp="chapter7_verse14_word12">יתגוררו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -2137,7 +2137,7 @@
         </app>
         <app xml:id="app3-7-15-155">
           <lem>
-            <w corresp="chapter7_verse15_wordX">יְחַשְּׁבו</w>
+            <w corresp="chapter7_verse15_word6">יְחַשְּׁבו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2149,7 +2149,7 @@
         </app>
         <app xml:id="app3-7-16-156">
           <lem>
-            <w corresp="chapter7_verse16_wordX">לא</w>
+            <w corresp="chapter7_verse16_word3">לא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2162,8 +2162,8 @@
         </app>
         <app xml:id="app3-7-16-157">
           <lem>
-            <w corresp="chapter7_verse16_wordX">על</w>
-            <w corresp="chapter7_verse16_wordX">היו</w>
+            <w corresp="chapter7_verse16_word4">על</w>
+            <w corresp="chapter7_verse16_word5">היו</w>
           </lem>
           <rdgGrp type="variant">
             <wit wit="#wit-150" ana="pm"/>
@@ -2172,7 +2172,7 @@
         </app>
         <app xml:id="app3-7-16-158">
           <lem>
-            <w corresp="chapter7_verse16_wordX">זוֹ</w>
+            <w corresp="chapter7_verse16_word13">זוֹ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2184,7 +2184,7 @@
         </app>
         <app xml:id="app3-8-1-159">
           <lem>
-            <w corresp="chapter8_verse1_wordX">בית</w>
+            <w corresp="chapter8_verse1_word6">בית</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -2196,7 +2196,7 @@
         </app>
         <app xml:id="app3-8-1-160">
           <lem>
-            <w corresp="chapter8_verse1_wordX">עברו</w>
+            <w corresp="chapter8_verse1_word9">עברו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2208,7 +2208,7 @@
         </app>
         <app xml:id="app3-8-1-161">
           <lem>
-            <w corresp="chapter8_verse1_wordX">תורָתי</w>
+            <w corresp="chapter8_verse1_word12">תורָתי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2220,7 +2220,7 @@
         </app>
         <app xml:id="app3-8-2-162">
           <lem>
-            <w corresp="chapter8_verse2_wordX">ישראל</w>
+            <w corresp="chapter8_verse2_word5">ישראל</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96" ana="pm"/>
@@ -2229,7 +2229,7 @@
         </app>
         <app xml:id="app3-8-5-163">
           <lem>
-            <w corresp="chapter8_verse5_wordX">עגלך</w>
+            <w corresp="chapter8_verse5_word2">עגלך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2244,7 +2244,7 @@
         </app>
         <app xml:id="app3-8-6-164">
           <lem>
-            <w corresp="chapter8_verse6_wordX">שבבים</w>
+            <w corresp="chapter8_verse6_word10">שבבים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2259,7 +2259,7 @@
         </app>
         <app xml:id="app3-8-8-165">
           <lem>
-            <w corresp="chapter8_verse8_wordX">חפץ</w>
+            <w corresp="chapter8_verse8_word8">חפץ</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -2268,7 +2268,7 @@
         </app>
         <app xml:id="app3-8-8-166">
           <lem>
-            <w corresp="chapter8_verse8_wordX">בו</w>
+            <w corresp="chapter8_verse8_word9">בו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2280,7 +2280,7 @@
         </app>
         <app xml:id="app3-8-10-167">
           <lem>
-            <w corresp="chapter8_verse10_wordX">אקבצם</w>
+            <w corresp="chapter8_verse10_word6">אקבצם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2292,7 +2292,7 @@
         </app>
         <app xml:id="app3-8-10-168">
           <lem>
-            <w corresp="chapter8_verse10_wordX">שרים</w>
+            <w corresp="chapter8_verse10_word11">שרים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2310,7 +2310,7 @@
         </app>
         <app xml:id="app3-8-11-169">
           <lem>
-            <w corresp="chapter8_verse11_wordX">כי</w>
+            <w corresp="chapter8_verse11_word1">כי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-89" ana="pm"/>
@@ -2319,7 +2319,7 @@
         </app>
         <app xml:id="app3-8-11-170">
           <lem>
-            <w corresp="chapter8_verse11_wordX">אפרים</w>
+            <w corresp="chapter8_verse11_word3">אפרים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2331,7 +2331,7 @@
         </app>
         <app xml:id="app3-8-11-171">
           <lem>
-            <w corresp="chapter8_verse11_wordX">לו</w>
+            <w corresp="chapter8_verse11_word7">לו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2343,7 +2343,7 @@
         </app>
         <app xml:id="app3-8-12-172">
           <lem>
-            <w corresp="chapter8_verse12_wordID">אכתוב</w>
+            <w corresp="chapter8_verse12_word1">אכתוב</w>
             <choice>
               <reg>אכתב</reg>
             </choice>
@@ -2370,7 +2370,7 @@
         </app>
         <app xml:id="app3-8-12-173">
           <lem>
-            <w corresp="chapter8_verse12_wordID">רבו</w>
+            <w corresp="chapter8_verse12_word3">רבו</w>
             <choice>
               <reg>רבי</reg>
             </choice>
@@ -2396,7 +2396,7 @@
         </app>
         <app xml:id="app3-8-13-174">
           <lem>
-            <w corresp="chapter8_verse13_wordX">וַיֹּאכלו</w>
+            <w corresp="chapter8_verse13_word5">וַיֹּאכלו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2411,7 +2411,7 @@
         </app>
         <app xml:id="app3-8-13-175">
           <lem>
-            <w corresp="chapter8_verse13_wordX">יהוה</w>
+            <w corresp="chapter8_verse13_word6">יהוה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2427,7 +2427,7 @@
         </app>
         <app xml:id="app3-8-13-176">
           <lem>
-            <w corresp="chapter8_verse13_wordX">עתה</w>
+            <w corresp="chapter8_verse13_word9">עתה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2439,7 +2439,7 @@
         </app>
         <app xml:id="app3-8-13-177">
           <lem>
-            <w corresp="chapter8_verse13_wordX">חטֹאותם</w>
+            <w corresp="chapter8_verse13_word13">חטֹאותם</w>
           </lem>
           <rdgGrp type="related">
             <rdgGrp type="variant">
@@ -2462,7 +2462,7 @@
         </app>
         <app xml:id="app3-8-13-178">
           <lem>
-            <w corresp="chapter8_verse13_wordX">המה</w>
+            <w corresp="chapter8_verse13_word14">המה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2477,7 +2477,7 @@
         </app>
         <app xml:id="app3-8-14-179">
           <lem>
-            <w corresp="chapter8_verse14_wordX">ויבן</w>
+            <w corresp="chapter8_verse14_word5">ויבן</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2489,7 +2489,7 @@
         </app>
         <app xml:id="app3-8-14-180">
           <lem>
-            <w corresp="chapter8_verse14_wordX">הרבה</w>
+            <w corresp="chapter8_verse14_word8">הרבה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -2501,7 +2501,7 @@
         </app>
         <app xml:id="app3-8-14-181">
           <lem>
-            <w corresp="chapter8_verse14_wordX">ואכלה</w>
+            <w corresp="chapter8_verse14_word14">ואכלה</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -2513,7 +2513,7 @@
         </app>
         <app xml:id="app3-8-14-182">
           <lem>
-            <w corresp="chapter8_verse14_wordX">ארמנתיה</w>
+            <w corresp="chapter8_verse14_word15">ארמנתיה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2525,7 +2525,7 @@
         </app>
         <app xml:id="app3-9-2-183">
           <lem>
-            <w corresp="chapter9_verse2_wordX">בהּ</w>
+            <w corresp="chapter9_verse2_word7">בהּ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2543,7 +2543,7 @@
         </app>
         <app xml:id="app3-9-4-184">
           <lem>
-            <w corresp="chapter9_verse4_wordX">יטמאו</w>
+            <w corresp="chapter9_verse4_word15">יטמאו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2555,7 +2555,7 @@
         </app>
         <app xml:id="app3-9-4-185">
           <lem>
-            <w corresp="chapter9_verse4_wordX">בית</w>
+            <w corresp="chapter9_verse4_word21">בית</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -2564,7 +2564,7 @@
         </app>
         <app xml:id="app3-9-5-186">
           <lem>
-            <w corresp="chapter9_verse5_wordX">יהוה</w>
+            <w corresp="chapter9_verse5_word7">יהוה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2576,7 +2576,7 @@
         </app>
         <app xml:id="app3-9-6-187">
           <lem>
-            <w corresp="chapter9_verse6_wordX">תְקַברם</w>
+            <w corresp="chapter9_verse6_word8">תְקַברם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2589,7 +2589,7 @@
         </app>
         <app xml:id="app3-9-6-188">
           <lem>
-            <w corresp="chapter9_verse6_wordX">לכספם</w>
+            <w corresp="chapter9_verse6_word10">לכספם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2601,7 +2601,7 @@
         </app>
         <app xml:id="app3-9-7-189">
           <lem>
-            <w corresp="chapter9_verse7_wordX">ישראל</w>
+            <w corresp="chapter9_verse7_word9">ישראל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2613,7 +2613,7 @@
         </app>
         <app xml:id="app3-9-7-190">
           <lem>
-            <w corresp="chapter9_verse7_wordX">אויל</w>
+            <w corresp="chapter9_verse7_word10">אויל</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96" ana="pm"/>
@@ -2622,7 +2622,7 @@
         </app>
         <app xml:id="app3-9-7-191">
           <lem>
-            <w corresp="chapter9_verse7_wordX">רֹב</w>
+            <w corresp="chapter9_verse7_word16">רֹב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2634,7 +2634,7 @@
         </app>
         <app xml:id="app3-9-7-192">
           <lem>
-            <w corresp="chapter9_verse7_wordX">עונְךָ</w>
+            <w corresp="chapter9_verse7_word17">עונְךָ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2646,7 +2646,7 @@
         </app>
         <app xml:id="app3-9-7-193">
           <lem>
-            <w corresp="chapter9_verse7_wordX">ורבה</w>
+            <w corresp="chapter9_verse7_word18">ורבה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2661,7 +2661,7 @@
         </app>
         <app xml:id="app3-9-8-194">
           <lem>
-            <w corresp="chapter9_verse8_wordX">אלהי</w>
+            <w corresp="chapter9_verse8_word4">אלהי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2673,7 +2673,7 @@
         </app>
         <app xml:id="app3-9-8-195">
           <lem>
-            <w corresp="chapter9_verse8_wordX">נביא</w>
+            <w corresp="chapter9_verse8_word5">נביא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2685,7 +2685,7 @@
         </app>
         <app xml:id="app3-9-8-196">
           <lem>
-            <w corresp="chapter9_verse8_wordX">יקוֹש</w>
+            <w corresp="chapter9_verse8_word7">יקוֹש</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2698,7 +2698,7 @@
         </app>
         <app xml:id="app3-9-9-197">
           <lem>
-            <w corresp="chapter9_verse9_wordX">יפקוד</w>
+            <w corresp="chapter9_verse9_word7">יפקוד</w>
           </lem>
           <rdgGrp type="related">
             <rdgGrp type="variant">
@@ -2724,7 +2724,7 @@
         </app>
         <app xml:id="app3-9-9-198">
           <lem>
-            <w corresp="chapter9_verse9_wordX">חטאותם</w>
+            <w corresp="chapter9_verse9_word8">חטאותם</w>
           </lem>
           <rdgGrp type="related">
             <rdgGrp type="variant">
@@ -2746,7 +2746,7 @@
         </app>
         <app xml:id="app3-9-10-199">
           <lem>
-            <w corresp="chapter9_verse10_wordX">במדבר</w>
+            <w corresp="chapter9_verse10_word3">במדבר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2758,7 +2758,7 @@
         </app>
         <app xml:id="app3-9-10-200">
           <lem>
-            <w corresp="chapter9_verse10_wordX">וַינזרו</w>
+            <w corresp="chapter9_verse10_word15">וַינזרו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2770,7 +2770,7 @@
         </app>
         <app xml:id="app3-9-10-201">
           <lem>
-            <w corresp="chapter9_verse10_wordX">ויהיו</w>
+            <w corresp="chapter9_verse10_word17">ויהיו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2782,7 +2782,7 @@
         </app>
         <app xml:id="app3-9-11-202">
           <lem>
-            <w corresp="chapter9_verse11_wordX">ומבטן</w>
+            <w corresp="chapter9_verse11_word6">ומבטן</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2797,7 +2797,7 @@
         </app>
         <app xml:id="app3-9-13-203">
           <lem>
-            <w corresp="chapter9_verse13_wordX">ואפרים</w>
+            <w corresp="chapter9_verse13_word7">ואפרים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2811,7 +2811,7 @@
         </app>
         <app xml:id="app3-9-14-204">
           <lem>
-            <w corresp="chapter9_verse14_wordX">תתן</w>
+            <w corresp="chapter9_verse14_word5">תתן</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -2826,7 +2826,7 @@
         </app>
         <app xml:id="app3-9-14-205">
           <lem>
-            <w corresp="chapter9_verse14_wordX">רחם</w>
+            <w corresp="chapter9_verse14_word8">רחם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2838,7 +2838,7 @@
         </app>
         <app xml:id="app3-9-15-206">
           <lem>
-            <w corresp="chapter9_verse15_wordX">כי</w>
+            <w corresp="chapter9_verse15_word4">כי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96"/>
@@ -2847,7 +2847,7 @@
         </app>
         <app xml:id="app3-9-15-207">
           <lem>
-            <w corresp="chapter9_verse15_wordX">מביתי</w>
+            <w corresp="chapter9_verse15_word10">מביתי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2862,7 +2862,7 @@
         </app>
         <app xml:id="app3-9-16-208">
           <lem>
-            <w corresp="chapter9_verse16_wordID">בלי</w>
+            <w corresp="chapter9_verse16_word6">בלי</w>
             <choice>
               <reg>בל</reg>
             </choice>
@@ -2889,7 +2889,7 @@
         </app>
         <app xml:id="app3-9-16-209">
           <lem>
-            <w corresp="chapter9_verse16_wordX">ילדון</w>
+            <w corresp="chapter9_verse16_word10">ילדון</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2901,7 +2901,7 @@
         </app>
         <app xml:id="app3-9-17-210">
           <lem>
-            <w corresp="chapter9_verse17_wordX">אלהי</w>
+            <w corresp="chapter9_verse17_word2">אלהי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2914,7 +2914,7 @@
         </app>
         <app xml:id="app3-9-17-211">
           <lem>
-            <w corresp="chapter9_verse17_wordX">לו</w>
+            <w corresp="chapter9_verse17_word6">לו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150"/>
@@ -2923,10 +2923,10 @@
         </app>
         <app xml:id="app3-10-1-212">
           <lem>
-            <w corresp="chapter10_verse1_wordX">כרב</w>
-            <w corresp="chapter10_verse1_wordX">לפריו</w>
-            <w corresp="chapter10_verse1_wordX">הרבה</w>
-            <w corresp="chapter10_verse1_wordX">למזבחות</w>
+            <w corresp="chapter10_verse1_word7">כרב</w>
+            <w corresp="chapter10_verse1_word8">לפריו</w>
+            <w corresp="chapter10_verse1_word9">הרבה</w>
+            <w corresp="chapter10_verse1_word10">למזבחות</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -2947,7 +2947,7 @@
         </app>
         <app xml:id="app3-10-2-214">
           <lem>
-            <w corresp="chapter10_verse2_wordX">ישֹׁדד</w>
+            <w corresp="chapter10_verse2_word8">ישֹׁדד</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2978,7 +2978,7 @@
         </app>
         <app xml:id="app3-10-3-216">
           <lem>
-            <w corresp="chapter10_verse3_wordX">יָרֵאנו</w>
+            <w corresp="chapter10_verse3_word9">יָרֵאנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -2990,7 +2990,7 @@
         </app>
         <app xml:id="app3-10-4-217">
           <lem>
-            <w corresp="chapter10_verse4_wordX">דברו</w>
+            <w corresp="chapter10_verse4_word1">דברו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3002,7 +3002,7 @@
         </app>
         <app xml:id="app3-10-4-218">
           <lem>
-            <w corresp="chapter10_verse4_wordX">כרֹת</w>
+            <w corresp="chapter10_verse4_word5">כרֹת</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3017,7 +3017,7 @@
         </app>
         <app xml:id="app3-10-4-219">
           <lem>
-            <w corresp="chapter10_verse4_wordX">ופרח</w>
+            <w corresp="chapter10_verse4_word7">ופרח</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3029,7 +3029,7 @@
         </app>
         <app xml:id="app3-10-5-220">
           <lem>
-            <w corresp="chapter10_verse5_wordX">שמרון</w>
+            <w corresp="chapter10_verse5_word6">שמרון</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3042,7 +3042,7 @@
         </app>
         <app xml:id="app3-10-5-221">
           <lem>
-            <w corresp="chapter10_verse5_wordX">וכְמריו</w>
+            <w corresp="chapter10_verse5_word11">וכְמריו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3054,7 +3054,7 @@
         </app>
         <app xml:id="app3-10-5-222">
           <lem>
-            <w corresp="chapter10_verse5_wordX">יגילו</w>
+            <w corresp="chapter10_verse5_word13">יגילו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3066,7 +3066,7 @@
         </app>
         <app xml:id="app3-10-5-223">
           <lem>
-            <w corresp="chapter10_verse5_wordX">על</w>
+            <w corresp="chapter10_verse5_word14">על</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3078,7 +3078,7 @@
         </app>
         <app xml:id="app3-10-5-224">
           <lem>
-            <w corresp="chapter10_verse5_wordX">ממנו</w>
+            <w corresp="chapter10_verse5_word18">ממנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3090,7 +3090,7 @@
         </app>
         <app xml:id="app3-10-6-225">
           <lem>
-            <w corresp="chapter10_verse6_wordX">בָשנה</w>
+            <w corresp="chapter10_verse6_word8">בָשנה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3102,7 +3102,7 @@
         </app>
         <app xml:id="app3-10-7-226">
           <lem>
-            <w corresp="chapter10_verse7_wordX">נדמֶה</w>
+            <w corresp="chapter10_verse7_word1">נדמֶה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3120,7 +3120,7 @@
         </app>
         <app xml:id="app3-10-7-227">
           <lem>
-            <w corresp="chapter10_verse7_wordX">מלכהּ</w>
+            <w corresp="chapter10_verse7_word3">מלכהּ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3132,7 +3132,7 @@
         </app>
         <app xml:id="app3-10-7-228">
           <lem>
-            <w corresp="chapter10_verse7_wordX">מים</w>
+            <w corresp="chapter10_verse7_word7">מים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3144,7 +3144,7 @@
         </app>
         <app xml:id="app3-10-8-229">
           <lem>
-            <w corresp="chapter10_verse8_wordX">ודרדר</w>
+            <w corresp="chapter10_verse8_word7">ודרדר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3156,7 +3156,7 @@
         </app>
         <app xml:id="app3-10-8-230">
           <lem>
-            <w corresp="chapter10_verse8_wordX">כַּסונו</w>
+            <w corresp="chapter10_verse8_word13">כַּסונו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3169,7 +3169,7 @@
         </app>
         <app xml:id="app3-10-9-231">
           <lem>
-            <w corresp="chapter10_verse9_wordX">מימי</w>
+            <w corresp="chapter10_verse9_word2">מימי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3181,7 +3181,7 @@
         </app>
         <app xml:id="app3-10-9-232">
           <lem>
-            <w corresp="chapter10_verse9_wordX">חטאתָ</w>
+            <w corresp="chapter10_verse9_word4">חטאתָ</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3195,7 +3195,7 @@
         </app>
         <app xml:id="app3-10-9-233">
           <lem>
-            <w corresp="chapter10_verse9_wordX">עלוה</w>
+            <w corresp="chapter10_verse9_word14">עלוה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3210,7 +3210,7 @@
         </app>
         <app xml:id="app3-10-10-234">
           <lem>
-            <w corresp="chapter10_verse10_wordX">ואסרם</w>
+            <w corresp="chapter10_verse10_word2">ואסרם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3228,7 +3228,7 @@
         </app>
         <app xml:id="app3-10-10-235">
           <lem>
-            <w corresp="chapter10_verse10_wordID">עינתם</w>
+            <w corresp="chapter10_verse10_word8">עינתם</w>
             <choice>
               <reg>עונֹתם</reg>
             </choice>
@@ -3260,7 +3260,7 @@
         </app>
         <app xml:id="app3-10-12-236">
           <lem>
-            <w corresp="chapter10_verse12_wordX">קצרו</w>
+            <w corresp="chapter10_verse12_word4">קצרו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3279,7 +3279,7 @@
         </app>
         <app xml:id="app3-10-12-237">
           <lem>
-            <w corresp="chapter10_verse12_wordX">ועת</w>
+            <w corresp="chapter10_verse12_word10">ועת</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3291,7 +3291,7 @@
         </app>
         <app xml:id="app3-10-12-238">
           <lem>
-            <w corresp="chapter10_verse12_wordX">לדרוש</w>
+            <w corresp="chapter10_verse12_word11">לדרוש</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96"/>
@@ -3300,7 +3300,7 @@
         </app>
         <app xml:id="app3-10-12-239">
           <lem>
-            <w corresp="chapter10_verse12_wordX">את</w>
+            <w corresp="chapter10_verse12_word12">את</w>
           </lem>
           <rdgGrp type="related">
             <rdgGrp type="omission">
@@ -3314,7 +3314,7 @@
         </app>
         <app xml:id="app3-10-12-240">
           <lem>
-            <w corresp="chapter10_verse12_wordX">יהוה</w>
+            <w corresp="chapter10_verse12_word13">יהוה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3326,7 +3326,7 @@
         </app>
         <app xml:id="app3-10-12-241">
           <lem>
-            <w corresp="chapter10_verse12_wordX">ויֹרה</w>
+            <w corresp="chapter10_verse12_word16">ויֹרה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3340,7 +3340,7 @@
         </app>
         <app xml:id="app3-10-13-242">
           <lem>
-            <w corresp="chapter10_verse13_wordX">בדרכְּך</w>
+            <w corresp="chapter10_verse13_word10">בדרכְּך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3357,7 +3357,7 @@
         </app>
         <app xml:id="app3-10-14-243">
           <lem>
-            <w corresp="chapter10_verse14_wordX">וכל</w>
+            <w corresp="chapter10_verse14_word4">וכל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3369,7 +3369,7 @@
         </app>
         <app xml:id="app3-10-14-244">
           <lem>
-            <w corresp="chapter10_verse14_wordX">שלמן</w>
+            <w corresp="chapter10_verse14_word8">שלמן</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3381,7 +3381,7 @@
         </app>
         <app xml:id="app3-10-14-245">
           <lem>
-            <w corresp="chapter10_verse14_wordX">ארבֵאל</w>
+            <w corresp="chapter10_verse14_word10">ארבֵאל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3408,7 +3408,7 @@
         </app>
         <app xml:id="app3-11-2-247">
           <lem>
-            <w corresp="chapter11_verse2_wordX">יזבחו</w>
+            <w corresp="chapter11_verse2_word7">יזבחו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3420,7 +3420,7 @@
         </app>
         <app xml:id="app3-11-2-248">
           <lem>
-            <w corresp="chapter11_verse2_wordX">ולפסִלים</w>
+            <w corresp="chapter11_verse2_word8">ולפסִלים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3432,7 +3432,7 @@
         </app>
         <app xml:id="app3-11-3-249">
           <lem>
-            <w corresp="chapter11_verse3_wordX">זרועֹתיו</w>
+            <w corresp="chapter11_verse3_word6">זרועֹתיו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3448,7 +3448,7 @@
         </app>
         <app xml:id="app3-11-3-250">
           <lem>
-            <w corresp="chapter11_verse3_wordX">רפאתים</w>
+            <w corresp="chapter11_verse3_word10">רפאתים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3460,7 +3460,7 @@
         </app>
         <app xml:id="app3-11-4-251">
           <lem>
-            <w corresp="chapter11_verse4_wordX">להם</w>
+            <w corresp="chapter11_verse4_word7">להם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3472,7 +3472,7 @@
         </app>
         <app xml:id="app3-11-4-252">
           <lem>
-            <w corresp="chapter11_verse4_wordX">לחֵיהם</w>
+            <w corresp="chapter11_verse4_word11">לחֵיהם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3485,7 +3485,7 @@
         </app>
         <app xml:id="app3-11-6-253">
           <lem>
-            <w corresp="chapter11_verse6_wordX">וכִלתה</w>
+            <w corresp="chapter11_verse6_word4">וכִלתה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3500,7 +3500,7 @@
         </app>
         <app xml:id="app3-11-6-254">
           <lem>
-            <w corresp="chapter11_verse6_wordX">ממֹעצותיהם</w>
+            <w corresp="chapter11_verse6_word7">ממֹעצותיהם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3512,7 +3512,7 @@
         </app>
         <app xml:id="app3-11-7-255">
           <lem>
-            <w corresp="chapter11_verse7_wordX">תלואִים</w>
+            <w corresp="chapter11_verse7_word2">תלואִים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3524,7 +3524,7 @@
         </app>
         <app xml:id="app3-11-7-256">
           <lem>
-            <w corresp="chapter11_verse7_wordX">למשובתי</w>
+            <w corresp="chapter11_verse7_word3">למשובתי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3539,7 +3539,7 @@
         </app>
         <app xml:id="app3-11-8-257">
           <lem>
-            <w corresp="chapter11_verse8_wordX">כצבאיִם</w>
+            <w corresp="chapter11_verse8_word10">כצבאיִם</w>
           </lem>
           <rdgGrp type="related">
             <rdgGrp type="variant">
@@ -3593,7 +3593,7 @@
         </app>
         <app xml:id="app3-11-11-260">
           <lem>
-            <w corresp="chapter11_verse11_wordX">וּכְיונה</w>
+            <w corresp="chapter11_verse11_word4">וּכְיונה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3605,7 +3605,7 @@
         </app>
         <app xml:id="app3-12-1-261">
           <lem>
-            <w corresp="chapter12_verse1_wordX">רד</w>
+            <w corresp="chapter12_verse1_word9">רד</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96" ana="sm"/>
@@ -3614,7 +3614,7 @@
         </app>
         <app xml:id="app3-12-2-262">
           <lem>
-            <w corresp="chapter12_verse2_wordX">כזב</w>
+            <w corresp="chapter12_verse2_word8">כזב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3626,7 +3626,7 @@
         </app>
         <app xml:id="app3-12-2-263">
           <lem>
-            <w corresp="chapter12_verse2_wordX">ושֹׁד</w>
+            <w corresp="chapter12_verse2_word9">ושֹׁד</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -3635,7 +3635,7 @@
         </app>
         <app xml:id="app3-12-2-264">
           <lem>
-            <w corresp="chapter12_verse2_wordX">וברית</w>
+            <w corresp="chapter12_verse2_word11">וברית</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3647,7 +3647,7 @@
         </app>
         <app xml:id="app3-12-3-265">
           <lem>
-            <w corresp="chapter12_verse3_wordX">כמעלליו</w>
+            <w corresp="chapter12_verse3_word9">כמעלליו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3663,7 +3663,7 @@
         </app>
         <app xml:id="app3-12-3-266">
           <lem>
-            <w corresp="chapter12_verse3_wordX">ישיב</w>
+            <w corresp="chapter12_verse3_word10">ישיב</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3679,7 +3679,7 @@
         </app>
         <app xml:id="app3-12-4-267">
           <lem>
-            <w corresp="chapter12_verse4_wordX">שׂרה</w>
+            <w corresp="chapter12_verse4_word6">שׂרה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3691,7 +3691,7 @@
         </app>
         <app xml:id="app3-12-5-268">
           <lem>
-            <w corresp="chapter12_verse5_wordX">ימצאֶנו</w>
+            <w corresp="chapter12_verse5_word10">ימצאֶנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3706,7 +3706,7 @@
         </app>
         <app xml:id="app3-12-7-269">
           <lem>
-            <w corresp="chapter12_verse7_wordX">שמֹר</w>
+            <w corresp="chapter12_verse7_word6">שמֹר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3718,7 +3718,7 @@
         </app>
         <app xml:id="app3-12-10-270">
           <lem>
-            <w corresp="chapter12_verse10_wordX">כימי</w>
+            <w corresp="chapter12_verse10_word9">כימי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3733,7 +3733,7 @@
         </app>
         <app xml:id="app3-12-11-271">
           <lem>
-            <w corresp="chapter12_verse11_wordX">הרביתי</w>
+            <w corresp="chapter12_verse11_word6">הרביתי</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -3746,8 +3746,8 @@
         </app>
         <app xml:id="app3-12-12-272">
           <lem>
-            <w corresp="chapter12_verse12_wordX">גלעד</w>
-            <w corresp="chapter12_verse12_wordX">און</w>
+            <w corresp="chapter12_verse12_word2">גלעד</w>
+            <w corresp="chapter12_verse12_word3">און</w>
           </lem>
           <rdgGrp type="variant">
             <wit wit="#wit-93"/>
@@ -3756,7 +3756,7 @@
         </app>
         <app xml:id="app3-12-12-273">
           <lem>
-            <w corresp="chapter12_verse12_wordX">בגלגל</w>
+            <w corresp="chapter12_verse12_word7">בגלגל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3768,7 +3768,7 @@
         </app>
         <app xml:id="app3-12-12-274">
           <lem>
-            <w corresp="chapter12_verse12_wordX">זבחו</w>
+            <w corresp="chapter12_verse12_word9">זבחו</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-93" ana="pm"/>
@@ -3777,8 +3777,8 @@
         </app>
         <app xml:id="app3-12-12-275">
           <lem>
-            <w corresp="chapter12_verse12_wordX">גם</w>
-            <w corresp="chapter12_verse12_wordX">מזבחותם</w>
+            <w corresp="chapter12_verse12_word10">גם</w>
+            <w corresp="chapter12_verse12_word11">מזבחותם</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-96"/>
@@ -3787,7 +3787,7 @@
         </app>
         <app xml:id="app3-13-2-276">
           <lem>
-            <w corresp="chapter13_verse2_wordX">כלֹה</w>
+            <w corresp="chapter13_verse2_word13">כלֹה</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3800,7 +3800,7 @@
         </app>
         <app xml:id="app3-13-3-277">
           <lem>
-            <w corresp="chapter13_verse3_wordX">הֹלך</w>
+            <w corresp="chapter13_verse3_word7">הֹלך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3812,7 +3812,7 @@
         </app>
         <app xml:id="app3-13-4-278">
           <lem>
-            <w corresp="chapter13_verse4_wordX">אין</w>
+            <w corresp="chapter13_verse4_word11">אין</w>
           </lem>
           <rdgGrp type="addition">
             <rdg>
@@ -3824,7 +3824,7 @@
         </app>
         <app xml:id="app3-13-6-279">
           <lem>
-            <w corresp="chapter13_verse6_wordX">כן</w>
+            <w corresp="chapter13_verse6_word7">כן</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -3833,7 +3833,7 @@
         </app>
         <app xml:id="app3-13-7-280">
           <lem>
-            <w corresp="chapter13_verse7_wordX">כנמר</w>
+            <w corresp="chapter13_verse7_word5">כנמר</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3848,7 +3848,7 @@
         </app>
         <app xml:id="app3-13-8-281">
           <lem>
-            <w corresp="chapter13_verse8_wordX">חית</w>
+            <w corresp="chapter13_verse8_word10">חית</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3864,7 +3864,7 @@
         </app>
         <app xml:id="app3-13-9-282">
           <lem>
-            <w corresp="chapter13_verse9_wordX">בי</w>
+            <w corresp="chapter13_verse9_word4">בי</w>
           </lem>
           <rdgGrp type="omission">
             <wit wit="#wit-150" ana="pm"/>
@@ -3873,7 +3873,7 @@
         </app>
         <app xml:id="app3-13-10-283">
           <lem>
-            <w corresp="chapter13_verse10_wordX">אפוא</w>
+            <w corresp="chapter13_verse10_word3">אפוא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3885,7 +3885,7 @@
         </app>
         <app xml:id="app3-13-10-284">
           <lem>
-            <w corresp="chapter13_verse10_wordX">ויושיעֲך</w>
+            <w corresp="chapter13_verse10_word4">ויושיעֲך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3897,7 +3897,7 @@
         </app>
         <app xml:id="app3-13-10-285">
           <lem>
-            <w corresp="chapter13_verse10_wordX">לי</w>
+            <w corresp="chapter13_verse10_word11">לי</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3909,7 +3909,7 @@
         </app>
         <app xml:id="app3-13-13-286">
           <lem>
-            <w corresp="chapter13_verse13_wordX">לו</w>
+            <w corresp="chapter13_verse13_word4">לו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3922,7 +3922,7 @@
         </app>
         <app xml:id="app3-13-13-287">
           <lem>
-            <w corresp="chapter13_verse13_wordX">הוא</w>
+            <w corresp="chapter13_verse13_word5">הוא</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3950,7 +3950,7 @@
         </app>
         <app xml:id="app3-13-14-289">
           <lem>
-            <w corresp="chapter13_verse14_wordX">ממות</w>
+            <w corresp="chapter13_verse14_word4">ממות</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3970,7 +3970,7 @@
         </app>
         <app xml:id="app3-13-14-290">
           <lem>
-            <w corresp="chapter13_verse14_wordX">דבריך</w>
+            <w corresp="chapter13_verse14_word7">דבריך</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -3989,7 +3989,7 @@
         </app>
         <app xml:id="app3-13-14-291">
           <lem>
-            <w corresp="chapter13_verse14_wordX">נֹחם</w>
+            <w corresp="chapter13_verse14_word12">נֹחם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4005,7 +4005,7 @@
         </app>
         <app xml:id="app3-13-15-292">
           <lem>
-            <w corresp="chapter13_verse15_wordX">בין</w>
+            <w corresp="chapter13_verse15_word3">בין</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4022,7 +4022,7 @@
         </app>
         <app xml:id="app3-13-15-293">
           <lem>
-            <w corresp="chapter13_verse15_wordX">ויבוש</w>
+            <w corresp="chapter13_verse15_word12">ויבוש</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4052,7 +4052,7 @@
         </app>
         <app xml:id="app3-14-1-295">
           <lem>
-            <w corresp="chapter14_verse1_wordX">עלליהם</w>
+            <w corresp="chapter14_verse1_word8">עלליהם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4068,7 +4068,7 @@
         </app>
         <app xml:id="app3-14-3-296">
           <lem>
-            <w corresp="chapter14_verse3_wordX">ושובו</w>
+            <w corresp="chapter14_verse3_word4">ושובו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4080,7 +4080,7 @@
         </app>
         <app xml:id="app3-14-3-297">
           <lem>
-            <w corresp="chapter14_verse3_wordX">אמרו</w>
+            <w corresp="chapter14_verse3_word7">אמרו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4099,7 +4099,7 @@
         </app>
         <app xml:id="app3-14-3-298">
           <lem>
-            <w corresp="chapter14_verse3_wordX">כל</w>
+            <w corresp="chapter14_verse3_word9">כל</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4114,7 +4114,7 @@
         </app>
         <app xml:id="app3-14-4-299">
           <lem>
-            <w corresp="chapter14_verse4_wordX">על</w>
+            <w corresp="chapter14_verse4_word5">על</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4131,7 +4131,7 @@
         </app>
         <app xml:id="app3-14-5-300">
           <lem>
-            <w corresp="chapter14_verse5_wordX">ממנו</w>
+            <w corresp="chapter14_verse5_word8">ממנו</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4146,7 +4146,7 @@
         </app>
         <app xml:id="app3-14-6-301">
           <lem>
-            <w corresp="chapter14_verse6_wordX">יפרח</w>
+            <w corresp="chapter14_verse6_word4">יפרח</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4178,7 +4178,7 @@
         </app>
         <app xml:id="app3-14-8-303">
           <lem>
-            <w corresp="chapter14_verse8_wordX">כגפן</w>
+            <w corresp="chapter14_verse8_word7">כגפן</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
@@ -4202,20 +4202,20 @@
         </app>
         <app xml:id="app3-14-10-305">
           <lem>
-            <w corresp="chapter14_verse10_wordX">חכָם</w>
+            <w corresp="chapter14_verse10_word2">חכָם</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>
               <seg>חכֵם</seg>
             </rdg>
             <wit wit="#wit-93"/>
-            <note type="general" ref="#sig-unc"></note>
+            <note type="general" ref="#sig-unc"/>
           </rdgGrp>
           <note type="import">10 חכָם] 93 חכֵם (!)</note>
         </app>
         <app xml:id="app3-14-10-306">
           <lem>
-            <w corresp="chapter14_verse10_wordX">וצדקים</w>
+            <w corresp="chapter14_verse10_word11">וצדקים</w>
           </lem>
           <rdgGrp type="variant">
             <rdg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   * artificial test file with representative sample of encoding scenarios MT
+   
+   
+   * replace custom sigla with xml:id
+   * stick to XML, so e.g. &lt;ref 4&gt; would become <ref target="4"/>, <Item>&lt;specialFont [&gt; </Item> <item wit="WitID"/>
+   * Lemmas/Lemma -> lem
+   * Lemmas/text, Lemma/Detail/Content -> <w></w>
+   
+   
+      <listApp>
+      <app xml:id="app-appid-entrynumber" loc="target_if_single" from="starting_point_where_multiple" to="end_point_where_multiple">
+         <lem>
+               <!-- may have multiple words -->
+              
+               <w>first word</w>
+               <!-- words may be expanded -->
+               <w ana="parenthesis">
+                  <choice>
+                     <abbr>k</abbr>
+                     <expan>king</expan>
+                  </choice>
+               </w>
+            
+         </lem>
+      
+         
+         <!-- type determines how the groups of readings are related -->
+         <rdgGrp type="same-as | similar (wavy) | related">
+            <rdgGrp>
+               <rdg wit="A" type="minus">
+                  <seg>great</seg>
+                  <note type="footnote">linked footnote (if here, means it is just for this witness</note>
+               </rdg>
+               <rdg wit="B" type="minus">
+                  <seg>great</seg>
+ 
+               </rdg>
+               <note type="footnote">linked footnote (if here, means it is for the entire rdgGrp</note>
+               <note type="inline">inline </note>
+            </rdgGrp>
+            <rdgGrp>
+               <rdg wit="SyriacC"></rdg>
+            </rdgGrp>
+         </rdgGrp>
+         <rdgGrp type="variant">
+            <!-- rdg/@type e.g. addition/ommission/modification e.g. type="mod" subtype="num" -->
+            <rdg wit="A {witness_id} {potentially_multiple}" 
+               type="plus wav" 
+               subtype="secondaryClassification">
+               <seg>reading full content or added/omitted/modified part </seg>
+               <note type="general">inline note</note>
+                  <!--  <note type="general">(similarly PesiqtaR 33 (153b))</note>-->
+               <note type="cf">content of the linked note or use @target to link it</note>
+            
+            </rdg>
+            <listRef>
+               <!-- links to other apparata asssuming all apparatus entries have the form of app{app-number}_{entry-number}  -->
+               <ref target="app4_3">IV</ref>
+            </listRef>
+         </rdgGrp>
+         
+         <note type="import">original note content, e.g. 2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))</note>
+      </app>
+      </listApp>
+   </standOff>
+  
+</TEI>
