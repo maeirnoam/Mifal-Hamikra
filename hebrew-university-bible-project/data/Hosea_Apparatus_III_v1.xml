@@ -1,0 +1,4253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hosea_app3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Converted TEI Document</title>
+      </titleStmt>
+      <publicationStmt>Generated from custom XML</publicationStmt>
+      <sourceDesc>Converted from custom format</sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listApp>
+        <app xml:id="app3-1-1-1">
+          <lem>
+            <w corresp="chapter1_verse1_word11">עזיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עזיהו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">1 עזיה] 30 עזיהו</note>
+        </app>
+        <app xml:id="app3-1-1-2">
+          <lem>
+            <w corresp="chapter1_verse1_word14">יחזקיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יחזקיהו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">יחזקיה] 30 93 (pm) 96 יחזקיהו</note>
+        </app>
+        <app xml:id="app3-1-1-3">
+          <lem>
+            <w corresp="chapter1_verse1_word18">ירבעם</w>
+            <w corresp="chapter1_verse1_word19">בן</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>נבט</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">ירבעם בן] 30 + נבט (non voc)</note>
+        </app>
+        <app xml:id="app3-1-2-4">
+          <lem>
+            <w corresp="chapter1_verse2_word4">בהושע</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ביהושע</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <note type="general">(similarly PesiqtaR 33 (153b))</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-1-2-4">IV</ref>
+          </listRef>
+          <note type="import">2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))</note>
+        </app>
+        <app xml:id="app3-1-3-5">
+          <lem>
+            <w corresp="chapter1_verse3_word8">ותלד</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>בן</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">3 ותלד] 150 (pm) + בן</note>
+        </app>
+        <app xml:id="app3-1-3-6">
+          <lem>
+            <w corresp="chapter1_verse3_word9">לו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-1-3-6">I</ref>
+            <ref target="app2-1-3-6">II</ref>
+            <ref target="app4-1-3-6">IV</ref>
+          </listRef>
+          <note type="import">לו] 96 &gt;I  II IV</note>
+        </app>
+        <app xml:id="app3-1-4-7">
+          <lem>
+            <w corresp="chapter1_verse4_word10">ופקדתי</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>על</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">4 ופקדתי] 30 + על (non voc)</note>
+        </app>
+        <app xml:id="app3-1-4-8">
+          <lem>
+            <w corresp="chapter1_verse4_word18">ממלכוּת</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ממלכוֹת</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">ממלכוּת] 96 ממלכוֹת</note>
+        </app>
+        <app xml:id="app3-1-5-9">
+          <lem>
+            <w corresp="chapter1_verse5_word5">את</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">5 את] 30 &gt;</note>
+        </app>
+        <app xml:id="app3-1-5-10">
+          <lem>
+            <w corresp="chapter1_verse5_word9">יזרעאל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ישראל</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(parall; but 150-Tg: יזרעאל)</note>
+          </rdgGrp>
+          <note type="import">יזרעאל] 150 ישראל (parall; but 150-Tg: יזרעאל)</note>
+        </app>
+        <app xml:id="app3-1-6-11">
+          <lem>
+            <w n="1" corresp="chapter1_verse6_word1">עוד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm"/>
+            <note type="general">(similarly b. Pesaḥim 87bmss)</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-1-6-11">I</ref>
+            <ref target="app2-1-6-11">II</ref>
+            <ref target="app4-1-6-11">IV</ref>
+          </listRef>
+          <note type="import">6 עוד1] 30 (pm) &gt;I II IV (similarly b. Pesaḥim 87bmss)</note>
+        </app>
+        <app xml:id="app3-1-6-12">
+          <lem>
+            <w corresp="chapter1_verse6_word11">כי</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>את</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">כי] 93 (pm) + את</note>
+        </app>
+        <app xml:id="app3-1-6-13">
+          <lem>
+            <w corresp="chapter1_verse6_word13">אוסיף</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אוסיף] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-1-6-14">
+          <lem>
+            <w corresp="chapter1_verse6_word16">את</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">את] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-1-7-15">
+          <lem>
+            <w corresp="chapter1_verse7_word5">והושעתים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והושעתם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">7 והושעתים] 93 (pm) והושעתם</note>
+        </app>
+        <app xml:id="app3-1-7-16">
+          <lem>
+            <w corresp="chapter1_verse7_word13">בסוסים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ובסוסים</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-1-7-16">I</ref>
+            <ref target="app4-1-7-16">IV</ref>
+          </listRef>
+          <note type="import">בסוסים] 96 ובסוסיםI IV</note>
+        </app>
+        <app xml:id="app3-1-8-17">
+          <lem>
+            <w corresp="chapter1_verse8_word4">רֻחמה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">לח</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">8 רֻחמה] 30 לח..</note>
+        </app>
+        <app xml:id="app3-1-9-18">
+          <lem>
+            <w corresp="chapter1_verse9_word10">ואנכי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אנכי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואני</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">9 ואנכי] 150 (pm) אנכי | 93 ואני</note>
+        </app>
+        <app xml:id="app3-2-1-19">
+          <lem>
+            <w n="1" corresp="chapter2_verse1_word1">אשר</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>יאמר</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">1 אשר1] 150 + יאמר (non voc)</note>
+        </app>
+        <app xml:id="app3-2-1-20">
+          <lem>
+            <w n="2" corresp="chapter2_verse1_word2">אשר</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>לא</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">אשר2] 96 + לא</note>
+        </app>
+        <app xml:id="app3-2-2-21">
+          <lem>
+            <w corresp="chapter2_verse2_word8">להם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לכם</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 להם] 30 (pm) לכם</note>
+        </app>
+        <app xml:id="app3-2-2-22">
+          <lem>
+            <w corresp="chapter2_verse2_word10">אחד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אחד] 30 (pm) 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-2-4-23">
+          <lem>
+            <w corresp="chapter2_verse4_word14">ונאפופיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ונאפו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 ונאפופיה] 150 (pm) ונאפו</note>
+        </app>
+        <app xml:id="app3-2-5-24">
+          <lem>
+            <w corresp="chapter2_verse5_word3">ערֻמה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ערוֹמה</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">5 ערֻמה] 96 ערוֹמה</note>
+        </app>
+        <app xml:id="app3-2-5-25">
+          <lem>
+            <w corresp="chapter2_verse5_word4">והצגתיה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>כיום ערומה והצגתיה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">והצגתיה] 93 (pm) + כיום ערומה והצגתיה</note>
+        </app>
+        <app xml:id="app3-2-5-26">
+          <lem>
+            <w corresp="chapter2_verse5_word9">ושתִּה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ושמתיה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ושתִּה] 150 (pm) ושמתיה</note>
+        </app>
+        <app xml:id="app3-2-7-27">
+          <lem>
+            <w corresp="chapter2_verse7_word8">אלכה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>ואשיבה אל איש</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">7 אלכה] 30 + ואשיבה אל איש (non voc)</note>
+        </app>
+        <app xml:id="app3-2-8-28">
+          <lem>
+            <w corresp="chapter2_verse8_word3">שָׂך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>סך</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+            <note type="general">(See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-2-8-28">II</ref>
+            <ref target="app4-2-8-28">IV</ref>
+          </listRef>
+          <note type="import">8 שָׂך] 30 (pm) 93 (pm) 150 (pm) סךII IV (See b. R.HaŠanamss 23b, LamR Buber 1:16 (40b))</note>
+        </app>
+        <app xml:id="app3-2-10-29">
+          <lem>
+            <w corresp="chapter2_verse10_word7">לה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>את</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="non voc"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="non voc"/>
+          </rdgGrp>
+          <note type="import">10 לה] 93 (non voc) 96 150 (non voc) + את</note>
+        </app>
+        <app xml:id="app3-2-10-30">
+          <lem>
+            <w corresp="chapter2_verse10_wordX">כי</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>כי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="non voc"/>
+          </rdgGrp>
+          <note type="import">כי] 150 (non voc) + כי</note>
+        </app>
+        <app xml:id="app3-2-11-31">
+          <lem>
+            <w corresp="chapter2_verse11_word2">אשוב</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-2-11-31">IV</ref>
+          </listRef>
+          <note type="import">11 אשוב] 93 (pm) &gt;IV</note>
+        </app>
+        <app xml:id="app3-2-13-32">
+          <lem>
+            <w corresp="chapter2_verse13_word7">וכל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">13 וכל] 150 (pm) כל</note>
+        </app>
+        <app xml:id="app3-2-14-33">
+          <lem>
+            <w corresp="chapter2_verse14_word1">והשִׁמתי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והשבתי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">14 והשִׁמתי] 150 (pm) והשבתי</note>
+        </app>
+        <app xml:id="app3-2-15-34">
+          <lem>
+            <w corresp="chapter2_verse15_word9">ותַעַד</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ותָעָד</seg>
+            </rdg>
+            <wit wit="#wit-94"/>
+            <note type="general">(understood as \עוד (rather than \עדי))</note>
+          </rdgGrp>
+          <note type="import">15 ותַעַד] G-B Eb 94 ותָעָד (understood as \עוד (rather than \עדי))</note>
+        </app>
+        <app xml:id="app3-2-15-35">
+          <lem>
+            <w corresp="chapter2_verse15_word16">שכְחה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שכחת</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">שכְחה] 150 (pm) שכחת</note>
+        </app>
+        <app xml:id="app3-2-16-36">
+          <lem>
+            <w corresp="chapter2_verse16_word4">אנכי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">16 אנכי] 30 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-2-16-37">
+          <lem>
+            <w corresp="chapter2_verse16_word5">מפתיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מְפַּתֶיהָ</seg>
+            </rdg>
+            <wit wit="#wit-89"/>
+          </rdgGrp>
+          <note type="import">מפתיה] 89 מְפַּתֶיהָ</note>
+        </app>
+        <app xml:id="app3-2-16-38">
+          <lem>
+            <w corresp="chapter2_verse16_word7">המדבר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>המדברה</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+            <note type="general">(similarly SifreDeut 313 (356:6), RuthR 5:6)</note>
+          </rdgGrp>
+          <note type="import">המדבר] 96 המדברה (similarly SifreDeut 313 (356:6), RuthR 5:6)</note>
+        </app>
+        <app xml:id="app3-2-18-39">
+          <lem>
+            <w corresp="chapter2_verse18_word5">יהוה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>צבאות</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">18 יהוה] 150 + צבאות (non voc)</note>
+        </app>
+        <app xml:id="app3-2-18-40">
+          <lem>
+            <w n="1" corresp="chapter2_verse18_word1">תקראי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תקראו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>לי</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-2-18-40">I</ref>
+            <ref target="app2-2-18-40">II</ref>
+          </listRef>
+          <note type="import">תקראי1] 150 (pm) תקראו | 30 + לי (non voc)I II</note>
+        </app>
+        <app xml:id="app3-2-18-41">
+          <lem>
+            <w corresp="chapter2_verse18_word10">לי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-54" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-2-18-41">II</ref>
+          </listRef>
+          <note type="import">לי] G-B Eb 54 (pm) &gt;II</note>
+        </app>
+        <app xml:id="app3-2-18-42">
+          <lem>
+            <w corresp="chapter2_verse18_word11">עוד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm?"/>
+          </rdgGrp>
+          <note type="import">עוד] 30 (pm?) &gt;</note>
+        </app>
+        <app xml:id="app3-2-20-43">
+          <lem>
+            <w corresp="chapter2_verse20_word2">להם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אלהם</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">20 להם] 150 (pm) אלהם</note>
+        </app>
+        <app xml:id="app3-2-21-44">
+          <lem>
+            <w corresp="chapter2_verse21_word1">וארשתיך</w>
+            <w corresp="chapter2_verse21_word2">לי</w>
+            <w corresp="chapter2_verse21_word3">לעולם</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">21 וארשתיך לי לעולם] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-2-22-45">
+          <lem>
+            <w corresp="chapter2_verse22_word4">וידעת</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וידעתם</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>כי</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-89" ana="sm"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="non voc"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-2-22-45">I</ref>
+            <ref target="app2-2-22-45">II</ref>
+            <ref target="app4-2-22-45">IV</ref>
+          </listRef>
+          <note type="import">22 וידעת] 150 (pm) וידעתם | 30 89 (sm) 93 (pm) 150 (non voc) + כיI II IV</note>
+        </app>
+        <app xml:id="app3-2-22-46">
+          <lem>
+            <w corresp="chapter2_verse22_word5">את</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אני</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-89" ana="sm"/>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-2-22-46">I</ref>
+            <ref target="app2-2-22-46">II</ref>
+            <ref target="app4-2-22-46">IV</ref>
+          </listRef>
+          <note type="import">את] 30 89 (sm) 93 (pm) אניI II IV</note>
+        </app>
+        <app xml:id="app3-2-23-47">
+          <lem>
+            <w corresp="chapter2_verse23_word12">והם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והמה</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="sm"/>
+          </rdgGrp>
+          <note type="import">23 והם] 30 (sm) והמה</note>
+        </app>
+        <app xml:id="app3-3-1-48">
+          <lem>
+            <w corresp="chapter3_verse1_word4">עוד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">1 עוד] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-3-3-49">
+          <lem>
+            <w corresp="chapter3_verse3_word1">ואמר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואמרה</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ויאמר</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">3 ואמר] 30 (pm) ואמרה | 150 (pm) ויאמר</note>
+        </app>
+        <app xml:id="app3-3-3-50">
+          <lem>
+            <w corresp="chapter3_verse3_word7">לא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ולא</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-3-3-50">I</ref>
+          </listRef>
+          <note type="import">לא] 96 ולאI</note>
+        </app>
+        <app xml:id="app3-3-3-51">
+          <lem>
+            <w corresp="chapter3_verse3_word8">תזני</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תתי</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <note type="general">(Caused by ligature ז+נ)</note>
+          </rdgGrp>
+          <note type="import">תזני] 93 (pm) תתי (Caused by ligature ז+נ)</note>
+        </app>
+        <app xml:id="app3-3-3-52">
+          <lem>
+            <w corresp="chapter3_verse3_word14">אליך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אלהיך</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אליך] 93 (pm) אלהיך</note>
+        </app>
+        <app xml:id="app3-3-4-53">
+          <lem>
+            <w n="3" corresp="chapter3_verse4_word4">ואין</w>
+            <w n="2" corresp="chapter3_verse4_word3">ואין</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אין</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-3-4-53">IV</ref>
+          </listRef>
+          <note type="import">4 ואין3,2] 150 (pm) איןIV</note>
+        </app>
+        <app xml:id="app3-3-5-54">
+          <lem>
+            <w corresp="chapter3_verse5_word1">אחר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואחר</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-3-5-54">I</ref>
+            <ref target="app2-3-5-54">II</ref>
+          </listRef>
+          <note type="import">5 אחר] 150 (pm) ואחרI II</note>
+        </app>
+        <app xml:id="app3-4-2-55">
+          <lem>
+            <w corresp="chapter4_verse2_word7">ודמים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>דמים</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-4-2-55">II</ref>
+          </listRef>
+          <note type="import">2 ודמים] 96 150 (pm) דמיםII</note>
+        </app>
+        <app xml:id="app3-4-3-56">
+          <lem>
+            <w corresp="chapter4_verse3_word8">יושב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ישבי</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="sm"/>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יושבי</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-4-3-56">I</ref>
+            <ref target="app2-4-3-56">II</ref>
+            <ref target="app4-4-3-56">IV</ref>
+          </listRef>
+          <note type="import">3 יושב] 30 (sm) 93 (pm) ישבי | 96 (pm) יושביI II IV</note>
+        </app>
+        <app xml:id="app3-4-3-57">
+          <lem>
+            <w corresp="chapter4_verse3_word14">וגם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכל</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">וגם] 30 (pm) וכל</note>
+        </app>
+        <app xml:id="app3-4-4-58">
+          <lem>
+            <w corresp="chapter4_verse4_word9">כמריבי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כמריבת</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 כמריבי] 150 (pm) כמריבת</note>
+        </app>
+        <app xml:id="app3-4-6-59">
+          <lem>
+            <w n="1" corresp="chapter4_verse6_word1">הדעת</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>דעת</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-4-6-59">II</ref>
+          </listRef>
+          <note type="import">6 הדעת1] 93 (pm) 150 (pm) דעתII</note>
+        </app>
+        <app xml:id="app3-4-6-60">
+          <lem>
+            <w corresp="chapter4_verse6_word6">אתה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>את</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אתה] 96 (pm) את</note>
+        </app>
+        <app xml:id="app3-4-6-61">
+          <lem>
+            <w corresp="chapter4_verse6_word9">ואמאסאך</w>
+            <choice>
+              <reg>ואמאסך</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>q</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93" ana="sm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אמסך</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-4-6-61">IV</ref>
+          </listRef>
+          <note type="import">k ואמאסאך / q ואמאסך] 30 93 (sm) 96 150 (pm) q IV | 93 (pm) אמסך</note>
+        </app>
+        <app xml:id="app3-4-6-62">
+          <lem>
+            <w corresp="chapter4_verse6_word12">ותשכח</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תשכחי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ותשכח] 150 (pm) תשכחי</note>
+        </app>
+        <app xml:id="app3-4-8-63">
+          <lem>
+            <w corresp="chapter4_verse8_word6">ישאו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 ישאו] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-4-8-64">
+          <lem>
+            <w corresp="chapter4_verse8_word7">נפשו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>נפשם</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="pm"/>
+            <wit wit="#wit-96" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-4-8-64">I</ref>
+            <ref target="app4-4-8-64">IV</ref>
+          </listRef>
+          <note type="import">נפשו] 89 (pm) 96 (pm) 150 (pm) נפשםI IV</note>
+        </app>
+        <app xml:id="app3-4-9-65">
+          <lem>
+            <w corresp="chapter4_verse9_word4">ופקדתי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ופקדתיו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">9 ופקדתי] 93 (pm) ופקדתיו</note>
+        </app>
+        <app xml:id="app3-4-9-66">
+          <lem>
+            <w corresp="chapter4_verse9_word5">עליו</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>ודמו</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">עליו] 96 + ודמו (non voc)</note>
+        </app>
+        <app xml:id="app3-4-9-67">
+          <lem>
+            <w corresp="chapter4_verse9_word6">דרכיו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כדרכיו</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">דרכיו] 30 (pm) כדרכיו</note>
+        </app>
+        <app xml:id="app3-4-10-68">
+          <lem>
+            <w corresp="chapter4_verse10_word1">ואכלו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אכלו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="sm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-4-10-68">II</ref>
+          </listRef>
+          <note type="import">10 ואכלו] 93 (sm) אכלוII</note>
+        </app>
+        <app xml:id="app3-4-10-69">
+          <lem>
+            <w corresp="chapter4_verse10_word4">הזנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והזנו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">הזנו] 150 (pm) והזנו</note>
+        </app>
+        <app xml:id="app3-4-10-70">
+          <lem>
+            <w corresp="chapter4_verse10_word7">כי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">כי] 96 &gt;</note>
+        </app>
+        <app xml:id="app3-4-11-71">
+          <lem>
+            <w corresp="chapter4_verse11_word2">ויין</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יין</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-89" ana="pm"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-4-11-71">II</ref>
+          </listRef>
+          <note type="import">11 ויין] 30 (pm) 89 (pm) 93 (pm) 96 150 ייןII</note>
+        </app>
+        <app xml:id="app3-4-13-72">
+          <lem>
+            <w corresp="chapter4_verse13_word7">יקטרו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יקטרון</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">13 יקטרו] 150 (pm) יקטרון</note>
+        </app>
+        <app xml:id="app3-4-13-73">
+          <lem>
+            <w corresp="chapter4_verse13_word14">צלה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יגלה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">צלה] 93 (pm) יגלה</note>
+        </app>
+        <app xml:id="app3-4-13-74">
+          <lem>
+            <w corresp="chapter4_verse13_word19">וכלותיכם</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>כי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">וכלותיכם] 150 (pm) + כי</note>
+        </app>
+        <app xml:id="app3-4-14-75">
+          <lem>
+            <w corresp="chapter4_verse14_word10">תנאפנה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תנאפינה</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+            <note type="general">(similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)</note>
+          </rdgGrp>
+          <note type="import">14 תנאפנה] 96 (pm) תנאפינה (similarly m. Soṭams 9:9, b. Soṭaed 47a, 47b)</note>
+        </app>
+        <app xml:id="app3-4-14-76">
+          <lem>
+            <w corresp="chapter4_verse14_word14">הזֹנות</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>זנות</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">הזֹנות] 93 (pm) זנות</note>
+        </app>
+        <app xml:id="app3-4-14-77">
+          <lem>
+            <w corresp="chapter4_verse14_word15">יְפָרדו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יִפָּרדו</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">יְפָרדו] 93 96 יִפָּרדו</note>
+        </app>
+        <app xml:id="app3-4-15-78">
+          <lem>
+            <w corresp="chapter4_verse15_word7">יהודה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יהוה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">15 יהודה] 93 (pm) יהוה</note>
+        </app>
+        <app xml:id="app3-4-15-79">
+          <lem>
+            <w n="1" corresp="chapter4_verse15_word1">ואל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-4-15-79">I</ref>
+            <ref target="app4-4-15-79">IV</ref>
+          </listRef>
+          <note type="import">ואל1] 150 (pm) אלI IV</note>
+        </app>
+        <app xml:id="app3-4-15-80">
+          <lem>
+            <w n="3" corresp="chapter4_verse15_word3">ואַל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואֵל</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">ואַל3] 30 ואֵל</note>
+        </app>
+        <app xml:id="app3-4-16-81">
+          <lem>
+            <w corresp="chapter4_verse16_word9">ככבש</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בכבש</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="sm"/>
+          </rdgGrp>
+          <note type="import">16 ככבש] 89 (sm) בכבש</note>
+        </app>
+        <app xml:id="app3-4-18-82">
+          <lem>
+            <w corresp="chapter4_verse18_word2">סבאם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>סבאים</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">18 סבאם] 93 סבאים</note>
+        </app>
+        <app xml:id="app3-4-18-83">
+          <lem>
+            <w corresp="chapter4_verse18_word5">אהבו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אתם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אהבו] 93 (pm) אתם</note>
+        </app>
+        <app xml:id="app3-4-18-84">
+          <lem>
+            <w corresp="chapter4_verse18_word7">קלון</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>קלו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">קלון] 150 (pm) קלו</note>
+        </app>
+        <app xml:id="app3-4-18-85">
+          <lem>
+            <w corresp="chapter4_verse18_word8">מגניה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מקלון</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">מגניה] 96 (pm) מקלון</note>
+        </app>
+        <app xml:id="app3-4-19-86">
+          <lem>
+            <w corresp="chapter4_verse19_word4">בכנפיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בכנפה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בכפניה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>ויזבחו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">19 בכנפיה] 93 (pm) בכנפה | 150 (pm) בכפניה | 93 (pm) + ויזבחו</note>
+        </app>
+        <app xml:id="app3-4-19-87">
+          <lem>
+            <w corresp="chapter4_verse19_word6">מִזִּבְחותם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מִזְבְּחתם</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מִזְבְחותם</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-4-19-87">I</ref>
+            <ref target="app4-4-19-87">IV</ref>
+          </listRef>
+          <note type="import">מִזִּבְחותם] 30 93 150 מִזְבְּחתםI IV | 96 מִזְבְחותם</note>
+        </app>
+        <app xml:id="app3-5-1-88">
+          <lem>
+            <w corresp="chapter5_verse1_word19">פרושה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>פרוסה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>פרוטה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">1 פרושה] 93 (pm) פרוסה | 150 (pm) פרוטה</note>
+        </app>
+        <app xml:id="app3-5-2-89">
+          <lem>
+            <w corresp="chapter5_verse2_word5">מוסר</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>העמקי</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 מוסר] 96 (pm) + העמקי</note>
+        </app>
+        <app xml:id="app3-5-4-90">
+          <lem>
+            <w n="1" corresp="chapter5_verse4_word1">לא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ולא</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="sm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-5-4-90">I</ref>
+            <ref target="app4-5-4-90">IV</ref>
+          </listRef>
+          <note type="import">4 לא1] 30 (sm) ולאI IV</note>
+        </app>
+        <app xml:id="app3-5-4-91">
+          <lem>
+            <w corresp="chapter5_verse4_word5">אל</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>אל</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-5-4-91">I</ref>
+            <ref target="app4-5-4-91">IV</ref>
+          </listRef>
+          <note type="import">אל] 93 (pm) + אלI IV</note>
+        </app>
+        <app xml:id="app3-5-4-92">
+          <lem>
+            <w corresp="chapter5_verse4_word10">בקרבם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בקרבכם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">בקרבם] 96 (pm) בקרבכם</note>
+        </app>
+        <app xml:id="app3-5-5-93">
+          <lem>
+            <w corresp="chapter5_verse5_word5">וישראל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ישראל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">5 וישראל] 150 (pm) ישראל</note>
+        </app>
+        <app xml:id="app3-5-5-94">
+          <lem>
+            <w corresp="chapter5_verse5_word12">עמם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עמכם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">עמם] 93 (pm) עמכם</note>
+        </app>
+        <app xml:id="app3-5-6-95">
+          <lem>
+            <w corresp="chapter5_verse6_word2">ובבקרם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ובקרם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">6 ובבקרם] 93 (pm) ובקרם</note>
+        </app>
+        <app xml:id="app3-5-6-96">
+          <lem>
+            <w corresp="chapter5_verse6_word5">את</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>דבר</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-5-6-96">II</ref>
+            <ref target="app4-5-6-96">IV</ref>
+          </listRef>
+          <note type="import">את] 93 + דבר (non voc)II IV</note>
+        </app>
+        <app xml:id="app3-5-7-97">
+          <lem>
+            <w corresp="chapter5_verse7_word5">זרים</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">7 זרים] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-5-7-98">
+          <lem>
+            <w corresp="chapter5_verse7_word7">עתה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ועתה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">עתה] 93 (pm) ועתה</note>
+        </app>
+        <app xml:id="app3-5-7-99">
+          <lem>
+            <w corresp="chapter5_verse7_word10">את</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">את] 30 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-5-8-100">
+          <lem>
+            <w corresp="chapter5_verse8_word5">חצצרה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>חצצריה</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 חצצרה] 96 (pm) חצצריה</note>
+        </app>
+        <app xml:id="app3-5-8-101">
+          <lem>
+            <w corresp="chapter5_verse8_word8">בית</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בין</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(similarly b. R.HaŠanams 32b)</note>
+          </rdgGrp>
+          <note type="import">בית] 150 בין (similarly b. R.HaŠanams 32b)</note>
+        </app>
+        <app xml:id="app3-5-8-102">
+          <lem>
+            <w corresp="chapter5_verse8_word10">אחריך</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אחריך] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-5-10-103">
+          <lem>
+            <w corresp="chapter5_verse10_word4">כמסיגי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כמשיגי</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150" ana="pm?"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-5-10-103">IV</ref>
+          </listRef>
+          <note type="import">10 כמסיגי] 30 93 150 (pm?) כמשיגיIV</note>
+        </app>
+        <app xml:id="app3-5-10-104">
+          <lem>
+            <w corresp="chapter5_verse10_word5">גבול</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>עולם</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <note type="general">(non voc) (cf גבול עולם Prov 2228 2310)</note>
+          </rdgGrp>
+          <note type="import">גבול] 93 + עולם (non voc) (cf גבול עולם Prov 2228 2310)</note>
+        </app>
+        <app xml:id="app3-5-11-105">
+          <lem>
+            <w corresp="chapter5_verse11_word8">אחרי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">11 אחרי] 96 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-5-12-106">
+          <lem>
+            <w corresp="chapter5_verse12_word3">לאפרים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אפרים</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">12 לאפרים] 93 (pm) אפרים</note>
+        </app>
+        <app xml:id="app3-5-12-107">
+          <lem>
+            <w corresp="chapter5_verse12_word4">וְכָרקב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וּכְרקב</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">וְכָרקב] 93 96 וּכְרקב</note>
+        </app>
+        <app xml:id="app3-5-13-108">
+          <lem>
+            <w corresp="chapter5_verse13_word7">מזֹרו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מרזרו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">13 מזֹרו] 93 (pm) מרזרו</note>
+        </app>
+        <app xml:id="app3-5-13-109">
+          <lem>
+            <w corresp="chapter5_verse13_word12">וישלח</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">מ</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">וישלח] 93 מ..</note>
+        </app>
+        <app xml:id="app3-5-14-110">
+          <lem>
+            <w corresp="chapter5_verse14_word12">אשא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואשא</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="sm"/>
+            <wit wit="#wit-89" ana="pm"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96" ana="pm"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-5-14-110">I</ref>
+            <ref target="app4-5-14-110">IV</ref>
+          </listRef>
+          <note type="import">14 אשא] 30 (sm) 89 (pm) 93 96 (pm) 150 ואשאI IV</note>
+        </app>
+        <app xml:id="app3-5-15-111">
+          <lem>
+            <w corresp="chapter5_verse15_word2">אשובה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואשובה</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-5-15-111">I</ref>
+            <ref target="app2-5-15-111">II</ref>
+            <ref target="app4-5-15-111">IV</ref>
+          </listRef>
+          <note type="import">15 אשובה] 30 93 96 150 (pm) ואשובהI II IV</note>
+        </app>
+        <app xml:id="app3-6-2-112">
+          <lem>
+            <w corresp="chapter6_verse2_word1">יחינו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm?"/>
+          </rdgGrp>
+          <note type="import">2 יחינו] 30 (pm?) &gt;</note>
+        </app>
+        <app xml:id="app3-6-2-113">
+          <lem>
+            <w corresp="chapter6_verse2_word2">מיֹמים</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm?"/>
+          </rdgGrp>
+          <note type="import">מיֹמים] 30 (pm?) &gt;</note>
+        </app>
+        <app xml:id="app3-6-3-114">
+          <lem>
+            <w corresp="chapter6_verse3_word10">כַגֶּשם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כְגֶשם</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">3 כַגֶּשם] 93 96 כְגֶשם</note>
+        </app>
+        <app xml:id="app3-6-3-115">
+          <lem>
+            <w corresp="chapter6_verse3_word12">כמלקוש</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ומלקוש</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-6-3-115">I</ref>
+            <ref target="app2-6-3-115">II</ref>
+            <ref target="app4-6-3-115">IV</ref>
+          </listRef>
+          <note type="import">כמלקוש] 150 (pm) ומלקושI II IV</note>
+        </app>
+        <app xml:id="app3-6-4-116">
+          <lem>
+            <w n="1" corresp="chapter6_verse4_word1">לְךָ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לָךְ</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>יהודה</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 לְךָ1] 96 לָךְ | 30 (pm) + יהודה</note>
+        </app>
+        <app xml:id="app3-6-4-117">
+          <lem>
+            <w n="2" corresp="chapter6_verse4_word2">מה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ומה</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-6-4-117">I</ref>
+          </listRef>
+          <note type="import">מה2] 30 93 150 (pm) ומהI</note>
+        </app>
+        <app xml:id="app3-6-4-118">
+          <lem>
+            <w n="2" corresp="chapter6_verse4_word2">לְךָ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לָךְ</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>אפרים</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">לְךָ2] 96 לָךְ | 30 (pm) + אפרים</note>
+        </app>
+        <app xml:id="app3-6-4-119">
+          <lem>
+            <w corresp="chapter6_verse4_word9">וחסדכם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>חסדכם</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-6-4-119">I</ref>
+          </listRef>
+          <note type="import">וחסדכם] 93 150 חסדכםI</note>
+        </app>
+        <app xml:id="app3-6-4-120">
+          <lem>
+            <w corresp="chapter6_verse4_word14">הֹלך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והולך</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-6-4-120">I</ref>
+          </listRef>
+          <note type="import">הֹלך] 96 והולךI</note>
+        </app>
+        <app xml:id="app3-6-7-121">
+          <lem>
+            <w corresp="chapter6_verse7_word4">ברית</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כי</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+            <note type="general">(?)</note>
+          </rdgGrp>
+          <note type="import">7 ברית] 96 (pm) כי (?)</note>
+        </app>
+        <app xml:id="app3-6-8-122">
+          <lem>
+            <w corresp="chapter6_verse8_word6">מדם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>משם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 מדם] 93 (pm) משם</note>
+        </app>
+        <app xml:id="app3-6-9-123">
+          <lem>
+            <w corresp="chapter6_verse9_word1">וכחכי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכחכה</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(similarly GenRmss 80:2 (953:4))</note>
+          </rdgGrp>
+          <note type="import">9 וכחכי] 150 וכחכה (similarly GenRmss 80:2 (953:4))</note>
+        </app>
+        <app xml:id="app3-6-9-124">
+          <lem>
+            <w corresp="chapter6_verse9_word4">חבר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וחבר</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">חבר] 93 (pm) וחבר</note>
+        </app>
+        <app xml:id="app3-6-10-125">
+          <lem>
+            <w corresp="chapter6_verse10_word4">שעריריה</w>
+            <choice>
+              <reg>שערוריה</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>k</seg>
+              </rdg>
+              <wit wit="#wit-30" ana="pm"/>
+              <wit wit="#wit-89" ana="pm"/>
+              <wit wit="#wit-150" ana="sm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>q</seg>
+              </rdg>
+              <wit wit="#wit-30" ana="sm"/>
+              <wit wit="#wit-89" ana="sm"/>
+              <wit wit="#wit-93" ana="sm"/>
+              <wit wit="#wit-96"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>שערורה</seg>
+              </rdg>
+              <wit wit="#wit-93" ana="pm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-6-10-125">IV</ref>
+          </listRef>
+          <note type="import">10 k שעריריה / q שערוריה] 30 (pm) 89 (pm) 150 (sm) k, 30 (sm) 89 (sm) 93 (sm) 96 150 (pm) q, 93 (pm) שערורהIV</note>
+        </app>
+        <app xml:id="app3-6-10-126">
+          <lem>
+            <w corresp="chapter6_verse10_word5">שׁם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שׂם</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">שׁם] 96 שׂם</note>
+        </app>
+        <app xml:id="app3-6-11-127">
+          <lem>
+            <w corresp="chapter6_verse11_word5">לך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>להּ</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="sm"/>
+          </rdgGrp>
+          <note type="import">11 לך] 93 (sm) להּ</note>
+        </app>
+        <app xml:id="app3-7-1-128">
+          <lem>
+            <w corresp="chapter7_verse1_word9">פעלו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>פעלי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">1 פעלו] 150 (pm) פעלי</note>
+        </app>
+        <app xml:id="app3-7-1-129">
+          <lem>
+            <w corresp="chapter7_verse1_word11">וגנב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכגנב</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">וגנב] 30 וכגנב</note>
+        </app>
+        <app xml:id="app3-7-1-130">
+          <lem>
+            <w corresp="chapter7_verse1_word13">פשט</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ופשט</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <note type="general">(similarly S.Eli.R 22 (125))</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-7-1-130">I</ref>
+          </listRef>
+          <note type="import">פשט] 93 (pm) ופשטI (similarly S.Eli.R 22 (125))</note>
+        </app>
+        <app xml:id="app3-7-1-131">
+          <lem>
+            <w corresp="chapter7_verse1_word15">בחוץ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בחרץ</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">בחוץ] 96 (pm) בחרץ</note>
+        </app>
+        <app xml:id="app3-7-2-132">
+          <lem>
+            <w corresp="chapter7_verse2_word3">ללבבם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ללבם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בלבבם</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-7-2-132">I</ref>
+          </listRef>
+          <note type="import">2 ללבבם] 96 (pm) ללבם | 30 93 150 (pm) בלבבםI</note>
+        </app>
+        <app xml:id="app3-7-4-133">
+          <lem>
+            <w corresp="chapter7_verse4_word3">כמו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-89" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 כמו] 89 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-7-4-134">
+          <lem>
+            <w corresp="chapter7_verse4_word8">מעיר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עיר</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="sm"/>
+          </rdgGrp>
+          <note type="import">מעיר] 96 (sm) עיר</note>
+        </app>
+        <app xml:id="app3-7-4-135">
+          <lem>
+            <w corresp="chapter7_verse4_word9">מלוש</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בלוש</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">מלוש] 150 (pm) בלוש</note>
+        </app>
+        <app xml:id="app3-7-5-136">
+          <lem>
+            <w corresp="chapter7_verse5_word2">מלכֵּנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מלכינו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-7-5-136">I</ref>
+            <ref target="app2-7-5-136">II</ref>
+            <ref target="app4-7-5-136">IV</ref>
+          </listRef>
+          <note type="import">5 מלכֵּנו] 30 93 (pm) 150 (pm) מלכינוI II IV</note>
+        </app>
+        <app xml:id="app3-7-5-137">
+          <lem>
+            <w corresp="chapter7_verse5_word4">שרים</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">שרים] 30 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-7-5-138">
+          <lem>
+            <w corresp="chapter7_verse5_word8">ידו</w>
+            <w corresp="chapter7_verse5_word9">את</w>
+          </lem>
+          <rdgGrp type="variant">
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">ידו את] 30 ~</note>
+        </app>
+        <app xml:id="app3-7-6-139">
+          <lem>
+            <w corresp="chapter7_verse6_word3">כַתנור</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כְתנור</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">6 כַתנור] 96 כְתנור</note>
+        </app>
+        <app xml:id="app3-7-6-140">
+          <lem>
+            <w corresp="chapter7_verse6_word9">אֹפֵהֶם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אפרים</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-7-6-140">I</ref>
+          </listRef>
+          <note type="import">אֹפֵהֶם] 93 (pm) אפריםI</note>
+        </app>
+        <app xml:id="app3-7-7-141">
+          <lem>
+            <w corresp="chapter7_verse7_word10">אין</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואין</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="sm"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-7-7-141">I</ref>
+            <ref target="app2-7-7-141">II</ref>
+            <ref target="app4-7-7-141">IV</ref>
+          </listRef>
+          <note type="import">7 אין] 30 (sm) 93 150 ואיןI II IV</note>
+        </app>
+        <app xml:id="app3-7-8-142">
+          <lem>
+            <w corresp="chapter7_verse8_word1">אפרים</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>הוא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 אפרים] 93 (pm) + הוא</note>
+        </app>
+        <app xml:id="app3-7-9-143">
+          <lem>
+            <w corresp="chapter7_verse9_word7">גם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וגם</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">9 גם] 150 (pm) וגם</note>
+        </app>
+        <app xml:id="app3-7-11-144">
+          <lem>
+            <w corresp="chapter7_verse11_word5">אין</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואין</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">11 אין] 93 (pm) ואין</note>
+        </app>
+        <app xml:id="app3-7-11-145">
+          <lem>
+            <w corresp="chapter7_verse11_word6">לב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לבי</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="pm"/>
+          </rdgGrp>
+          <note type="import">לב] 89 (pm) לבי</note>
+        </app>
+        <app xml:id="app3-7-12-146">
+          <lem>
+            <w corresp="chapter7_verse12_word4">עליהם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>להם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">12 עליהם] 96 (pm) להם</note>
+        </app>
+        <app xml:id="app3-7-12-147">
+          <lem>
+            <w corresp="chapter7_verse12_word9">איסירם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>איסרם</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-89"/>
+          </rdgGrp>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>אייסרם</seg>
+              </rdg>
+              <wit wit="#wit-96" ana="pm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>אייסירים</seg>
+              </rdg>
+              <wit wit="#wit-96" ana="sm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אסירים</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">איסירם] 30 89 איסרם | 96 (pm) אייסרם, (sm) אייסירים | 150 (pm) אסירים</note>
+        </app>
+        <app xml:id="app3-7-13-148">
+          <lem>
+            <w corresp="chapter7_verse13_word6">ממני</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ממנו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">13 ממני] 93 (pm) ממנו</note>
+        </app>
+        <app xml:id="app3-7-13-149">
+          <lem>
+            <w corresp="chapter7_verse13_word10">פשעוּ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>פשעִי</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">פשעוּ] 96 פשעִי</note>
+        </app>
+        <app xml:id="app3-7-13-150">
+          <lem>
+            <w corresp="chapter7_verse13_word12">ואנכי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואני</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-7-13-150">IV</ref>
+          </listRef>
+          <note type="import">ואנכי] 150 (pm) ואניIV</note>
+        </app>
+        <app xml:id="app3-7-13-151">
+          <lem>
+            <w corresp="chapter7_verse13_word15">דברו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">דברו] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-7-14-152">
+          <lem>
+            <w corresp="chapter7_verse14_word2">זעקו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יזעקו</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">14 זעקו] 30 (pm) יזעקו | 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-7-14-153">
+          <lem>
+            <w corresp="chapter7_verse14_word4">בלבם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בלבבם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-7-14-153">IV</ref>
+          </listRef>
+          <note type="import">בלבם] 93 (pm) בלבבםIV</note>
+        </app>
+        <app xml:id="app3-7-14-154">
+          <lem>
+            <w corresp="chapter7_verse14_word12">יתגוררו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">יתגוררו] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-7-15-155">
+          <lem>
+            <w corresp="chapter7_verse15_word6">יְחַשְּׁבו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יַחְשְׁבו</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">15 יְחַשְּׁבו] 96 יַחְשְׁבו</note>
+        </app>
+        <app xml:id="app3-7-16-156">
+          <lem>
+            <w corresp="chapter7_verse16_word3">לא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">16 לא] 93 (pm) 150 (pm) לו</note>
+        </app>
+        <app xml:id="app3-7-16-157">
+          <lem>
+            <w corresp="chapter7_verse16_word4">על</w>
+            <w corresp="chapter7_verse16_word5">היו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">על היו] 150 (pm) ~</note>
+        </app>
+        <app xml:id="app3-7-16-158">
+          <lem>
+            <w corresp="chapter7_verse16_word13">זוֹ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>זוּ</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">זוֹ] 96 זוּ</note>
+        </app>
+        <app xml:id="app3-8-1-159">
+          <lem>
+            <w corresp="chapter8_verse1_word6">בית</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>על</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">1 בית] 150 (pm) + על</note>
+        </app>
+        <app xml:id="app3-8-1-160">
+          <lem>
+            <w corresp="chapter8_verse1_word9">עברו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עבר</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">עברו] 96 (pm) עבר</note>
+        </app>
+        <app xml:id="app3-8-1-161">
+          <lem>
+            <w corresp="chapter8_verse1_word12">תורָתי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תורֹתי</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="pm"/>
+          </rdgGrp>
+          <note type="import">תורָתי] 89 (pm) תורֹתי</note>
+        </app>
+        <app xml:id="app3-8-2-162">
+          <lem>
+            <w corresp="chapter8_verse2_word5">ישראל</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 ישראל] 96 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-8-5-163">
+          <lem>
+            <w corresp="chapter8_verse5_word2">עגלך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עגליך</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-8-5-163">I</ref>
+          </listRef>
+          <note type="import">5 עגלך] 93 עגליךI</note>
+        </app>
+        <app xml:id="app3-8-6-164">
+          <lem>
+            <w corresp="chapter8_verse6_word10">שבבים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שבבום</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-8-6-164">IV</ref>
+          </listRef>
+          <note type="import">6 שבבים] 150 (pm) שבבוםIV</note>
+        </app>
+        <app xml:id="app3-8-8-165">
+          <lem>
+            <w corresp="chapter8_verse8_word8">חפץ</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 חפץ] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-8-8-166">
+          <lem>
+            <w corresp="chapter8_verse8_word9">בו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בֹה</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">בו] 96 בֹה</note>
+        </app>
+        <app xml:id="app3-8-10-167">
+          <lem>
+            <w corresp="chapter8_verse10_word6">אקבצם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>קבצם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">10 אקבצם] 93 (pm) קבצם</note>
+        </app>
+        <app xml:id="app3-8-10-168">
+          <lem>
+            <w corresp="chapter8_verse10_word11">שרים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ושרים</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-8-10-168">I</ref>
+            <ref target="app2-8-10-168">II</ref>
+            <ref target="app4-8-10-168">IV</ref>
+          </listRef>
+          <note type="import">שרים] 96 150 ושריםI II IV</note>
+        </app>
+        <app xml:id="app3-8-11-169">
+          <lem>
+            <w corresp="chapter8_verse11_word1">כי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-89" ana="pm"/>
+          </rdgGrp>
+          <note type="import">11 כי] 89 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-8-11-170">
+          <lem>
+            <w corresp="chapter8_verse11_word3">אפרים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ישראל</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אפרים] 30 (pm) ישראל</note>
+        </app>
+        <app xml:id="app3-8-11-171">
+          <lem>
+            <w corresp="chapter8_verse11_word7">לו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לי</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">לו] 93 (pm) לי</note>
+        </app>
+        <app xml:id="app3-8-12-172">
+          <lem>
+            <w corresp="chapter8_verse12_word1">אכתוב</w>
+            <choice>
+              <reg>אכתב</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>k</seg>
+              </rdg>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-96"/>
+              <wit wit="#wit-150" ana="sm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>q</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">12 k אכתוב / q אכתב] 93 96 150 (sm) k, 30 89 150 (pm) q</note>
+        </app>
+        <app xml:id="app3-8-12-173">
+          <lem>
+            <w corresp="chapter8_verse12_word3">רבו</w>
+            <choice>
+              <reg>רבי</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>q</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-96"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>רובו</seg>
+              </rdg>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">k רבו / q רבי] 30 89 93 96 q, 150 (pm) רובו</note>
+        </app>
+        <app xml:id="app3-8-13-174">
+          <lem>
+            <w corresp="chapter8_verse13_word5">וַיֹּאכלו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וְיֹאכלו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-89"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">13 וַיֹּאכלו] 30 89 93 96 וְיֹאכלו</note>
+        </app>
+        <app xml:id="app3-8-13-175">
+          <lem>
+            <w corresp="chapter8_verse13_word6">יהוה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ויהוה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-8-13-175">I</ref>
+            <ref target="app4-8-13-175">IV</ref>
+          </listRef>
+          <note type="import">יהוה] 150 (pm) ויהוהI IV</note>
+        </app>
+        <app xml:id="app3-8-13-176">
+          <lem>
+            <w corresp="chapter8_verse13_word9">עתה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ועתה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">עתה] 150 (pm) ועתה</note>
+        </app>
+        <app xml:id="app3-8-13-177">
+          <lem>
+            <w corresp="chapter8_verse13_word13">חטֹאותם</w>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>חטאתם</seg>
+              </rdg>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-96"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>חטָאתם</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">חטֹאותם] 89 93 96 150 (pm) חטאתם, 30 חטָאתם</note>
+        </app>
+        <app xml:id="app3-8-13-178">
+          <lem>
+            <w corresp="chapter8_verse13_word14">המה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והמה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-8-13-178">IV</ref>
+          </listRef>
+          <note type="import">המה] 150 (pm) והמהIV</note>
+        </app>
+        <app xml:id="app3-8-14-179">
+          <lem>
+            <w corresp="chapter8_verse14_word5">ויבן</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">א</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">14 ויבן] 93 א..</note>
+        </app>
+        <app xml:id="app3-8-14-180">
+          <lem>
+            <w corresp="chapter8_verse14_word8">הרבה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>מזבחות</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">הרבה] 30 (pm) + מזבחות</note>
+        </app>
+        <app xml:id="app3-8-14-181">
+          <lem>
+            <w corresp="chapter8_verse14_word14">ואכלה</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>כל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ואכלה] 150 (pm) + כל</note>
+        </app>
+        <app xml:id="app3-8-14-182">
+          <lem>
+            <w corresp="chapter8_verse14_word15">ארמנתיה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ארמנותיו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ארמנתיה] 93 (pm) ארמנותיו</note>
+        </app>
+        <app xml:id="app3-9-2-183">
+          <lem>
+            <w corresp="chapter9_verse2_word7">בהּ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בם</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-9-2-183">I</ref>
+            <ref target="app4-9-2-183">IV</ref>
+          </listRef>
+          <note type="import">2 בהּ] 30 (pm) 93 96 בםI IV</note>
+        </app>
+        <app xml:id="app3-9-4-184">
+          <lem>
+            <w corresp="chapter9_verse4_word15">יטמאו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יטמא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 יטמאו] 93 (pm) יטמא</note>
+        </app>
+        <app xml:id="app3-9-4-185">
+          <lem>
+            <w corresp="chapter9_verse4_word21">בית</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">בית] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-9-5-186">
+          <lem>
+            <w corresp="chapter9_verse5_word7">יהוה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ליהוה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">5 יהוה] 150 (pm) ליהוה</note>
+        </app>
+        <app xml:id="app3-9-6-187">
+          <lem>
+            <w corresp="chapter9_verse6_word8">תְקַברם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תִקְברם</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">6 תְקַברם] 30 93 תִקְברם</note>
+        </app>
+        <app xml:id="app3-9-6-188">
+          <lem>
+            <w corresp="chapter9_verse6_word10">לכספם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לנפשם</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <note type="import">לכספם] 150 לנפשם</note>
+        </app>
+        <app xml:id="app3-9-7-189">
+          <lem>
+            <w corresp="chapter9_verse7_word9">ישראל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לישראל</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">7 ישראל] 96 (pm) לישראל</note>
+        </app>
+        <app xml:id="app3-9-7-190">
+          <lem>
+            <w corresp="chapter9_verse7_word10">אויל</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">אויל] 96 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-9-7-191">
+          <lem>
+            <w corresp="chapter9_verse7_word16">רֹב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>רַב</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">רֹב] 96 רַב</note>
+        </app>
+        <app xml:id="app3-9-7-192">
+          <lem>
+            <w corresp="chapter9_verse7_word17">עונְךָ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עונֵךְ</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">עונְךָ] 96 עונֵךְ</note>
+        </app>
+        <app xml:id="app3-9-7-193">
+          <lem>
+            <w corresp="chapter9_verse7_word18">ורבה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>רבה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-9-7-193">IV</ref>
+          </listRef>
+          <note type="import">ורבה] 150 (pm) רבהIV</note>
+        </app>
+        <app xml:id="app3-9-8-194">
+          <lem>
+            <w corresp="chapter9_verse8_word4">אלהי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אלהיו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">8 אלהי] 150 (pm) אלהיו</note>
+        </app>
+        <app xml:id="app3-9-8-195">
+          <lem>
+            <w corresp="chapter9_verse8_word5">נביא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>הנביא</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">נביא] 96 (pm) הנביא</note>
+        </app>
+        <app xml:id="app3-9-8-196">
+          <lem>
+            <w corresp="chapter9_verse8_word7">יקוֹש</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יקוּש</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">יקוֹש] 93 96 יקוּש</note>
+        </app>
+        <app xml:id="app3-9-9-197">
+          <lem>
+            <w corresp="chapter9_verse9_word7">יפקוד</w>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>וְיפקד</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-150"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>וְיפקוד</seg>
+              </rdg>
+              <wit wit="#wit-96"/>
+            </rdgGrp>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-9-9-197">I</ref>
+            <ref target="app4-9-9-197">IV</ref>
+          </listRef>
+          <note type="import">9 יפקוד] 30 93 150 וְיפקד, 96 וְיפקודI IV</note>
+        </app>
+        <app xml:id="app3-9-9-198">
+          <lem>
+            <w corresp="chapter9_verse9_word8">חטאותם</w>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>חטֹאתם</seg>
+              </rdg>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>חטָאתם</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">חטאותם] 89 93 150 (pm) חטֹאתם, 30 חטָאתם</note>
+        </app>
+        <app xml:id="app3-9-10-199">
+          <lem>
+            <w corresp="chapter9_verse10_word3">במדבר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>במדברה</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">10 במדבר] 96 (pm) במדברה</note>
+        </app>
+        <app xml:id="app3-9-10-200">
+          <lem>
+            <w corresp="chapter9_verse10_word15">וַינזרו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וְינזרו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">וַינזרו] 30 וְינזרו</note>
+        </app>
+        <app xml:id="app3-9-10-201">
+          <lem>
+            <w corresp="chapter9_verse10_word17">ויהיו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ויהי</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ויהיו] 96 (pm) ויהי</note>
+        </app>
+        <app xml:id="app3-9-11-202">
+          <lem>
+            <w corresp="chapter9_verse11_word6">ומבטן</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מבטן</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-9-11-202">IV</ref>
+          </listRef>
+          <note type="import">11 ומבטן] 30 מבטןIV</note>
+        </app>
+        <app xml:id="app3-9-13-203">
+          <lem>
+            <w corresp="chapter9_verse13_word7">ואפרים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אפרים</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">13 ואפרים] 89 (pm) 96 150 (pm) אפרים</note>
+        </app>
+        <app xml:id="app3-9-14-204">
+          <lem>
+            <w corresp="chapter9_verse14_word5">תתן</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>להם</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-9-14-204">I</ref>
+          </listRef>
+          <note type="import">14 תתן] 30 (pm) + להםI</note>
+        </app>
+        <app xml:id="app3-9-14-205">
+          <lem>
+            <w corresp="chapter9_verse14_word8">רחם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מרחם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">רחם] 96 (pm) מרחם</note>
+        </app>
+        <app xml:id="app3-9-15-206">
+          <lem>
+            <w corresp="chapter9_verse15_word4">כי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">15 כי] 96 &gt;</note>
+        </app>
+        <app xml:id="app3-9-15-207">
+          <lem>
+            <w corresp="chapter9_verse15_word10">מביתי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מבית</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-9-15-207">IV</ref>
+          </listRef>
+          <note type="import">מביתי] 93 (pm) מביתIV</note>
+        </app>
+        <app xml:id="app3-9-16-208">
+          <lem>
+            <w corresp="chapter9_verse16_word6">בלי</w>
+            <choice>
+              <reg>בל</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>k</seg>
+              </rdg>
+              <wit wit="#wit-150" ana="sm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>q</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-96"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">16 k בלי / q בל] 150 (sm) k, 30 89 93 96 150 (pm) q</note>
+        </app>
+        <app xml:id="app3-9-16-209">
+          <lem>
+            <w corresp="chapter9_verse16_word10">ילדון</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ילזון</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ילדון] 93 (pm) ילזון</note>
+        </app>
+        <app xml:id="app3-9-17-210">
+          <lem>
+            <w corresp="chapter9_verse17_word2">אלהי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אלהו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <note type="general">(?)</note>
+          </rdgGrp>
+          <note type="import">17 אלהי] 93 (pm) אלהו (?)</note>
+        </app>
+        <app xml:id="app3-9-17-211">
+          <lem>
+            <w corresp="chapter9_verse17_word6">לו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <note type="import">לו] 150 &gt;</note>
+        </app>
+        <app xml:id="app3-10-1-212">
+          <lem>
+            <w corresp="chapter10_verse1_word7">כרב</w>
+            <w corresp="chapter10_verse1_word8">לפריו</w>
+            <w corresp="chapter10_verse1_word9">הרבה</w>
+            <w corresp="chapter10_verse1_word10">למזבחות</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">1 כרב לפריו הרבה למזבחות] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-10-1-213">
+          <lem>
+            <w corresp="chapter10_verse1_wordX">למזבחות</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>למזבח</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">למזבחות] 93 (pm) למזבח</note>
+        </app>
+        <app xml:id="app3-10-2-214">
+          <lem>
+            <w corresp="chapter10_verse2_word8">ישֹׁדד</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ישוד</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וישבר</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 ישֹׁדד] 96 (pm) ישוד | 150 (pm) וישבר</note>
+        </app>
+        <app xml:id="app3-10-3-215">
+          <lem>
+            <w n="1" corresp="chapter10_verse3_word1">כי</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>לא</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">3 כי1] 150 + לא (non voc)</note>
+        </app>
+        <app xml:id="app3-10-3-216">
+          <lem>
+            <w corresp="chapter10_verse3_word9">יָרֵאנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יַרְאֵנו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">יָרֵאנו] 30 יַרְאֵנו</note>
+        </app>
+        <app xml:id="app3-10-4-217">
+          <lem>
+            <w corresp="chapter10_verse4_word1">דברו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">דברים</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <note type="import">4 דברו] 150 ..דברים</note>
+        </app>
+        <app xml:id="app3-10-4-218">
+          <lem>
+            <w corresp="chapter10_verse4_word5">כרֹת</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכרות</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-10-4-218">I</ref>
+          </listRef>
+          <note type="import">כרֹת] 96 (pm) וכרותI</note>
+        </app>
+        <app xml:id="app3-10-4-219">
+          <lem>
+            <w corresp="chapter10_verse4_word7">ופרח</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ופתח</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ופרח] 150 (pm) ופתח</note>
+        </app>
+        <app xml:id="app3-10-5-220">
+          <lem>
+            <w corresp="chapter10_verse5_word6">שמרון</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שמרין</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <note type="general">(?)</note>
+          </rdgGrp>
+          <note type="import">5 שמרון] 30 שמרין (?)</note>
+        </app>
+        <app xml:id="app3-10-5-221">
+          <lem>
+            <w corresp="chapter10_verse5_word11">וכְמריו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כֹ</seg>
+            </rdg>
+            <wit wit="#wit-34"/>
+          </rdgGrp>
+          <note type="import">וכְמריו] G-B Msr 34 כֹ</note>
+        </app>
+        <app xml:id="app3-10-5-222">
+          <lem>
+            <w corresp="chapter10_verse5_word13">יגילו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יגלו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="sm"/>
+          </rdgGrp>
+          <note type="import">יגילו] 150 (sm) יגלו</note>
+        </app>
+        <app xml:id="app3-10-5-223">
+          <lem>
+            <w corresp="chapter10_verse5_word14">על</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ועל</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">על] 93 (pm) ועל</note>
+        </app>
+        <app xml:id="app3-10-5-224">
+          <lem>
+            <w corresp="chapter10_verse5_word18">ממנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ממני</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ממנו] 96 (pm) ממני</note>
+        </app>
+        <app xml:id="app3-10-6-225">
+          <lem>
+            <w corresp="chapter10_verse6_word8">בָשנה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בָשְנָה ל ומדׄ מיש ביה בֹשְנָה</seg>
+            </rdg>
+            <wit wit="#wit-34"/>
+          </rdgGrp>
+          <note type="import">6 בָשנה] G-B Msr 34 בָשְנָה ל ומדׄ מיש ביה בֹשְנָה</note>
+        </app>
+        <app xml:id="app3-10-7-226">
+          <lem>
+            <w corresp="chapter10_verse7_word1">נדמֶה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>נדמָה</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>אפרים</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">7 נדמֶה] 93 נדמָה | 30 (pm) + אפרים</note>
+        </app>
+        <app xml:id="app3-10-7-227">
+          <lem>
+            <w corresp="chapter10_verse7_word3">מלכהּ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>מלכם</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">מלכהּ] 93 (pm) מלכם</note>
+        </app>
+        <app xml:id="app3-10-7-228">
+          <lem>
+            <w corresp="chapter10_verse7_word7">מים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>המים</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">מים] 93 (pm) המים</note>
+        </app>
+        <app xml:id="app3-10-8-229">
+          <lem>
+            <w corresp="chapter10_verse8_word7">ודרדר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ודר דר</seg>
+            </rdg>
+            <wit wit="#wit-16"/>
+          </rdgGrp>
+          <note type="import">8 ודרדר] G-B Eb 16 ודר דר</note>
+        </app>
+        <app xml:id="app3-10-8-230">
+          <lem>
+            <w corresp="chapter10_verse8_word13">כַּסונו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כִּסונו</seg>
+            </rdg>
+            <wit wit="#wit-89"/>
+            <note type="general">(?)</note>
+          </rdgGrp>
+          <note type="import">כַּסונו] 89 כִּסונו (?)</note>
+        </app>
+        <app xml:id="app3-10-9-231">
+          <lem>
+            <w corresp="chapter10_verse9_word2">מימי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ממי</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">9 מימי] 30 (pm) ממי</note>
+        </app>
+        <app xml:id="app3-10-9-232">
+          <lem>
+            <w corresp="chapter10_verse9_word4">חטאתָ</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>חטא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="sm"/>
+            <wit wit="#wit-96" ana="sm"/>
+            <note type="general">(ת non voc)</note>
+          </rdgGrp>
+          <note type="import">חטאתָ] 93 (sm) 96 (sm) חטא (ת non voc)</note>
+        </app>
+        <app xml:id="app3-10-9-233">
+          <lem>
+            <w corresp="chapter10_verse9_word14">עלוה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עולה</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="sm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-10-9-233">I</ref>
+          </listRef>
+          <note type="import">עלוה] 89 (sm) עולהI</note>
+        </app>
+        <app xml:id="app3-10-10-234">
+          <lem>
+            <w corresp="chapter10_verse10_word2">ואסרם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יאשרם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">על</seg>
+            </rdg>
+            <wit wit="#wit-150"/>
+          </rdgGrp>
+          <note type="import">10 ואסרם] 96 (pm) יאשרם | 150 ..על</note>
+        </app>
+        <app xml:id="app3-10-10-235">
+          <lem>
+            <w corresp="chapter10_verse10_word8">עינתם</w>
+            <choice>
+              <reg>עונֹתם</reg>
+            </choice>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>k</seg>
+              </rdg>
+              <wit wit="#wit-30"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>q</seg>
+              </rdg>
+              <wit wit="#wit-89"/>
+              <wit wit="#wit-16"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>עונותם</seg>
+              </rdg>
+              <wit wit="#wit-93"/>
+              <wit wit="#wit-96"/>
+              <wit wit="#wit-150" ana="pm"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">k עינתם / q עונֹתם] 30 k, 89 G-B Eb 16 q, 93 96 150 (pm) עונותם</note>
+        </app>
+        <app xml:id="app3-10-12-236">
+          <lem>
+            <w corresp="chapter10_verse12_word4">קצרו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וקצרו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-96" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-10-12-236">I</ref>
+            <ref target="app2-10-12-236">II</ref>
+            <ref target="app4-10-12-236">IV</ref>
+          </listRef>
+          <note type="import">12 קצרו] 30 96 (pm) 150 (pm) וקצרוI II IV</note>
+        </app>
+        <app xml:id="app3-10-12-237">
+          <lem>
+            <w corresp="chapter10_verse12_word10">ועת</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>עת</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ועת] 150 (pm) עת</note>
+        </app>
+        <app xml:id="app3-10-12-238">
+          <lem>
+            <w corresp="chapter10_verse12_word11">לדרוש</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">לדרוש] 96 &gt;</note>
+        </app>
+        <app xml:id="app3-10-12-239">
+          <lem>
+            <w corresp="chapter10_verse12_word12">את</w>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="omission">
+              <wit wit="#wit-30" ana="pm"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <wit wit="#wit-96" ana="non voc"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">את] 30 (pm) &gt;, 96 (non voc)</note>
+        </app>
+        <app xml:id="app3-10-12-240">
+          <lem>
+            <w corresp="chapter10_verse12_word13">יהוה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יהודה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">יהוה] 93 (pm) יהודה</note>
+        </app>
+        <app xml:id="app3-10-12-241">
+          <lem>
+            <w corresp="chapter10_verse12_word16">ויֹרה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יורה</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-16"/>
+          </rdgGrp>
+          <note type="import">ויֹרה] 93 (pm) G-B Eb 16 יורה</note>
+        </app>
+        <app xml:id="app3-10-13-242">
+          <lem>
+            <w corresp="chapter10_verse13_word10">בדרכְּך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בדרכיך</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-10-13-242">I</ref>
+            <ref target="app4-10-13-242">IV</ref>
+          </listRef>
+          <note type="import">13 בדרכְּך] 96 150 (pm) בדרכיךI IV</note>
+        </app>
+        <app xml:id="app3-10-14-243">
+          <lem>
+            <w corresp="chapter10_verse14_word4">וכל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">14 וכל] 150 (pm) כל</note>
+        </app>
+        <app xml:id="app3-10-14-244">
+          <lem>
+            <w corresp="chapter10_verse14_word8">שלמן</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שלומך</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">שלמן] 96 שלומך</note>
+        </app>
+        <app xml:id="app3-10-14-245">
+          <lem>
+            <w corresp="chapter10_verse14_word10">ארבֵאל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ארבְּאֵל</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">ארבֵאל] 93 ארבְּאֵל</note>
+        </app>
+        <app xml:id="app3-10-15-246">
+          <lem>
+            <w corresp="chapter10_verse15_wordX">בית-אל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ביתְאל</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-10-15-246">IV</ref>
+          </listRef>
+          <note type="import">15 בית-אל] 96 ביתְאלIV</note>
+        </app>
+        <app xml:id="app3-11-2-247">
+          <lem>
+            <w corresp="chapter11_verse2_word7">יזבחו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>יזבחון</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 יזבחו] 150 (pm) יזבחון</note>
+        </app>
+        <app xml:id="app3-11-2-248">
+          <lem>
+            <w corresp="chapter11_verse2_word8">ולפסִלים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לפסילים</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">ולפסִלים] 96 לפסילים</note>
+        </app>
+        <app xml:id="app3-11-3-249">
+          <lem>
+            <w corresp="chapter11_verse3_word6">זרועֹתיו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>זרועותי</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="sm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-11-3-249">I</ref>
+            <ref target="app2-11-3-249">II</ref>
+          </listRef>
+          <note type="import">3 זרועֹתיו] 96 (sm) זרועותיI II</note>
+        </app>
+        <app xml:id="app3-11-3-250">
+          <lem>
+            <w corresp="chapter11_verse3_word10">רפאתים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>רפאתיו</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">רפאתים] 96 (pm) רפאתיו</note>
+        </app>
+        <app xml:id="app3-11-4-251">
+          <lem>
+            <w corresp="chapter11_verse4_word7">להם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 להם] 150 (pm) לה</note>
+        </app>
+        <app xml:id="app3-11-4-252">
+          <lem>
+            <w corresp="chapter11_verse4_word11">לחֵיהם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לחָיֵיהם</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">לחֵיהם] 30 93 לחָיֵיהם</note>
+        </app>
+        <app xml:id="app3-11-6-253">
+          <lem>
+            <w corresp="chapter11_verse6_word4">וכִלתה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכָלתה</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-11-6-253">I</ref>
+          </listRef>
+          <note type="import">6 וכִלתה] 96 וכָלתהI</note>
+        </app>
+        <app xml:id="app3-11-6-254">
+          <lem>
+            <w corresp="chapter11_verse6_word7">ממֹעצותיהם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ממעֲוצותיהם</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ממֹעצותיהם] 96 (pm) ממעֲוצותיהם</note>
+        </app>
+        <app xml:id="app3-11-7-255">
+          <lem>
+            <w corresp="chapter11_verse7_word2">תלואִים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תלואיִם</seg>
+            </rdg>
+            <wit wit="#wit-12"/>
+          </rdgGrp>
+          <note type="import">7 תלואִים] G-B Ea 12 תלואיִם</note>
+        </app>
+        <app xml:id="app3-11-7-256">
+          <lem>
+            <w corresp="chapter11_verse7_word3">למשובתי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>למשבתו</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-11-7-256">I</ref>
+          </listRef>
+          <note type="import">למשובתי] 30 (pm) למשבתוI</note>
+        </app>
+        <app xml:id="app3-11-8-257">
+          <lem>
+            <w corresp="chapter11_verse8_word10">כצבאיִם</w>
+          </lem>
+          <rdgGrp type="related">
+            <rdgGrp type="variant">
+              <rdg>
+                <seg>כצבאִים</seg>
+              </rdg>
+              <wit wit="#wit-89"/>
+            </rdgGrp>
+            <rdgGrp type="modification">
+              <rdg>
+                <seg>כצבוים</seg>
+              </rdg>
+              <wit wit="#wit-150"/>
+            </rdgGrp>
+          </rdgGrp>
+          <note type="import">8 כצבאיִם] 89 כצבאִים, 150 כצבוים</note>
+        </app>
+        <app xml:id="app3-11-9-258">
+          <lem>
+            <w n="2" corresp="chapter11_verse9_word2">לא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ולא</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-11-9-258">II</ref>
+            <ref target="app4-11-9-258">IV</ref>
+          </listRef>
+          <note type="import">9 לא2] 30 (pm) 150 (pm) ולאII IV</note>
+        </app>
+        <app xml:id="app3-11-9-259">
+          <lem>
+            <w n="2" corresp="chapter11_verse9_word2">ולא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="sm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-11-9-259">II</ref>
+            <ref target="app4-11-9-259">IV</ref>
+          </listRef>
+          <note type="import">ולא2] 93 (sm) 150 (pm) לאII IV</note>
+        </app>
+        <app xml:id="app3-11-11-260">
+          <lem>
+            <w corresp="chapter11_verse11_word4">וּכְיונה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וְכַיונה</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">11 וּכְיונה] 93 וְכַיונה</note>
+        </app>
+        <app xml:id="app3-12-1-261">
+          <lem>
+            <w corresp="chapter12_verse1_word9">רד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96" ana="sm"/>
+          </rdgGrp>
+          <note type="import">1 רד] 96 (sm) &gt;</note>
+        </app>
+        <app xml:id="app3-12-2-262">
+          <lem>
+            <w corresp="chapter12_verse2_word8">כזב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>חמס</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">2 כזב] 150 (pm) חמס</note>
+        </app>
+        <app xml:id="app3-12-2-263">
+          <lem>
+            <w corresp="chapter12_verse2_word9">ושֹׁד</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ושֹׁד] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-12-2-264">
+          <lem>
+            <w corresp="chapter12_verse2_word11">וברית</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ובריית</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">וברית] 96 (pm) ובריית</note>
+        </app>
+        <app xml:id="app3-12-3-265">
+          <lem>
+            <w corresp="chapter12_verse3_word9">כמעלליו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכמעלליו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-12-3-265">I</ref>
+            <ref target="app2-12-3-265">II</ref>
+          </listRef>
+          <note type="import">3 כמעלליו] 150 (pm) וכמעלליוI II</note>
+        </app>
+        <app xml:id="app3-12-3-266">
+          <lem>
+            <w corresp="chapter12_verse3_word10">ישיב</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>אשיב</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-12-3-266">I</ref>
+          </listRef>
+          <note type="import">ישיב] 30 (pm) 150 (pm) אשיבI</note>
+        </app>
+        <app xml:id="app3-12-4-267">
+          <lem>
+            <w corresp="chapter12_verse4_word6">שׂרה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>סרה</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 שׂרה] 150 (pm) סרה</note>
+        </app>
+        <app xml:id="app3-12-5-268">
+          <lem>
+            <w corresp="chapter12_verse5_word10">ימצאֶנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ימצאונו</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-12-5-268">I</ref>
+          </listRef>
+          <note type="import">5 ימצאֶנו] 93 (pm) ימצאונוI</note>
+        </app>
+        <app xml:id="app3-12-7-269">
+          <lem>
+            <w corresp="chapter12_verse7_word6">שמֹר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>שמו</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">7 שמֹר] 30 שמו</note>
+        </app>
+        <app xml:id="app3-12-10-270">
+          <lem>
+            <w corresp="chapter12_verse10_word9">כימי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כיום</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-12-10-270">I</ref>
+          </listRef>
+          <note type="import">10 כימי] 30 (pm) כיוםI</note>
+        </app>
+        <app xml:id="app3-12-11-271">
+          <lem>
+            <w corresp="chapter12_verse11_word6">הרביתי</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>על הנביאים ואנכי חזון הרבתי</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+            <note type="general">(non voc)</note>
+          </rdgGrp>
+          <note type="import">11 הרביתי] 150 (pm) + על הנביאים ואנכי חזון הרבתי (non voc)</note>
+        </app>
+        <app xml:id="app3-12-12-272">
+          <lem>
+            <w corresp="chapter12_verse12_word2">גלעד</w>
+            <w corresp="chapter12_verse12_word3">און</w>
+          </lem>
+          <rdgGrp type="variant">
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">12 גלעד און] 93 ~</note>
+        </app>
+        <app xml:id="app3-12-12-273">
+          <lem>
+            <w corresp="chapter12_verse12_word7">בגלגל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ובגלגל</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">בגלגל] 150 (pm) ובגלגל</note>
+        </app>
+        <app xml:id="app3-12-12-274">
+          <lem>
+            <w corresp="chapter12_verse12_word9">זבחו</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">זבחו] 93 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-12-12-275">
+          <lem>
+            <w corresp="chapter12_verse12_word10">גם</w>
+            <w corresp="chapter12_verse12_word11">מזבחותם</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">גם מזבחותם] 96 &gt;</note>
+        </app>
+        <app xml:id="app3-13-2-276">
+          <lem>
+            <w corresp="chapter13_verse2_word13">כלֹה</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>כלם</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+            <note type="general">(similarly PesiqtaRKms 24:10 (357:10))</note>
+          </rdgGrp>
+          <note type="import">2 כלֹה] 150 (pm) כלם (similarly PesiqtaRKms 24:10 (357:10))</note>
+        </app>
+        <app xml:id="app3-13-3-277">
+          <lem>
+            <w corresp="chapter13_verse3_word7">הֹלך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והולך</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">3 הֹלך] 96 (pm) והולך</note>
+        </app>
+        <app xml:id="app3-13-4-278">
+          <lem>
+            <w corresp="chapter13_verse4_word11">אין</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>אין</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+          </rdgGrp>
+          <note type="import">4 אין] 30 (pm) + אין</note>
+        </app>
+        <app xml:id="app3-13-6-279">
+          <lem>
+            <w corresp="chapter13_verse6_word7">כן</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">6 כן]  150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-13-7-280">
+          <lem>
+            <w corresp="chapter13_verse7_word5">כנמר</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וכנמר</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-7-280">I</ref>
+          </listRef>
+          <note type="import">7 כנמר] 93 (pm) וכנמרI</note>
+        </app>
+        <app xml:id="app3-13-8-281">
+          <lem>
+            <w corresp="chapter13_verse8_word10">חית</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וחית</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-8-281">I</ref>
+          </listRef>
+          <note type="import">8 חית] 93 150 (pm) וחיתI</note>
+        </app>
+        <app xml:id="app3-13-9-282">
+          <lem>
+            <w corresp="chapter13_verse9_word4">בי</w>
+          </lem>
+          <rdgGrp type="omission">
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">9 בי] 150 (pm) &gt;</note>
+        </app>
+        <app xml:id="app3-13-10-283">
+          <lem>
+            <w corresp="chapter13_verse10_word3">אפוא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>איפֹה</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">10 אפוא] 30 איפֹה</note>
+        </app>
+        <app xml:id="app3-13-10-284">
+          <lem>
+            <w corresp="chapter13_verse10_word4">ויושיעֲך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ויושיעוך</seg>
+            </rdg>
+            <wit wit="#wit-96" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ויושיעֲך] 96 (pm) ויושיעוך</note>
+        </app>
+        <app xml:id="app3-13-10-285">
+          <lem>
+            <w corresp="chapter13_verse10_word11">לי</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לנו</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">לי] 96 לנו</note>
+        </app>
+        <app xml:id="app3-13-13-286">
+          <lem>
+            <w corresp="chapter13_verse13_word4">לו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>לָךְ</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm?"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">13 לו] 93 (pm?) 96 לָךְ</note>
+        </app>
+        <app xml:id="app3-13-13-287">
+          <lem>
+            <w corresp="chapter13_verse13_word5">הוא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והוא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-13-13-287">IV</ref>
+          </listRef>
+          <note type="import">הוא] 93 (pm) 150 (pm) והואIV</note>
+        </app>
+        <app xml:id="app3-13-13-288">
+          <lem>
+            <w n="1" corresp="chapter13_verse13_word1">לא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ולא</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">לא1] 93 ולא</note>
+        </app>
+        <app xml:id="app3-13-14-289">
+          <lem>
+            <w corresp="chapter13_verse14_word4">ממות</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>וממות</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-89" ana="sm"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-14-289">I</ref>
+            <ref target="app2-13-14-289">II</ref>
+          </listRef>
+          <note type="import">14 ממות] 30 89 (sm) 93 (pm) 96 150 (pm) וממותI II</note>
+        </app>
+        <app xml:id="app3-13-14-290">
+          <lem>
+            <w corresp="chapter13_verse14_word7">דבריך</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>דברך</seg>
+            </rdg>
+            <wit wit="#wit-30"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-14-290">I</ref>
+            <ref target="app2-13-14-290">II</ref>
+            <ref target="app4-13-14-290">IV</ref>
+          </listRef>
+          <note type="import">דבריך] 30 93 (pm) 96 דברךI II IV</note>
+        </app>
+        <app xml:id="app3-13-14-291">
+          <lem>
+            <w corresp="chapter13_verse14_word12">נֹחם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>נַחֵם</seg>
+            </rdg>
+            <wit wit="#wit-34"/>
+            <note type="general">(taken as infinitive, see Yeivin, Babylonian ocalization, 1:542)</note>
+          </rdgGrp>
+          <listRef>
+            <ref target="app5-13-14-291">V</ref>
+          </listRef>
+          <note type="import">נֹחם] G-B Msr 34 נַחֵם (taken as infinitive, see Yeivin, Babylonian Vocalization, 1:542)</note>
+        </app>
+        <app xml:id="app3-13-15-292">
+          <lem>
+            <w corresp="chapter13_verse15_word3">בין</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בן</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-15-292">I</ref>
+            <ref target="app2-13-15-292">II</ref>
+            <ref target="app4-13-15-292">IV</ref>
+          </listRef>
+          <note type="import">15 בין] 93 (pm) בןI II IV</note>
+        </app>
+        <app xml:id="app3-13-15-293">
+          <lem>
+            <w corresp="chapter13_verse15_word12">ויבוש</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>תיבש</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+          </rdgGrp>
+          <note type="import">ויבוש] 93 (pm) תיבש</note>
+        </app>
+        <app xml:id="app3-13-15-294">
+          <lem>
+            <w n="2" corresp="chapter13_verse15_word2">הוא</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>והוא</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-13-15-294">I</ref>
+            <ref target="app2-13-15-294">II</ref>
+          </listRef>
+          <note type="import">הוא2] 93 (pm) 96 150 (pm) והואI II</note>
+        </app>
+        <app xml:id="app3-14-1-295">
+          <lem>
+            <w corresp="chapter14_verse1_word8">עלליהם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ועולליהם</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-14-1-295">I</ref>
+          </listRef>
+          <note type="import">1 עלליהם] 93 150 (pm) ועולליהםI</note>
+        </app>
+        <app xml:id="app3-14-3-296">
+          <lem>
+            <w corresp="chapter14_verse3_word4">ושובו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ושֻׁבו</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">3 ושובו] 150 (pm) ושֻׁבו</note>
+        </app>
+        <app xml:id="app3-14-3-297">
+          <lem>
+            <w corresp="chapter14_verse3_word7">אמרו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ואמרו</seg>
+            </rdg>
+            <wit wit="#wit-30" ana="pm"/>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app2-14-3-297">II</ref>
+            <ref target="app4-14-3-297">IV</ref>
+          </listRef>
+          <note type="import">אמרו] 30 (pm) 93 (pm) 96 150 (pm) ואמרוII IV</note>
+        </app>
+        <app xml:id="app3-14-3-298">
+          <lem>
+            <w corresp="chapter14_verse3_word9">כל</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>בל</seg>
+            </rdg>
+            <wit wit="#wit-89" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app1-14-3-298">I</ref>
+          </listRef>
+          <note type="import">כל] 89 (pm) בלI</note>
+        </app>
+        <app xml:id="app3-14-4-299">
+          <lem>
+            <w corresp="chapter14_verse4_word5">על</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ועל</seg>
+            </rdg>
+            <wit wit="#wit-93" ana="pm"/>
+            <wit wit="#wit-96"/>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-14-4-299">IV</ref>
+          </listRef>
+          <note type="import">4 על] 93 (pm) 96 150 (pm) ועלIV</note>
+        </app>
+        <app xml:id="app3-14-5-300">
+          <lem>
+            <w corresp="chapter14_verse5_word8">ממנו</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>k ממני / q ממנו</seg>
+            </rdg>
+            <wit wit="#wit-34"/>
+          </rdgGrp>
+          <listRef>
+            <ref target="app4-14-5-300">IV</ref>
+          </listRef>
+          <note type="import">5 ממנו] G-B Msr 34 k ממני / q ממנוIV</note>
+        </app>
+        <app xml:id="app3-14-6-301">
+          <lem>
+            <w corresp="chapter14_verse6_word4">יפרח</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>ויפרח</seg>
+            </rdg>
+            <wit wit="#wit-150" ana="pm"/>
+          </rdgGrp>
+          <note type="import">6 יפרח] 150 (pm) ויפרח</note>
+        </app>
+        <app xml:id="app3-14-7-8-302" from="7" to="8">
+          <lemGrp type="range">
+            <lemGrp type="from">
+              <lem>
+                <w corresp="chapter14_verse7_wordX">ילכו</w>
+                <w corresp="chapter14_verse7_wordX">ינקותיו</w>
+              </lem>
+            </lemGrp>
+            <lemGrp type="to">
+              <lem>
+                <w corresp="chapter14_verse7_wordX">כיין</w>
+                <w corresp="chapter14_verse7_wordX">לבנון</w>
+              </lem>
+            </lemGrp>
+          </lemGrp>
+          <rdgGrp type="omission">
+            <wit wit="#wit-30"/>
+          </rdgGrp>
+          <note type="import">7–8 ילכו ינקותיו – כיין לבנון] 30 &gt;</note>
+        </app>
+        <app xml:id="app3-14-8-303">
+          <lem>
+            <w corresp="chapter14_verse8_word7">כגפן</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg ref="#sig-ell">כד</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">8 כגפן] 93 כד..</note>
+        </app>
+        <app xml:id="app3-14-9-304">
+          <lem>
+            <w n="1" corresp="chapter14_verse9_word1">אני</w>
+          </lem>
+          <rdgGrp type="addition">
+            <rdg>
+              <seg>אני</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+          </rdgGrp>
+          <note type="import">9 אני1] 93 + אני</note>
+        </app>
+        <app xml:id="app3-14-10-305">
+          <lem>
+            <w corresp="chapter14_verse10_word2">חכָם</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>חכֵם</seg>
+            </rdg>
+            <wit wit="#wit-93"/>
+            <note type="general" ref="#sig-unc"/>
+          </rdgGrp>
+          <note type="import">10 חכָם] 93 חכֵם (!)</note>
+        </app>
+        <app xml:id="app3-14-10-306">
+          <lem>
+            <w corresp="chapter14_verse10_word11">וצדקים</w>
+          </lem>
+          <rdgGrp type="variant">
+            <rdg>
+              <seg>צדיקים</seg>
+            </rdg>
+            <wit wit="#wit-96"/>
+          </rdgGrp>
+          <note type="import">וצדקים] 96 צדיקים</note>
+        </app>
+      </listApp>
+    </body>
+  </text>
+  <listWit>
+    <witness xml:id="wit-30">30</witness>
+    <witness xml:id="wit-93">93</witness>
+    <witness xml:id="wit-96">96</witness>
+    <witness xml:id="wit-150">150</witness>
+    <witness xml:id="wit-94">G-B Eb  94</witness>
+    <witness xml:id="wit-89">89</witness>
+    <witness xml:id="wit-54">G-B Eb  54</witness>
+    <witness xml:id="wit-34">G-B Msr  34</witness>
+    <witness xml:id="wit-16">G-B Eb  16</witness>
+    <witness xml:id="wit-12">G-B Ea  12</witness>
+  </listWit>
+  <listPrefixDef>
+    <prefixDef xml:id="sig-ell">
+      <prefix>..</prefix>
+      <desc>Uncertain letters</desc>
+    </prefixDef>
+    <prefixDef xml:id="sig-unc">
+      <prefix>(!)</prefix>
+      <desc>Uncertain reading</desc>
+    </prefixDef>
+  </listPrefixDef>
+</TEI>

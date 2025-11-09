@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <standOff>
+      <app xml:id="app1_1" chapter="1" verse="1">
+         
+         <lem>
+
+            <lem>יותם</lem>
+            <lem>אחז</lem>
+            <lem>יחזקיה</lem>
+
+         </lem>
+         <rdgGrp type="variant">
+            <rdg wit="M] M[" type="addition"></rdg>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_2" chapter="1" verse="1">
+         
+        
+
+            <lem>מלכי</lem>
+
+         <rdgGrp type="variant">
+            <!-- what was the ]h in the witnesses? -->
+            <rdg wit="M]" type="h mod" subtype="num">
+               <seg></seg>
+               <note>num</note>
+               <!-- there's a difference in the grammatical number (between singular and plural) -->
+               
+               <note type="cf">content of the linked note</note>
+               <!--
+                  <note type="cf" xml:id="chap1-footnote-1">cf app
+                  <ref target="explicit-id-of-the-target">Mic 1<hi rend="sub">1</hi></ref></note>
+               -->
+               <listRef>
+                  <ref target="app2_{fill in the right id}">II</ref>
+               </listRef>
+            </rdg>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading type="mod" subtype="num">num&lt;ref 1&gt;</Reading>
+            
+               <Footnote ID="footnote-1">cf app Mic 1&lt;subscript 1 &gt;</Footnote> ultimately
+               should be converted to TEI something like: <note xml:id="chap1-footnote-1">cf app
+                     <ref target="explicit-id-of-the-target">Mic 1<hi rend="sub">1</hi></ref></note>
+               <Cross_references>
+                  <Item>II</Item>
+               </Cross_references>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_3">
+         <Verse>
+            <Verse>2</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>דִּבֶּר</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]&gt;</Item>
+               </Witnesses>
+               <Reading>λόγου&lt;ref 2&gt;<ref>2</ref></Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <!-- stay with XML -->
+                  <Item>&lt;specialFont [&gt;<specialFont>[</specialFont></Item>
+                  <Item>&lt;specialFont T&gt;</Item>
+                  <!-- we can't reconstruct the reading, so classification on rdg/@type should reflect that -->
+
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_4">
+         <Verse>
+            <Verse>2</Verse>
+         </Verse>
+         <lem>
+            <Tag>lemma1</Tag>
+            <lem>ב</lem> only this first letter is changed in the variant 
+            <Tag>parenthesis</Tag>
+            <lem>(הושע)</lem>
+            <Tag>full_lemma</Tag> in base text 
+            <lem>בהושע</lem>
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>πρός&lt;ref 3&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>similar_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>ܕܗܘܐ ܥܠ&lt;ref 4&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_5">
+         <Verse>
+            <Verse>2</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ו</lem>
+
+
+            <Tag>parenthesis</Tag>
+            <lem>(יאמר)</lem>
+
+
+            <Tag>full_lemma</Tag>
+            <lem>ויאמר</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_6">
+         <Verse>
+            <Verse>2</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>לֵךְ</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Cross_references>
+                  <Item>II</Item>
+               </Cross_references>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_7">
+         <Verse>
+            <Verse>3</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ויקח</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>ܠܗ&lt;ref 5&gt;</Reading>
+               <Cross_references/>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_8">
+         <Verse>
+            <Verse>3</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>לו</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+                  <Item>&lt;specialFont *-&gt;</Item>
+               </Witnesses>
+               <Reading>&lt;ref 6&gt;</Reading>
+               <Cross_references>
+                  <Item>II</Item>
+                  <Item>III</Item>
+                  <Item>IV</Item>
+               </Cross_references>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_9">
+         <Verse>
+            <Verse>4</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>יהוא</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>Ιουδα&lt;ref 7&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_10">
+         <Verse>
+            <Verse>4</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>parenthesis</Tag>
+            <lem>(ו)</lem>
+
+
+            <Tag>lemma1</Tag>
+            <lem>הִשְׁבַּתִּי</lem>
+
+
+            <Tag>full_lemma</Tag>
+            <lem>והִשְׁבַּתִּי</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]-&gt;</Item>
+               </Witnesses>
+               <Reading>ἀποστρέψω&lt;ref 8&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_11">
+         <Verse>
+            <Verse>4</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>בית</lem>
+            <Numbers>2</Numbers>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+                  <Item>&lt;specialFont *h&gt;</Item>
+                  <Item>&lt;specialFont T-&gt;</Item>
+               </Witnesses>
+               <Reading>prep&lt;ref 9&gt;</Reading>
+               <Cross_references/>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_12">
+         <Verse>
+            <Verse>5</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>והיה</lem>
+
+
+            <Tag>parenthesis</Tag>
+            <lem>(ביום ההוא)</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>&lt;ref 10&gt;</Reading>
+               <Cross_references/>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_13">
+         <Verse>
+            <Verse>5</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>parenthesis</Tag>
+            <lem>(ו)</lem>
+
+
+            <Tag>lemma1</Tag>
+            <lem>היה</lem>
+
+
+            <Tag>full_lemma</Tag>
+            <lem>והיה</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont *&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_14">
+         <Verse>
+            <Verse>5</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ההוא</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>dicit dominus&lt;ref 11&gt;</Reading>
+               <Cross_references/>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_15">
+         <Verse>
+            <Verse>6</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>עוד</lem>
+            <Numbers>1</Numbers>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont *h&gt;</Item>
+                  <Item>&lt;specialFont T-&gt;</Item>
+               </Witnesses>
+               <Cross_references>
+                  <Item>II</Item>
+                  <Item>III</Item>
+                  <Item>IV</Item>
+               </Cross_references>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_16">
+         <Verse>
+            <Verse>6</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>לו</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>κύριος&lt;ref 12&gt;</Reading>
+               <Cross_references>
+                  <Item>II</Item>
+               </Cross_references>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>additional_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>pron&lt;ref 13&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_17">
+         <Verse>
+            <Verse>6</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>נשׂא</lem>
+
+
+            <Tag>lemma2</Tag>
+            <lem>אשׂא</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]&gt;</Item>
+               </Witnesses>
+               <Reading>ἀντιτασσόμενος ἀντιτάξομαι&lt;ref 14&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>additional_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont *&gt;</Item>
+               </Witnesses>
+               <Reading>oblivione obliviscar&lt;ref 15&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>similar_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ~&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_18">
+         <Verse>
+            <Verse>7</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>בית</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]&gt;</Item>
+               </Witnesses>
+               <Reading>υἱούς&lt;ref 16&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_19">
+         <Verse>
+            <Verse>7</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>יהודה</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+               <Sigla>&gt;</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_20">
+         <Verse>
+            <Verse>7</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ולא</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]&gt;</Item>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>rep</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_21">
+         <Verse>
+            <Verse>7</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>parenthesis</Tag>
+            <lem>(ו)</lem>
+
+
+            <Tag>lemma1</Tag>
+            <lem>במלחמה</lem>
+
+
+            <Tag>full_lemma</Tag>
+            <lem>ובמלחמה</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]-&gt;</Item>
+               </Witnesses>
+               <Reading>(οὐδὲ) ἐν ἅρμασιν&lt;ref 17&gt;</Reading>
+               <Cross_references/>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_22">
+         <Verse>
+            <Verse>7</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>בסוסים</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]&gt;</Item>
+                  <Item>&lt;specialFont *&gt;</Item>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Reading>&lt;specialFont &amp;&gt;</Reading>
+               <Cross_references>
+                  <Item>III</Item>
+                  <Item>IV</Item>
+               </Cross_references>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_23">
+         <Verse>
+            <Verse>8</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ותהר</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]-&gt;</Item>
+               </Witnesses>
+               <Reading>ἔτι&lt;ref 18&gt;</Reading>
+               <Cross_references>
+                  <Item>II</Item>
+               </Cross_references>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_24">
+         <Verse>
+            <Verse>8</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ותלד</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>αὐτῷ&lt;ref 19&gt;</Reading>
+               <Cross_references>
+                  <Item>IV</Item>
+               </Cross_references>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont *h&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_25">
+         <Verse>
+            <Verse>9</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>ויאמר</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>κύριος (αὐτῷ)&lt;ref 20&gt;</Reading>
+               <Cross_references>
+                  <Item>II</Item>
+               </Cross_references>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont Th&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>similar_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont [&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_26">
+         <Verse>
+            <Verse>9</Verse>
+         </Verse>
+         <lem Type="transposition">
+            <Part Type="a">
+               <Type>full_range</Type>
+               <From>כי</From>
+               <To>עמי</To>
+            </Part>
+            <Part Type="b">
+               <Type>full_range</Type>
+               <From>ואנכי</From>
+               <To>לכם</To>
+            </Part>
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont 9&gt;</Item>
+               </Witnesses>
+               <Cross_references/>
+               <Sigla>~</Sigla>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <app xml:id="app1_27">
+         <Verse>
+            <Verse>9</Verse>
+         </Verse>
+         <lem>
+
+            <Tag>lemma1</Tag>
+            <lem>לכם</lem>
+
+         </lem>
+         <rdgGrp>
+            <ClassifiedEntry>
+               <Classification>variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont ]h&gt;</Item>
+               </Witnesses>
+               <Reading>θεός&lt;ref 21&gt;</Reading>
+               <Cross_references/>
+               <Sigla>+</Sigla>
+            </ClassifiedEntry>
+            <ClassifiedEntry>
+               <Classification>synonymous_variant</Classification>
+               <Witnesses>
+                  <Item>&lt;specialFont *h&gt;</Item>
+               </Witnesses>
+               <Reading>&lt;specialFont + [h&gt;</Reading>
+               <Cross_references/>
+            </ClassifiedEntry>
+         </rdgGrp>
+      </app>
+      <Footnotes>
+         <Footnote ID="footnote-1">cf app Mic 1&lt;subscript 1 &gt;</Footnote>
+         <Footnote ID="footnote-2">(a) voc דְּבַר (יהוה), formula, cf v&lt;subscript 1 &gt;
+            4&lt;subscript 1 &gt; et al; cf app 13&lt;subscript 1 &gt;; cf תחלת דִּבְרֵי Qoh
+            10&lt;subscript 13 &gt;; note seq; (b) noun דִּבֵּר, cf app Jer 5&lt;subscript 13 &gt;
+            and Rabb Heb; cf gerund in &lt;specialFont * &gt; loquendi “of speaking”</Footnote>
+         <Footnote ID="footnote-3">“to”; main evid, cf v&lt;subscript 1 &gt;</Footnote>
+         <Footnote ID="footnote-4">“which was to”, ex v&lt;subscript 1 &gt;</Footnote>
+         <Footnote ID="footnote-5">“for himself”, cf v&lt;subscript 2 &gt;</Footnote>
+         <Footnote ID="footnote-6">cf vv&lt;subscript 6,8 &gt;; contrast Hier 10&lt;subscript 154
+            &gt;</Footnote>
+         <Footnote ID="footnote-7">main evid; inner-Grk (בית יהודה common collocation), cf Hier
+            12&lt;subscript 208−211 &gt;</Footnote>
+         <Footnote ID="footnote-8">voc הֲשִׁבֹתִי, similarly app 2&lt;subscript 13 &gt; Ezek
+            7&lt;subscript 24 &gt;; for parall השיב//פקד cf 4&lt;subscript 9 &gt; 12&lt;subscript 3
+            &gt;; main evid &lt;specialFont ]h &gt;&lt;subscript &gt;καταπαύσω (=&lt;specialFont x
+            &gt;)</Footnote>
+         <Footnote ID="footnote-9">common formula השבית מן, cf e.g. Lev 26&lt;subscript 6 &gt; Jer
+            7&lt;subscript 34 &gt;</Footnote>
+         <Footnote ID="footnote-10">formulaic change, cf app Joel 4&lt;subscript 18 &gt; Mic
+            5&lt;subscript 9 &gt; et al</Footnote>
+         <Footnote ID="footnote-11">“says the Lord”, formula (נאם יהוה), cf 2&lt;subscript 18,23
+            &gt; et al</Footnote>
+         <Footnote ID="footnote-12">“the Lord”, cf v&lt;subscript 4 &gt;, app v&lt;subscript 9 &gt;
+            (ויאמר)</Footnote>
+         <Footnote ID="footnote-13">1sg, cf 3&lt;subscript 1 &gt;</Footnote>
+         <Footnote ID="footnote-14">“opposing I shall oppose” (= &lt;specialFont ] &gt; 1Kgs
+            11&lt;subscript 34 &gt;); p etym &lt;specialFont \ &gt; נשׁא“oppress, set against” (cf
+            Ps 89&lt;subscript 23 &gt;), cf Obad &lt;subscript 7 &gt; הִשִּׁיאוּךָ &lt;specialFont J
+            &gt; &lt;specialFont ] &gt; ἀντέστησάν σοι “they opposed you” (for interchange of
+            ἀντιτάσσεσθαι “to oppose” / ἀνθίστασθαι “to stand against” cf &lt;specialFont ]i &gt;
+            4Macc 16&lt;subscript 23 &gt;); cf also Jer 49&lt;subscript 16 &gt; הִשִּׁיא =
+            &lt;specialFont ] &gt; [29&lt;subscript 17 &gt;] ἐνεχείρησε “(it) attacked” (contrast
+            etym &lt;specialFont \ &gt;נשׂא&lt;specialFont &gt;&lt;specialFont ~ &gt;&lt;specialFont
+            9 &gt; and &lt;subscript p &gt;Obad &lt;subscript 3 &gt; &lt;specialFont ]
+            &gt;)</Footnote>
+         <Footnote ID="footnote-15">“by forgetfulness I shall forget”, etym &lt;specialFont \
+            &gt;נשׁה, contrast app Jer 23&lt;subscript 39 &gt;</Footnote>
+         <Footnote ID="footnote-16">“sons (of)”, for בני/בית cf app Amos 1&lt;subscript 5 &gt;
+            3&lt;subscript 1 &gt; Zeph 1&lt;subscript 8 &gt;</Footnote>
+         <Footnote ID="footnote-17">p (ו)ברכב; common collocation, cf e.g. Ezek 26&lt;subscript 7
+            &gt; בסוס וברכב ובפרשים</Footnote>
+         <Footnote ID="footnote-18">“again”, cf v&lt;subscript 6 &gt;</Footnote>
+         <Footnote ID="footnote-19">“(to) him”, cf v&lt;subscript 3 &gt;</Footnote>
+         <Footnote ID="footnote-20">“the Lord (to him)”, cf app v&lt;subscript 6 &gt; (לו); for
+            &lt;specialFont [ &gt; pron cf nError: Reference source not found</Footnote>
+         <Footnote ID="footnote-21">“God”, cf e.g. Exod 6&lt;subscript 7 &gt; Lev 26&lt;subscript 12
+            &gt; Zech 8&lt;subscript 8 &gt;; note diverse word-order in &lt;specialFont ]h
+            &gt;</Footnote>
+      </Footnotes>
+
+
+   </standOff>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hosea</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>JinnTec</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>from HUBP sample</p>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <standOff>
+      <!--  
+         placeholders for other apparata
+         
+         <listApp n="I"> </listApp>
+         <listApp n="II"> </listApp>
+         
+         <listApp n="IV"> </listApp>
+         <listApp n="V"> </listApp>
+         <listApp n="VI"> </listApp>
+      -->
+
+      <!-- 
+      <entry Number="4" ref="chapter1_verse2_word4">
+         transformed into 
+         app n="4" loc="chapter1_verse2_word4"
+         
+         @chapter and @verse only temporary, before we can resolve the xml:ids of relevant base text fragments (not TEI-attributes)
+         @n={entry/Number} 
+         @loc={xml:id of matching base text word} 
+         or @from/@to when more than one LemmaInfo//Lemma 
+            (careful about special case where there are 2 lemmas, but they just represent written/pronounced variants of the same lemma)
+            
+            nested lem with lemma
+            nested rdgGrp for all decodedEntry
+            nested refGrp for crossReferences
+            
+         <Entry>2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))</Entry>
+         <LemmaInfo>
+            <Chapter>1</Chapter>
+            <Verses>2</Verses>
+            <Lemmas>
+               <Lemma>
+                  <Text>בהושע</Text>
+               </Lemma>
+            </Lemmas>
+         </LemmaInfo>
+         <DecodedEntry>
+            decoded entries group similar readings, therefore should be converted to rdgGrp; possibly retaining the value of Type as rdgGrp/@type
+            <Type>Variant</Type>
+            <Details>
+               <Witnesses>
+                  <Witness>
+                     each Witness should be transformed into rdg element 
+                        - with @wit with ms siglum (identifier), 
+                        - nested seg with the actual reading text (taken from Rdg/rdg) and 
+                        - nested note for potential comments of various kind (Witness/Comment as note/@type=comment; Rdg/GeneralComment as note/@type=general
+                           mayhaps witDetail instead of note?
+                        
+                     <Collection />
+                     Collection is to be included in listWit/wit element describing the manuscript; 
+                     for the ease of resolution could be also included in the ms siglum, e.g. instead of just {prefix}-{ms-number} it could be {prefix}-{collection}-{ms-number}
+                     <Manuscript>93</Manuscript>
+                     
+                     <note type="comment">pm</note>
+                     pm stands for prima manus, sm for secunda manus; both refer to which scribe gave the reading; 
+                     the second could be as an addition or original version erased and sm replacing it
+                     transform into <note type="comment">pm</note>; at a later stage some repeating comment types (e.g. pm/sm) could be given a more specific type/subtype attributes
+                  </Witness>
+               </Witnesses>
+               <Rdg>
+               <sigla/> + means that the ms adds something to the lemma reading, sigla > represents ommission by the witness; transformed  into rdg/@type="addition|omission"
+      
+                  <Reading>ביהושע </Reading>
+                  <GeneralComment>(similarly PesiqtaR 33 (153b))</GeneralComment>
+               </Rdg>
+               <CrossReferences>
+                    
+                  <Reference>IV</Reference>
+                  
+                   this means we are referencing an entry from apparatus IV
+                   how to find which of the entries: 
+                     - find entries for the same verse (here chap 1 verse 2) and 
+                     - find the one with the same lemma and cross reference to apparatus III (here it will be entry number 3)
+                     - use that entry's xml:id
+                  
+                  replace with <ref target="app4_3"/> intermediate stage could be <Reference n="3 (taken from entry/@Number)" type="IV">IV</Reference>
+               </CrossReferences>
+            </Details>
+         </DecodedEntry>
+      </entry>
+      
+      -->
+
+
+      <listApp n="III">
+         <app xml:id="app3_1" loc="chapter1_verse1_word11" chapter="1" verse="1">
+            <lem>עזיה</lem>
+            <rdg wit="M30">עזיהו</rdg>
+            <note>1 עזיה] 30 עזיהו</note>
+         </app>
+         <app xml:id="app3_2" loc="chapter1_verse1_word14" chapter="1" verse="1">
+            <lem>יחזקיה</lem>
+            <rdgGrp>
+               <rdg wit="M30"><seg>יחזקיהו</seg></rdg>
+               <rdg wit="M93">
+                  <seg>יחזקיהו</seg>
+                  <note type="scribe">pm</note>
+               </rdg>
+               <rdg wit="96">יחזקיהו</rdg>
+            </rdgGrp>
+            <note>יחזקיה] 30 93 (pm) 96 יחזקיהו</note>
+         </app>
+         <app xml:id="app3_3" type="variant" from="chapter1_verse1_word18"
+            to="chapter1_verse1_word19" chapter="1" verse="1">
+            <lem>
+               <w>ירבעם</w>
+               <w>בן</w>
+            </lem>
+            <!-- sigla + means that the ms adds something to the lemma reading, sigla > represents ommission by the witness -->
+            <rdg wit="M30" type="addition"><seg>נבט</seg>
+               <note type="general">non voc</note>
+            </rdg>
+            <note>ירבעם בן] 30 + נבט (non voc)</note>
+         </app>
+         <app xml:id="app3_4" loc="chapter1_verse2_word4" chapter="1" verse="2">
+            <lem>בהושע</lem>
+            <rdgGrp>
+               <rdg wit="M93">
+                  <seg>ביהושע</seg>
+                  <note type="comment">pm</note>
+                  <!-- this is a parallel reading in a rabbinic textm, ultimately the type might be adjusted to a stricter classification -->
+                  <note type="general">(similarly PesiqtaR 33 (153b))</note>
+               </rdg>
+               <listRef>
+                  <!-- tentative addressing scheme, asssuming all apparatus entries have the form of app{app-number}_{entry-number} -->
+                  <ref target="app4_3">IV</ref>
+               </listRef>
+            </rdgGrp>
+            <note>2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))</note>
+         </app>
+         <app xml:id="app3_5" chapter="1" verse="3">
+            <lem>ותלד</lem>
+            <rdgGrp>
+               <rdg wit="M150" type="addition"><seg>בן</seg><note type="comment">pm</note></rdg>
+            </rdgGrp>
+            <note>3 ותלד] 150 (pm) + בן</note>
+         </app>
+         <app xml:id="app3_6" chapter="1" verse="3">
+            <lem>לו</lem>
+            <rdgGrp>
+               <rdg wit="M96" type="omission"/>
+               <listRef>
+                  <ref>I</ref>
+                  <ref>II</ref>
+                  <ref>IV</ref>
+               </listRef>
+            </rdgGrp>
+            <note>לו] 96 &gt;I II IV</note>
+         </app>
+         <app xml:id="app3_7" chapter="1" verse="4">
+            <lem>ופקדתי</lem>
+            <rdgGrp>
+               <rdg wit="M30" type="addition">על </rdg>
+               <note type="general">(non voc)</note>
+            </rdgGrp>
+            <note>4 ופקדתי] 30 + על (non voc)</note>
+         </app>
+         <app xml:id="app3_8" chapter="1" verse="4">
+            <lem>ממלכוּת</lem>
+            <rdgGrp>
+               <rdg wit="M96">ממלכוֹת</rdg>
+            </rdgGrp>
+            <note>ממלכוּת] 96 ממלכוֹת</note>
+         </app>
+         <app xml:id="app3_9" chapter="1" verse="5">
+            <lem>את</lem>
+            <rdgGrp>
+               <rdg wit="M30" type="omission"/>
+            </rdgGrp>
+            <note>5 את] 30 &gt;</note>
+         </app>
+         <app xml:id="app3_10" chapter="1" verse="5">
+            <lem>יזרעאל</lem>
+            <rdgGrp>
+               <rdg wit="MS150">ישראל </rdg>
+               <note type="general">(parall; but 150-Tg: יזרעאל)</note>
+            </rdgGrp>
+            <note>יזרעאל] 150 ישראל (parall; but 150-Tg: יזרעאל)</note>
+         </app>
+      </listApp>
+   </standOff>
+   <text>
+      <body>
+         <div type="chapter" xml:id="chapter1">
+            <!--  everything is a verse, but there are metamarks (various) that act as separators 
+               but there may be apparatus connected to them; let's find an example -->
+            <p xml:id="chapter1_verse1">
+               <w xml:id="chapter1_verse1_word1">
+                  <choice>
+                     <orig>דְּבַר</orig>
+                     <reg>דבר</reg>
+                     <seg><pc>דְַּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word2">
+                  <choice>
+                     <orig>יְהוָ֣ה</orig>
+                     <reg>יהוה</reg>
+                     <seg><pc>ְָ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word3">
+                  <choice>
+                     <orig>׀</orig>
+                     <reg/>
+                     <seg><pc>׀</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word4">
+                  <choice>
+                     <orig>אֲשֶׁ֣ר</orig>
+                     <reg>אשר</reg>
+                     <seg><pc>ֲשֶׁ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word5">
+                  <choice>
+                     <orig>הָיָ֗ה</orig>
+                     <reg>היה</reg>
+                     <seg><pc>ָָ֗</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word6">
+                  <choice>
+                     <orig>אֶל</orig>
+                     <reg>אל</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word7">
+                  <choice>
+                     <orig>הוֹשֵׁעַ֙</orig>
+                     <reg>הושע</reg>
+                     <seg><pc>וֹשֵַׁ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word8">
+                  <choice>
+                     <orig>בֶּן</orig>
+                     <reg>בן</reg>
+                     <seg><pc>בֶּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word9">
+                  <choice>
+                     <orig>בְּאֵ$2רִ֔י</orig>
+                     <reg>בארי</reg>
+                     <seg><pc>בְֵּ$2ִ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word10">
+                  <choice>
+                     <orig>בִּימֵ֨י</orig>
+                     <reg>בימי</reg>
+                     <seg><pc>בִֵּ֨</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word11">
+                  <choice>
+                     <orig>עֻזִּיָּ֥ה</orig>
+                     <reg>עזיה</reg>
+                     <seg><pc>ֻזִּיָּ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word12">
+                  <choice>
+                     <orig>יוֹתָ֛ם</orig>
+                     <reg>יותם</reg>
+                     <seg><pc>וָֹ֛</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word13">
+                  <choice>
+                     <orig>אָחָ֥ז</orig>
+                     <reg>אחז</reg>
+                     <seg><pc>ָָ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word14">
+                  <choice>
+                     <orig>יְחִזְקִ$2יָּ֖ה</orig>
+                     <reg>יחזקיה</reg>
+                     <seg><pc>ְְִִ$2יָּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word15">
+                  <choice>
+                     <orig>מַלְכֵ֣י</orig>
+                     <reg>מלכי</reg>
+                     <seg><pc>ְֵַ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word16">
+                  <choice>
+                     <orig>יְהוּדָ֑ה</orig>
+                     <reg>יהודה</reg>
+                     <seg><pc>ְוָּ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word17">
+                  <choice>
+                     <orig>וּבִימֵ֛י</orig>
+                     <reg>ובימי</reg>
+                     <seg><pc>וִֵּ֛</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word18">
+                  <choice>
+                     <orig>יָרָבְעָ֥ם</orig>
+                     <reg>ירבעם</reg>
+                     <seg><pc>ְָָָ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word19">
+                  <choice>
+                     <orig>בֶּן</orig>
+                     <reg>בן</reg>
+                     <seg><pc>בֶּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word20">
+                  <choice>
+                     <orig>יוֹאָ֖שׁ</orig>
+                     <reg>יואש</reg>
+                     <seg><pc>וָֹ֖שׁ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word21">
+                  <choice>
+                     <orig>מֶ֥לֶךְ</orig>
+                     <reg>מלך</reg>
+                     <seg><pc>ְֶֶ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse1_word22">
+                  <choice>
+                     <orig>יִשְׂרָאֵֽל</orig>
+                     <reg>ישראל</reg>
+                     <seg><pc>ִשְֵָֽׂ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse2">
+               <w xml:id="chapter1_verse2_word1">
+                  <choice>
+                     <orig>תְּחִלַּ֥$2ת</orig>
+                     <reg>תחלת</reg>
+                     <seg><pc>תְִּלַּ֥$2</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse2_word2">
+                  <choice>
+                     <orig>דִּבֶּר</orig>
+                     <reg>דבר</reg>
+                     <seg><pc>דִּבֶּ</pc></seg>
+                  </choice>
+               </w>
+               <!-- do we introduce artificial segments to be able to link to the phrase?
+                   atm we have from/to, eg.     <app xml:id="app3_302">
+ -->
+               <w xml:id="chapter1_verse2_word3">
+                  <choice>
+                     <orig>יְהוָ֖ה</orig>
+                     <reg>יהוה</reg>
+                     <seg><pc>ְָ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse2_word4">
+                  <choice>
+                     <orig>בְּ$2הוֹשֵׁ֑עַ</orig>
+                     <reg>בהושע</reg>
+                     <seg><pc>בְּ$2וֹשֵַׁ֑</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse3">
+               <w xml:id="chapter1_verse3_word1">
+                  <choice>
+                     <orig>וַיֹּ֨אמֶר</orig>
+                     <reg>ויאמר</reg>
+                     <seg><pc>ַיֶֹּ֨</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word2">
+                  <choice>
+                     <orig>יְהוָ֜ה</orig>
+                     <reg>יהוה</reg>
+                     <seg><pc>ְָ֜</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word3">
+                  <choice>
+                     <orig>אֶל</orig>
+                     <reg>אל</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word4">
+                  <choice>
+                     <orig>הוֹשֵׁ֗עַ</orig>
+                     <reg>הושע</reg>
+                     <seg><pc>וֹשֵַׁ֗</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word5">
+                  <choice>
+                     <orig>לֵ֣ךְ</orig>
+                     <reg>לך</reg>
+                     <seg><pc>ְֵ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word6">
+                  <choice>
+                     <orig>קַח</orig>
+                     <reg>קח</reg>
+                     <seg><pc>ַ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word7">
+                  <choice>
+                     <orig>לְךָ֞</orig>
+                     <reg>לך</reg>
+                     <seg><pc>ְָ֞</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word8">
+                  <choice>
+                     <orig>אֵ֤שֶׁת</orig>
+                     <reg>אשת</reg>
+                     <seg><pc>ֵ֤שֶׁ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word9">
+                  <choice>
+                     <orig>זְנוּנִים֙</orig>
+                     <reg>זנונים</reg>
+                     <seg><pc>ְוִּ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word10">
+                  <choice>
+                     <orig>וְיַלְ$2דֵ֣י</orig>
+                     <reg>וילדי</reg>
+                     <seg><pc>ְְַ$2ֵ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word11">
+                  <choice>
+                     <orig>זְנוּנִ֔ים</orig>
+                     <reg>זנונים</reg>
+                     <seg><pc>ְוִּ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word12">
+                  <choice>
+                     <orig>כִּֽי</orig>
+                     <reg>כי</reg>
+                     <seg><pc>כִּֽ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word13">
+                  <choice>
+                     <orig>זָנֹ֤ה$2</orig>
+                     <reg>זנה</reg>
+                     <seg><pc>ָֹ֤$2</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word14">
+                  <choice>
+                     <orig>תִזְנֶה֙</orig>
+                     <reg>תזנה</reg>
+                     <seg><pc>ְִֶ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word15">
+                  <choice>
+                     <orig>הָאָ֔רֶץ</orig>
+                     <reg>הארץ</reg>
+                     <seg><pc>ֶָָ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word16">
+                  <choice>
+                     <orig>מֵאַחֲרֵ֖י</orig>
+                     <reg>מאחרי</reg>
+                     <seg><pc>ֲֵֵַ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse3_word17">
+                  <choice>
+                     <orig>יְהוָֽה</orig>
+                     <reg>יהוה</reg>
+                     <seg><pc>ְָֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse4">
+               <w xml:id="chapter1_verse4_word1">
+                  <choice>
+                     <orig>וַיֵּ֙לֶךְ֙</orig>
+                     <reg>וילך</reg>
+                     <seg><pc>ַיְֵֶּ֙֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word2">
+                  <choice>
+                     <orig>וַיִּקַּ֔ח</orig>
+                     <reg>ויקח</reg>
+                     <seg><pc>ַיִּקַּ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word3">
+                  <choice>
+                     <orig>אֶת</orig>
+                     <reg>את</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word4">
+                  <choice>
+                     <orig>גֹּ֖מֶר</orig>
+                     <reg>גמר</reg>
+                     <seg><pc>גֶֹּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word5">
+                  <choice>
+                     <orig>בַּת</orig>
+                     <reg>בת</reg>
+                     <seg><pc>בַּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word6">
+                  <choice>
+                     <orig>דִּבְ$2לָ֑יִם</orig>
+                     <reg>דבלים</reg>
+                     <seg><pc>דְִּ$2ִָ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word7">
+                  <choice>
+                     <orig>וַתַּ֥הַר</orig>
+                     <reg>ותהר</reg>
+                     <seg><pc>ַתַַּ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word8">
+                  <choice>
+                     <orig>וַתֵּלֶד</orig>
+                     <reg>ותלד</reg>
+                     <seg><pc>ַתֵֶּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word9">
+                  <choice>
+                     <orig>$2ל֖וֹ</orig>
+                     <reg>לו</reg>
+                     <seg><pc>$2֖וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse4_word10">
+                  <choice>
+                     <orig>$4בֵּֽן</orig>
+                     <reg>בן</reg>
+                     <seg><pc>$4בֵּֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse5">
+               <w xml:id="chapter1_verse5_word1">
+                  <choice>
+                     <orig>וַיֹּ֤אמֶר</orig>
+                     <reg>ויאמר</reg>
+                     <seg><pc>ַיֶֹּ֤</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word2">
+                  <choice>
+                     <orig>$2יְהוָה֙</orig>
+                     <reg>יהוה</reg>
+                     <seg><pc>$2ְָ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word3">
+                  <choice>
+                     <orig>$4אֵלָ֔יו</orig>
+                     <reg>אליו</reg>
+                     <seg><pc>$4ֵָ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word4">
+                  <choice>
+                     <orig>קְרָ֥א</orig>
+                     <reg>קרא</reg>
+                     <seg><pc>ְָ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word5">
+                  <choice>
+                     <orig>שְׁמ֖וֹ</orig>
+                     <reg>שמו</reg>
+                     <seg><pc>שְׁ֖וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word6">
+                  <choice>
+                     <orig>יִזְרְעֶ֑אל</orig>
+                     <reg>יזרעאל</reg>
+                     <seg><pc>ְְִֶ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word7">
+                  <choice>
+                     <orig>כִּי</orig>
+                     <reg>כי</reg>
+                     <seg><pc>כִּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word8">
+                  <choice>
+                     <orig>ע֣וֹד</orig>
+                     <reg>עוד</reg>
+                     <seg><pc>֣וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word9">
+                  <choice>
+                     <orig>מְעַ֗ט</orig>
+                     <reg>מעט</reg>
+                     <seg><pc>ְַ֗</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word10">
+                  <choice>
+                     <orig>וּפָ֨קַדְתִּ֜י</orig>
+                     <reg>ופקדתי</reg>
+                     <seg><pc>וְַָּ֨תִּ֜</pc></seg>
+                  </choice>
+                  <!-- metamark? -->
+                  <metamark xml:id="chapter1_verse5_pe1">פ</metamark>
+               </w>
+               <w xml:id="chapter1_verse5_word11">
+                  <choice>
+                     <orig>אֶת</orig>
+                     <reg>את</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word12">
+                  <choice>
+                     <orig>דְּמֵ֤י</orig>
+                     <reg>דמי</reg>
+                     <seg><pc>דְֵּ֤</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word13">
+                  <choice>
+                     <orig>יִזְרְעֶאל֙</orig>
+                     <reg>יזרעאל</reg>
+                     <seg><pc>ְְִֶ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word14">
+                  <choice>
+                     <orig>עַל</orig>
+                     <reg>על</reg>
+                     <seg><pc>ַ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word15">
+                  <choice>
+                     <orig>בֵּ֣ית</orig>
+                     <reg>בית</reg>
+                     <seg><pc>בֵּ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word16">
+                  <choice>
+                     <orig>יֵה֔וּא</orig>
+                     <reg>יהוא</reg>
+                     <seg><pc>ֵ֔וּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word17">
+                  <choice>
+                     <orig>וְהִ֨שְׁבַּתִּ֔י</orig>
+                     <reg>והשבתי</reg>
+                     <seg><pc>ְִ֨שְׁבַּתִּ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word18">
+                  <choice>
+                     <orig>מַמְ$2לְכ֖וּת</orig>
+                     <reg>ממלכות</reg>
+                     <seg><pc>ְַ$2ְ֖וּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word19">
+                  <choice>
+                     <orig>בֵּ֥ית</orig>
+                     <reg>בית</reg>
+                     <seg><pc>בֵּ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse5_word20">
+                  <choice>
+                     <orig>יִשְׂרָאֵֽל</orig>
+                     <reg>ישראל</reg>
+                     <seg><pc>ִשְֵָֽׂ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse6">
+               <w xml:id="chapter1_verse6_word1">
+                  <choice>
+                     <orig>וְהָיָ֖ה</orig>
+                     <reg>והיה</reg>
+                     <seg><pc>ְָָ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word2">
+                  <choice>
+                     <orig>בַּיּ֣וֹם</orig>
+                     <reg>ביום</reg>
+                     <seg><pc>בַּיּ֣וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word3">
+                  <choice>
+                     <orig>הַה֑וּא</orig>
+                     <reg>ההוא</reg>
+                     <seg><pc>ַ֑וּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word4">
+                  <choice>
+                     <orig>וְשָֽׁבַרְתִּי֙</orig>
+                     <reg>ושברתי</reg>
+                     <seg><pc>ְשְַָֽׁתִּ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word5">
+                  <choice>
+                     <orig>אֶת</orig>
+                     <reg>את</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word6">
+                  <choice>
+                     <orig>קֶ֣שֶׁת</orig>
+                     <reg>קשת</reg>
+                     <seg><pc>ֶ֣שֶׁ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word7">
+                  <choice>
+                     <orig>יִשְׂרָאֵ֔ל</orig>
+                     <reg>ישראל</reg>
+                     <seg><pc>ִשְֵָׂ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word8">
+                  <choice>
+                     <orig>בְּעֵ֖מֶק</orig>
+                     <reg>בעמק</reg>
+                     <seg><pc>בְֵֶּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse6_word9">
+                  <choice>
+                     <orig>יִזְרְעֶֽאל</orig>
+                     <reg>יזרעאל</reg>
+                     <seg><pc>ְְִֶֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse7">
+               <w xml:id="chapter1_verse7_word1">
+                  <choice>
+                     <orig>וַתַּ֤הַר</orig>
+                     <reg>ותהר</reg>
+                     <seg><pc>ַתַַּ֤</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word2">
+                  <choice>
+                     <orig>$2עוֹד֙</orig>
+                     <reg>עוד</reg>
+                     <seg><pc>$2וֹ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word3">
+                  <choice>
+                     <orig>$4וַתֵּ֣לֶד</orig>
+                     <reg>ותלד</reg>
+                     <seg><pc>$4ַתֵֶּ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word4">
+                  <choice>
+                     <orig>בַּ֔ת</orig>
+                     <reg>בת</reg>
+                     <seg><pc>בַּ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word5">
+                  <choice>
+                     <orig>וַיֹּ֣אמֶר</orig>
+                     <reg>ויאמר</reg>
+                     <seg><pc>ַיֶֹּ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word6">
+                  <choice>
+                     <orig>ל֔וֹ</orig>
+                     <reg>לו</reg>
+                     <seg><pc>֔וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word7">
+                  <choice>
+                     <orig>קְרָ֥א</orig>
+                     <reg>קרא</reg>
+                     <seg><pc>ְָ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word8">
+                  <choice>
+                     <orig>שְׁמָ֖הּ</orig>
+                     <reg>שמה</reg>
+                     <seg><pc>שְָׁ֖הּ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word9">
+                  <choice>
+                     <orig>לֹ֣א</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word10">
+                  <choice>
+                     <orig>רֻחָ֑מָה</orig>
+                     <reg>רחמה</reg>
+                     <seg><pc>ָָֻ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word11">
+                  <choice>
+                     <orig>כִּי֩</orig>
+                     <reg>כי</reg>
+                     <seg><pc>כִּ֩</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word12">
+                  <choice>
+                     <orig>לֹ֨א</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ֨</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word13">
+                  <choice>
+                     <orig>אוֹסִ֜יף</orig>
+                     <reg>אוסיף</reg>
+                     <seg><pc>וִֹ֜</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word14">
+                  <choice>
+                     <orig>ע֗וֹד</orig>
+                     <reg>עוד</reg>
+                     <seg><pc>֗וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word15">
+                  <choice>
+                     <orig>אֲרַחֵם֙</orig>
+                     <reg>ארחם</reg>
+                     <seg><pc>ֲֵַ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word16">
+                  <choice>
+                     <orig>אֶת</orig>
+                     <reg>את</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word17">
+                  <choice>
+                     <orig>בֵּ֣ית</orig>
+                     <reg>בית</reg>
+                     <seg><pc>בֵּ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word18">
+                  <choice>
+                     <orig>יִשְׂרָאֵ֔ל</orig>
+                     <reg>ישראל</reg>
+                     <seg><pc>ִשְֵָׂ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word19">
+                  <choice>
+                     <orig>כִּֽי</orig>
+                     <reg>כי</reg>
+                     <seg><pc>כִּֽ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word20">
+                  <choice>
+                     <orig>נָשֹׂ֥א</orig>
+                     <reg>נשא</reg>
+                     <seg><pc>ָשֹׂ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word21">
+                  <choice>
+                     <orig>אֶשָּׂ֖א</orig>
+                     <reg>אשא</reg>
+                     <seg><pc>ֶשָּׂ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse7_word22">
+                  <choice>
+                     <orig>לָהֶֽם</orig>
+                     <reg>להם</reg>
+                     <seg><pc>ֶָֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse8">
+               <w xml:id="chapter1_verse8_word1">
+                  <choice>
+                     <orig>וְאֶת</orig>
+                     <reg>ואת</reg>
+                     <seg><pc>ְֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word2">
+                  <choice>
+                     <orig>בֵּ֤ית</orig>
+                     <reg>בית</reg>
+                     <seg><pc>בֵּ֤</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word3">
+                  <choice>
+                     <orig>יְהוּדָה֙</orig>
+                     <reg>יהודה</reg>
+                     <seg><pc>ְוָּ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word4">
+                  <choice>
+                     <orig>אֲרַחֵ֔ם</orig>
+                     <reg>ארחם</reg>
+                     <seg><pc>ֲֵַ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word5">
+                  <choice>
+                     <orig>וְהוֹשַׁעְ$2תִּ֖ים</orig>
+                     <reg>והושעתים</reg>
+                     <seg><pc>ְוֹשְַׁ$2תִּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word6">
+                  <choice>
+                     <orig>בַּיהוָ֣ה</orig>
+                     <reg>ביהוה</reg>
+                     <seg><pc>בַָּ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word7">
+                  <choice>
+                     <orig>אֱלֹהֵיהֶ֑ם</orig>
+                     <reg>אלהיהם</reg>
+                     <seg><pc>ֱֵֶֹ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word8">
+                  <choice>
+                     <orig>וְלֹ֣א</orig>
+                     <reg>ולא</reg>
+                     <seg><pc>ְֹ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word9">
+                  <choice>
+                     <orig>אוֹשִׁיעֵ֗ם</orig>
+                     <reg>אושיעם</reg>
+                     <seg><pc>וֹשִֵׁ֗</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word10">
+                  <choice>
+                     <orig>בְּקֶ֤$2שֶׁת</orig>
+                     <reg>בקשת</reg>
+                     <seg><pc>בְֶּ֤$2שֶׁ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word11">
+                  <choice>
+                     <orig>וּבְחֶ֙רֶב֙</orig>
+                     <reg>ובחרב</reg>
+                     <seg><pc>וְֶֶּ֙֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word12">
+                  <choice>
+                     <orig>וּבְמִלְ$2חָמָ֔ה</orig>
+                     <reg>ובמלחמה</reg>
+                     <seg><pc>וְְִּ$2ָָ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word13">
+                  <choice>
+                     <orig>בְּסוּסִ֖ים</orig>
+                     <reg>בסוסים</reg>
+                     <seg><pc>בְּוִּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse8_word14">
+                  <choice>
+                     <orig>וּבְפָרָשִֽׁים</orig>
+                     <reg>ובפרשים</reg>
+                     <seg><pc>וְָָּשִֽׁ</pc></seg>
+                  </choice>
+                  <metamark xml:id="chapter1_verse8_pe1">פ</metamark>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse9">
+               <w xml:id="chapter1_verse9_word1">
+                  <choice>
+                     <orig>וַתִּגְמֹ֖ל</orig>
+                     <reg>ותגמל</reg>
+                     <seg><pc>ַתְִֹּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word2">
+                  <choice>
+                     <orig>אֶת</orig>
+                     <reg>את</reg>
+                     <seg><pc>ֶ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word3">
+                  <choice>
+                     <orig>לֹ֣א</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word4">
+                  <choice>
+                     <orig>רֻחָ֑מָה</orig>
+                     <reg>רחמה</reg>
+                     <seg><pc>ָָֻ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word5">
+                  <choice>
+                     <orig>וַתַּ֖הַר</orig>
+                     <reg>ותהר</reg>
+                     <seg><pc>ַתַַּ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word6">
+                  <choice>
+                     <orig>וַתֵּ֥לֶד</orig>
+                     <reg>ותלד</reg>
+                     <seg><pc>ַתֵֶּ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse9_word7">
+                  <choice>
+                     <orig>בֵּֽן</orig>
+                     <reg>בן</reg>
+                     <seg><pc>בֵּֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+            <p xml:id="chapter1_verse10">
+               <w xml:id="chapter1_verse10_word1">
+                  <choice>
+                     <orig>וַיֹּ֕אמֶר</orig>
+                     <reg>ויאמר</reg>
+                     <seg><pc>ַיֶֹּ֕</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word2">
+                  <choice>
+                     <orig>קְרָ֥א</orig>
+                     <reg>קרא</reg>
+                     <seg><pc>ְָ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word3">
+                  <choice>
+                     <orig>שְׁמ֖וֹ</orig>
+                     <reg>שמו</reg>
+                     <seg><pc>שְׁ֖וֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word4">
+                  <choice>
+                     <orig>לֹ֣א</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word5">
+                  <choice>
+                     <orig>עַמִּ֑י</orig>
+                     <reg>עמי</reg>
+                     <seg><pc>ַמִּ֑</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word6">
+                  <choice>
+                     <orig>כִּ֤י</orig>
+                     <reg>כי</reg>
+                     <seg><pc>כִּ֤</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word7">
+                  <choice>
+                     <orig>אַתֶּם֙</orig>
+                     <reg>אתם</reg>
+                     <seg><pc>ַתֶּ֙</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word8">
+                  <choice>
+                     <orig>לֹ֣א</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ֣</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word9">
+                  <choice>
+                     <orig>עַמִּ֔י</orig>
+                     <reg>עמי</reg>
+                     <seg><pc>ַמִּ֔</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word10">
+                  <choice>
+                     <orig>וְאָנֹכִ֖י</orig>
+                     <reg>ואנכי</reg>
+                     <seg><pc>ְִָֹ֖</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word11">
+                  <choice>
+                     <orig>לֹא</orig>
+                     <reg>לא</reg>
+                     <seg><pc>ֹ</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word12">
+                  <choice>
+                     <orig>אֶהְיֶ֥ה</orig>
+                     <reg>אהיה</reg>
+                     <seg><pc>ְֶֶ֥</pc></seg>
+                  </choice>
+               </w>
+               <w xml:id="chapter1_verse10_word13">
+                  <choice>
+                     <orig>לָכֶֽם</orig>
+                     <reg>לכם</reg>
+                     <seg><pc>ֶָֽ</pc></seg>
+                  </choice>
+               </w>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

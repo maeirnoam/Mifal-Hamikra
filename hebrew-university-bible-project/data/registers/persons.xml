@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pb-persons">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Local Authority File: Person register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy/>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <standOff>
+      <listPerson>
+         <person xml:id="gnd-139890289">
+            <persName type="main">Lucia Graves</persName>
+            <persName type="sort">Graves, Lucia</persName>
+            <gender value="F">female</gender>
+            <birth>
+               <date when="1943-07-21"/>
+               <placeName ref="https://www.geonames.org/2651292">Devon, England</placeName>
+            </birth>
+            <note type="bio">English translator and writer; grew up in Mallorca,
+               translated from Spanish and Catalan into English; daughter of the writer, Robert Graves</note>
+            <occupation ref="https://d-nb.info/gnd/4372438-3">translator</occupation>
+            <occupation ref="https://d-nb.info/gnd/4053311-6">writer</occupation>
+         </person>
+         <person xml:id="gnd-136602592">
+            <persName type="main">Ambrosius Leibnütz</persName>
+            <persName type="sort">Leibnütz, Ambrosius</persName>
+            <gender value="M">male</gender>
+            <birth>
+               <date when="1569-04-14"/>
+               <placeName ref="https://d-nb.info/gnd/4005647-8">Berggießhübel</placeName>
+            </birth>
+            <death>
+               <date when="1617-05-28"/>
+               <placeName ref="https://d-nb.info/gnd/4238828-4">Altenberg (Erzgebirge, Saxony)</placeName>
+            </death>
+            <note type="bio">
+               civil servant in Altenberg, Saxony; grandfather of Gottfried Wilhelm Leibniz
+            </note>
+            <occupation ref="https://d-nb.info/gnd/4182762-4">Stadtschreiber</occupation>
+            <occupation ref="https://d-nb.info/gnd/7762580-8">Bergbeamter</occupation>
+         </person>
+      <person xml:id="gnd-1054704910">
+                <persName type="main">Kożuchowski, Adam</persName>
+                <persName type="sort">Kożuchowski, Adam</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="1979"/>
+                </birth>
+                <note type="bio">Assistant professor at the Institute of History, Polish Academy of Sciences, in Warsaw</note>
+                <occupation ref="https://d-nb.info/gnd/4025098-2">Historiker</occupation>
+            </person>
+            <person xml:id="gnd-1282076035">
+                <persName type="main">Żydanowicz, Jósef</persName>
+                <persName type="sort">Żydanowicz, Jósef</persName>
+                <gender value="U">unknown</gender>
+                <death>
+                    <date when="1945-12-26"/>
+                </death>
+                <note type="bio">1892 Priesterweihe, 1904 Pfarrer in Amsterdam, Diözese Albany (USA).</note>
+            </person>
+            <person xml:id="gnd-122917871">
+                <persName type="main">Lelewel, Prot Adam Jacek</persName>
+                <persName type="sort">Lelewel, Prot Adam Jacek</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1790-09-11"/>
+                </birth>
+                <death>
+                    <date when="1884-03-21"/>
+                </death>
+                <note type="bio">Poln. Gutsbesitzer, napoleon. Offizier u. Sejmabgeordneter</note>
+            </person>
+            <person xml:id="gnd-119442086">
+                <persName type="main">Dantyszek, Jan</persName>
+                <persName type="sort">Dantyszek, Jan</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1485-10-31"/>
+                    <placeName ref="https://d-nb.info/gnd/4011039-4">Danzig</placeName>
+                </birth>
+                <death>
+                    <date when="1548-10-28"/>
+                    <placeName ref="https://d-nb.info/gnd/4024083-6">Heilsberg (Ermland)</placeName>
+                </death>
+                <note type="bio">Poln. Humanist, Dichter und Diplomat; Bischof von Kulm (Chelmno) und Ermland (Warmia); Sohn einer deutschen aus dem Ermland nach Danzig eingewanderten Familie; enge Freundschaft zu Nicolaus Copernicus; Botschaftssekretär und Ständiger Polnischer Gesandter Kaiserhof Karl V.</note>
+                <occupation ref="https://d-nb.info/gnd/4006949-7">Bischof</occupation>
+                <occupation ref="https://d-nb.info/gnd/4160777-6">Humanist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+                <occupation ref="https://d-nb.info/gnd/4029050-5">Jurist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4012401-0">Diplomat</occupation>
+                <occupation ref="https://d-nb.info/gnd/4137184-7">Geistlicher</occupation>
+                <occupation ref="https://d-nb.info/gnd/4168391-2">Lyriker</occupation>
+            </person>
+            <person xml:id="gnd-118797158">
+                <persName type="main">Zygmunt I., Polen, König</persName>
+                <persName type="sort">Zygmunt I., Polen, König</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1467-01-01"/>
+                    <placeName ref="https://d-nb.info/gnd/1216411-2">Kozienice</placeName>
+                </birth>
+                <death>
+                    <date when="1548-04-01"/>
+                    <placeName ref="https://d-nb.info/gnd/4073760-3">Krakau</placeName>
+                </death>
+                <note type="bio">1507-1548 König von Polen aus der Familie der Jagiellonen; 1508-1548 Großfürst von Litauen; Beitr. im VD-16</note>
+            </person>
+            <person xml:id="gnd-118560093">
+                <persName type="main">Karl V., Heiliges Römisches Reich, Kaiser</persName>
+                <persName type="sort">Karl V., Heiliges Römisches Reich, Kaiser</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1500-02-24"/>
+                    <placeName ref="https://d-nb.info/gnd/4020176-4">Gent</placeName>
+                </birth>
+                <death>
+                    <date when="1558-09-21"/>
+                    <placeName ref="https://d-nb.info/gnd/16003734-7">Cuacos de Yuste</placeName>
+                </death>
+                <note type="bio">Kaiser (1519-1556)</note>
+            </person>
+            <person xml:id="gnd-137224435">
+                <persName type="main">Seiler, Hieronymus</persName>
+                <persName type="sort">Seiler, Hieronymus</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1494"/>
+                    <placeName ref="https://d-nb.info/gnd/4051594-1">Sankt Gallen</placeName>
+                </birth>
+                <death>
+                    <date when="1559-06-15"/>
+                    <placeName ref="https://d-nb.info/gnd/4003614-5">Augsburg</placeName>
+                </death>
+                <note type="bio">Faktor der Augsburger Welser-Gesellschaft in Südamerika; Unterzeichner der Venezuela-Verträge; Finanzgeschäfte mit dem König von Frankreich; Börsenspekulant in Antwerpen; Gründer einer eigenen Handelsgesellschaft</note>
+                <occupation ref="https://d-nb.info/gnd/4128272-3">Kaufmann</occupation>
+            </person>
+            <person xml:id="gnd-1207343722">
+                <persName type="main">Luther, Martin</persName>
+                <persName type="sort">Luther, Martin</persName>
+                <gender value="M">male</gender>
+                <note type="bio">Er wurde um 1606 Kanoniker in Beckum, trat 1611 der Beckumer Bruderschaft Corporis Christi bei; bis 1618 ist er nachweisbar</note>
+                <occupation ref="https://d-nb.info/gnd/4163199-7">Kanoniker</occupation>
+                <occupation ref="https://d-nb.info/gnd/4166472-3">Laienbruder</occupation>
+            </person>
+            <person xml:id="gnd-118619993">
+                <persName type="main">Sulaiman I., Osmanisches Reich, Sultan</persName>
+                <persName type="sort">Sulaiman I., Osmanisches Reich, Sultan</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1494"/>
+                </birth>
+                <death>
+                    <date when="1566"/>
+                </death>
+                <note type="bio">regierte 1520-1566; in Europa wird Süleyman der Prächtige (I.) auch als Sulaiman II. gezählt</note>
+                <occupation ref="https://d-nb.info/gnd/4209235-8">Sultan</occupation>
+            </person>
+            <person xml:id="gnd-118522280">
+                <persName type="main">Cortés, Hernán</persName>
+                <persName type="sort">Cortés, Hernán</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1485"/>
+                    <placeName ref="https://d-nb.info/gnd/7583214-8">Medellín (Provinz Badajoz)</placeName>
+                </birth>
+                <death>
+                    <date when="1547"/>
+                    <placeName ref="https://d-nb.info/gnd/4216659-7">Castilleja de la Cuesta</placeName>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4165054-2">Konquistador</occupation>
+                <occupation ref="https://d-nb.info/gnd/4473166-8">Eroberer</occupation>
+            </person>
+            <person xml:id="gnd-118575449">
+                <persName type="main">Luther, Martin</persName>
+                <persName type="sort">Luther, Martin</persName>
+                <gender value="M">male</gender>
+                <birth>
+                    <date when="1483-11-10"/>
+                    <placeName ref="https://d-nb.info/gnd/4092450-6">Eisleben</placeName>
+                </birth>
+                <death>
+                    <date when="1546-02-18"/>
+                    <placeName ref="https://d-nb.info/gnd/4092450-6">Eisleben</placeName>
+                </death>
+                <note type="bio"/>
+                <occupation ref="https://d-nb.info/gnd/4177347-0">Reformator</occupation>
+                <occupation ref="https://d-nb.info/gnd/4059756-8">Theologe</occupation>
+                <occupation ref="https://d-nb.info/gnd/4032009-1">Komponist</occupation>
+                <occupation ref="https://d-nb.info/gnd/4061414-1">Übersetzer</occupation>
+                <occupation ref="https://d-nb.info/gnd/4053309-8">Schriftsteller</occupation>
+            </person>
+            <person xml:id="gnd-1053071620">
+                <persName type="main">Castilla, Luis de</persName>
+                <persName type="sort">Castilla, Luis de</persName>
+                <gender value="U">unknown</gender>
+                <birth>
+                    <date when="1502"/>
+                </birth>
+                <death>
+                    <date when="1582"/>
+                </death>
+                <note type="bio">Regidor de la ciudad de México</note>
+            </person>
+        </listPerson>
+   </standOff>
+</TEI>

@@ -1,0 +1,54 @@
+.rtl {
+    direction: rtl;
+}
+
+.app {
+    direction: ltr;
+    display: block;
+}
+
+.app-id {
+    display: inline-block;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    vertical-align: super;
+    margin-right: 1em;
+}
+
+.app-lem {
+    direction: rtl;
+    display: inline-block;
+    color: brown;
+    font-size: larger;
+}
+
+.app-wit {
+    /* witness siglum */
+    color: green;
+}
+
+.app-note {
+    display: inline-block;
+    color: gray;
+}
+
+/* toggling original and alternate word spelling */
+.w-alternate {
+    display: none;
+    direction: rtl;
+}
+
+.w-alternate.toggle {
+    display: inline;
+}
+
+.w-original.toggle {
+    display: none;
+}
+
+.w-original {
+    display: inline;
+    direction: rtl;
+}

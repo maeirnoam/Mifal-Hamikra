@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <classDecl>
+           <taxonomy xml:id="apparatus-types">
+              <category xml:id="full">
+                 <!-- rdg content sufficient to reconstruct full version according to a particular witness -->
+                 <category xml:id="semantic">
+                    <catDesc>sem</catDesc>
+                    <!-- difference on the semantic (meaning) level, e.g. king vs peasant -->
+                 </category>
+
+                 <category xml:id="orth">
+                    <catDesc>orth</catDesc>
+                    <!-- orthographic (spelling) difference e.g. king vs kyng-->
+                 </category>
+
+                 <category xml:id="norm">
+                    <catDesc>norm</catDesc>
+                    <!-- difference in normalized form, but staying on the same meaning, e.g. king vs ruler-->
+                 </category>
+              </category>
+              <category xml:id="partial">
+                  <!-- rdg content is not enough to reconstruct full version according to a particular witness -->
+                 <category xml:id="plus">
+                    <catDesc>+</catDesc>
+                    <!-- e.g. additions -->
+                 </category>
+                 <category xml:id="minus">
+                    <catDesc>≻</catDesc>
+                    <!-- e.g. deletions -->
+                 </category>
+                 <category xml:id="wav">
+                    <catDesc>☮</catDesc>
+                    <!-- e.g. wav modifier -->
+                 </category>
+              </category>
+           </taxonomy>
+           <taxonomy xml:id="reading-relation">
+              <category xml:id="equal">
+                 <catDesc>=</catDesc>
+              </category>
+              <category xml:id="equivalent">
+                 <catDesc>≈</catDesc>
+              </category>
+           </taxonomy>
+        </classDecl>
+      </encodingDesc>
+   </teiHeader>  
+   <standOff>
+      <listWit>
+         <witness xml:id="A">
+            <!-- labels can use funky symbols -->
+            <label>⊕ (A)</label>
+            <desc>description for this witness</desc>
+         </witness>
+         <witness xml:id="B">
+            <!-- labels can use funky symbols -->
+            <label>⊖ (B)</label>
+            <desc>description for this witness</desc>
+         </witness>
+         <witness xml:id="C">
+            <!-- labels can use funky symbols -->
+            <label>⊚ (C)</label>
+            <desc>description for this witness</desc>
+         </witness>
+      </listWit>
+   </standOff>
+   <standOff>
+      <listApp>
+      <app xml:id="app-appid-entrynumber">
+         <lem>
+            <!-- may have multiple words -->
+              
+            <w corresp="id-in-basetext">first word</w>
+            
+            <!-- words may be abbreviated in the witness but expanded in base text -->
+            <w ana="abbr" corresp="id-in-basetext"><expan>k<ex>ing</ex></expan></w>
+         </lem>
+      
+         <Footnote ID="footnote-6">cf vv 6,8; contrast Hier 10 154</Footnote>
+      
+         <!-- type determines how the groups of readings are related -->
+         <rdgGrp type="equal">
+            <rdgGrp>
+               <rdg wit="A" type="minus">
+                  <seg>great</seg>
+                  <note type="footnote">linked footnote (if here, means it is just for this witness</note>
+               </rdg>
+               <rdg wit="B" type="minus">
+                  <seg>great</seg>
+                  
+ 
+               </rdg>
+               <wit wit="#A" ana=""></wit>
+               <note type="footnote">linked footnote (if here, means it is for the entire rdgGrp</note>
+               <note type="inline">inline </note>
+            </rdgGrp>
+            <rdgGrp>
+               <rdg wit="SyriacC"></rdg>
+            </rdgGrp>
+         </rdgGrp>
+         <rdgGrp type="variant">
+            <!-- rdg/@type e.g. addition/ommission/modification e.g. type="mod" subtype="num" -->
+            <rdg wit="A {witness_id} {potentially_multiple}" 
+               type="plus wav" 
+               subtype="secondaryClassification">
+               <seg>reading full content or added/omitted/modified part </seg>
+               <note type="general">inline note</note>
+                  <!--  <note type="general">(similarly PesiqtaR 33 (153b))</note>-->
+               <note type="cf">content of the linked note or use @target to link it</note>
+            
+            </rdg>
+            <listRef>
+               <!-- links to other apparata asssuming all apparatus entries have the form of app{app-number}_{entry-number}  -->
+               <ref target="app4_3">IV</ref>
+            </listRef>
+         </rdgGrp>
+         
+         <note type="import">original note content, e.g. 2 בהושע] 93 (pm) ביהושעIV (similarly PesiqtaR 33 (153b))</note>
+      </app>
+      </listApp>
+   </standOff>
+  
+</TEI>
